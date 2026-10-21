@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bacterial-persistence-analysis-pipeline"
+version = "1.0.0"
+description = "Analysis pipeline for \"Persistence of Non-industrial Gut Microbiota Discriminates Health and Disease States in Industrial Populations\": depth-corrected diversity, finite-catalogue accumulation, VANISH/BloSSUM differential prevalence, and within-industrial health associations."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Neil Ibata" }]
+keywords = ["microbiome", "metagenomics", "SGB", "diversity", "bioinformatics"]
+
+# Mirrors requirements.txt. Optional analysis extras (statsmodels, cartopy, etc.)
+# are kept as hard deps here so the full pipeline installs in one step.
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "openpyxl",
+    "Pillow",
+    "seaborn",
+    "scikit-learn",
+    "statsmodels",
+    "joblib",
+    "patsy",
+    "shapely",
+    "cartopy",
+]
+
+[project.scripts]
+persistence = "persistence.__main__:main"
+
+[tool.setuptools.packages.find]
+# The package lives at the repository root (not under src/), so `python -m
+# persistence` works with or without an editable install. The figure/table
+# scripts under figures/ are standalone entry points, not importable package
+# modules, and are intentionally excluded.
+include = ["persistence*"]

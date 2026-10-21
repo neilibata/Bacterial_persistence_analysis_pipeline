@@ -1,0 +1,10 @@
+tag,quoted_as
+log10_total_bp_vs_richness_spearman_all_10pct,"Results: sequencing depth strongly associated with recoverable diversity (Spearman rho=0.682, p<10^-300, N=18,075); fig. S9"
+robustness_gmw_10pct,"Results: industrial guts exhibit 61.4+/-1.3% of the richness found in non-industrial populations; Fig. 2, figs. S9, S10, S13"
+axis_stats_permanova_10pct,"Results: agro-pastoralist samples distinct from hunter-gatherer and industrial (combined reference PERMANOVA F=89.5, p=0.001, R2=0.789)"
+axis_angle_mean_pfrac_10pct,"Results: lying partway along the main contrast (median fractional position=0.468)"
+axis_stats_JT_10pct,"Results: ordered trend along the main contrast (Jonckheere-Terpstra, p<0.001)"
+axis_angle_mean_perp_10pct,"Results: systematically displaced off-axis (median perpendicular displacement=0.41)"
+axis_stats_wilcox_trans_10pct,"Results: off-axis displacement differs from zero (Wilcoxon signed-rank, p<0.001)"
+richness_gmw_Obese_10pct,"Results: lower richness in cases of obesity (13 fewer SGBs; p<0.001); Fig. 5D, Table S10"
+richness_gmw_IBD_10pct,"Results: large reduction in IBD (43 fewer SGBs, p=0.007); Fig. 5D, Table S10"

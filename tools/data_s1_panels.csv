@@ -1,0 +1,95 @@
+slot,panel,caption_panel,selects_panel_by,describes
+F1,countries,whole figure,,"Per-country sample counts, sequencing totals and lifestyle composition behind the map"
+F2,axis_angle_samples,F,,"Per-sample position along the hunter-gatherer-to-industrial axis and signed off-axis displacement, by depth bin"
+F2,beta_distribution,"D, E","group, metric","The two beta-diversity distributions at half-percentile resolution (201 points each), which reproduces the drawn shape; the full 6.57 million pairwise distances remain in the archived data object"
+F2,beta_summary,"D, E",metric,Summary of the pairwise beta-diversity distributions: Jaccard (D) and Bray-Curtis (E)
+F2,comparisons,"D, E",Metric,"P values behind the pairwise significance brackets, recomputed from the summarised distributions by the same two-sided normal approximation the figure draws"
+F2,per_sample,"A, B, C",,"Per-sample depth, richness and GMW weight: the depth distributions (A) and the raw (B) and GMW-corrected (C) richness distributions"
+F3,accumulation,A-F,"reference, unit","SGB accumulation curves: Carter/UHGG (A, B), Leviatan (C, D), combined (E, F); against pooled samples (A, C, E) or pooled studies (B, D, F)"
+F3,fits,A-F,"reference, unit",Fitted 4-parameter Richards curves and asymptotes for the same six panels
+F4,abund_df,H,,"GMW-weighted CLR abundance difference per taxon, with p-values: the volcano plot in H"
+F4,accumulation,A-D,"taxon_list, pooling_unit","Accumulation of VANISH (A, C) and BloSSUM (B, D) taxa against pooled samples (A, B) or pooled studies (C, D), as bootstrap quantile ribbons"
+F4,accumulation_replicates,A-D,"taxon_list, pooling_unit",The individual bootstrap replicate curves the A-D ribbons are quantiles of
+F4,detection_samples,"E, F",arm,"Per-taxon samples required for 50% detection probability, in industrial (E) and non-industrial (F) samples, with list membership"
+F4,prev_df,G,,"GMW-weighted prevalence difference per taxon, with p-values: the volcano plot in G"
+F5,energy_p,E,"Condition, Taxon_list","Energy-distance permutation p-values, used as the fallback annotation in E"
+F5,panel_d,D,,"GMW-corrected richness in cases and controls by condition, with the study-stratified test"
+F5,panel_e_all_taxa,E,Condition,"Every scored taxon, including those not on a focal list"
+F5,panel_e_background,E,"Condition, Taxon_list",The prevalence-matched background taxa the list is read against
+F5,panel_e_curve_grid,E,Condition,The fitted background curve and its plus/minus 1 SD band
+F5,panel_e_curve_summary,E,"Condition, Taxon_list",List-level mean z with its bootstrap interval and p-value
+F5,panel_e_curve_taxa,E,"Condition, Taxon_list",Per-taxon z against the fitted background expectation
+F5,panel_e_taxa,E,"Condition, Taxon_list",Focal list taxa: case-control prevalence difference against control prevalence
+F5,panel_fgh_paired,H,"Condition, Family","Each Carter list value paired with its two counterparts from this study, as absolute distance from the background"
+F5,panel_fgh_per_cell,"F, G, H","Condition, Family, Role","Mean z with bootstrap interval and p for all six lists: VANISH family (F) and BloSSUM family (G), and the per-cell values compared in H"
+F5,per_sample,"A, B, C",,"Per-sample depth, richness and GMW weight behind the depth distributions (A) and the raw (B) and corrected (C) richness distributions"
+S1,catalogue_rate,B,reference,The same quantity for each reference catalogue separately
+S1,depth_bins,D,,Median mapped fraction by decile of sequencing depth
+S1,read_accounting,A,,"Share of sequenced bases retained after trimming, host removal and alignment, by lifestyle"
+S1,sample_fraction,C,,Per-sample mapped fraction: the distributions in C
+S1,stats,"C, D",,Mann-Whitney on study medians (C) and the per-group Spearman of mapped fraction against depth (D)
+S1,study_fraction,C,,Per-study median mapped fraction: the points beside each violin in C
+S10,samples,whole figure,detection,"Per-sample richness and depth, full-cohort GMW comparison"
+S10,stats,whole figure,detection,The tests behind the significance brackets
+S11,comparisons,whole figure,"spec, comparison","Group means, effective sample sizes, intervals and p-values for each contrast"
+S11,samples,whole figure,detection,Per-sample richness and depth by lifestyle and health group
+S12,comparisons,whole figure,"spec, comparison","Group means, effective sample sizes, intervals and p-values for each contrast"
+S12,samples,whole figure,detection,"Per-sample richness and depth, three-way healthy-industrial comparison"
+S13,sweep,whole figure,"mode, threshold","GMW-corrected richness difference across detection thresholds, with intervals"
+S14,richness_by_depth,A-F,"spec, subset","Per-sample richness against depth by read-length tercile: 300 kb rule (A-C) and 10% breadth rule (D-F), for all samples (A, D), industrial (B, E) and non-industrial (C, F)"
+S14,samples,G,,Per-sample mean read length and tercile by lifestyle
+S14,stats,H,,Spearman of the depth-adjusted richness residual against read length
+S14,tercile_summary,I,"spec, subset",Predicted richness at 3 Gb by read-length tercile and lifestyle
+S15,accumulation,A-F,"reference, unit","SGB accumulation curves under the Hill-type fit: Carter (A, B), Leviatan (C, D), combined (E, F); samples (A, C, E) or studies (B, D, F)"
+S15,fits,A-F,"reference, unit",Fitted 3-parameter Hill-type Michaelis-Menten curves and asymptotes for the same six panels
+S16,accumulation_curves,"A, D, G, J",row_label,"Bootstrap-median accumulation curves and fits, one row per minimum-sample threshold k"
+S16,bootstrap_asymptotes,"C, F, I, L",row,Bootstrap summary of the inferred asymptote
+S16,bootstrap_replicates,"C, F, I, L",row_label,The individual bootstrap asymptote estimates those distributions are drawn from
+S16,metrics,"A, D, G, J",row,Fit quality for those curves
+S16,profile_support,"B, E, H, K",row_label,Profile support for candidate asymptotes
+S17,accumulation_curves,"A, D, G",row_label,"Bootstrap-median accumulation curves and fits, one row per breadth threshold"
+S17,bootstrap_asymptotes,"C, F, I",row,Bootstrap summary of the inferred asymptote
+S17,bootstrap_replicates,"C, F, I",row_label,The individual bootstrap asymptote estimates those distributions are drawn from
+S17,metrics,"A, D, G",row,Fit quality for those curves
+S17,profile_support,"B, E, H",row_label,Profile support for candidate asymptotes
+S18,bins,whole figure,,Per-depth-bin axis position and off-axis displacement
+S19,study_centroids,whole figure,,Per-study centroid in axis space
+S2,Agro-pastoralist,whole figure,,"Technical-replicate richness pairs, agro-pastoralist samples"
+S2,Hunter-gatherer,whole figure,,"Technical-replicate richness pairs, hunter-gatherer samples"
+S2,Industrial,whole figure,,"Technical-replicate richness pairs, industrial samples"
+S20,bins,whole figure,,"Median richness and coefficient of variation per depth bin, by lifestyle"
+S20,stats,whole figure,,"Kruskal-Wallis across lifestyles, the BH-corrected pairwise comparisons, the label-permutation test, and the per-lifestyle depth-richness Spearman"
+S21,gmw_prevalence,whole figure,,GMW-weighted prevalence per taxon for those lists
+S21,list_membership,whole figure,,Overlap between the Carter lists and the lists defined here
+S22,detection,whole figure,,Taxa recovered per disease category
+S22,group_sizes,whole figure,,Sample counts per category
+S23,Ind-Healthy,whole figure,,"Per-sample sequencing depth, healthy industrial samples"
+S23,Ind-Unhealthy,whole figure,,"Per-sample sequencing depth, unhealthy industrial samples"
+S23,Non-Industrial,whole figure,,"Per-sample sequencing depth, non-industrial samples"
+S24,comparisons,whole figure,"spec, comparison","Group means, effective sample sizes, intervals and p-values for each contrast"
+S24,samples,whole figure,detection,"Per-sample richness and depth, non-industrial against industrial health groups"
+S25,all_taxa,whole figure,Condition,Every scored taxon
+S25,curve,whole figure,Condition,The fitted background curve and its band
+S25,list_taxa,whole figure,"Condition, Taxon_list",Carter-list taxa against their prevalence-matched background
+S25,summary,whole figure,"Condition, Taxon_list",List-level mean z with interval and p-value
+S26,clades,whole figure,"Condition, rank, clade",Clade-level summary for every clade tested
+S26,contrasts,whole figure,"Condition, rank, clade, list","Within-clade contrast, permutation p and BH q for every clade"
+S26,panels,whole figure,,"The six clade-by-list-by-condition contrasts the figure draws, in order"
+S26,points,whole figure,"Condition, rank, clade, list","Per-taxon z within each drawn clade, split by list membership"
+S27,drivers,whole figure,,Per-taxon driver statistics with bootstrap p and BH q
+S28,drivers,whole figure,,Per-taxon driver statistics with bootstrap p and BH q
+S29,drivers,whole figure,,Per-taxon driver statistics with bootstrap p and BH q
+S3,all,whole figure,,"Technical-replicate richness pairs, all samples pooled"
+S30,drivers,whole figure,,Per-taxon driver statistics with bootstrap p and BH q
+S31,cohort_counts,whole figure,,Cohort sizes at each stage of the roadmap
+S4,Agro-pastoralist,whole figure,,"Per-sample sequencing depth, agro-pastoralist samples"
+S4,Hunter-gatherer,whole figure,,"Per-sample sequencing depth, hunter-gatherer samples"
+S4,Industrial,whole figure,,"Per-sample sequencing depth, industrial samples"
+S5,samples,whole figure,,"Per-sample richness and depth, Carter-cohort GMW comparison"
+S5,stats,whole figure,detection,The tests behind the significance brackets
+S6,samples,whole figure,"detection_mode, pair_index",Per-sample richness and depth for each lifestyle pair
+S6,stats,whole figure,"detection_mode, pair_index",The tests behind the significance brackets
+S7,sweep,whole figure,"mode, threshold","GMW-corrected richness difference across detection thresholds, with intervals"
+S8,samples,whole figure,,Per-sample GMW weights against depth
+S9,forest,J,"method, detection",The six method-by-threshold richness ratios with 95% intervals and p-values: the forest plot in J
+S9,samples,"A, B, D-I","method, detection_key","Per-sample richness and depth under each correction method and detection rule: uncorrected (D, G), depth-matched (E, H) and GMW (F, I); also the depth distributions (A) and depth-stratified medians (B)"

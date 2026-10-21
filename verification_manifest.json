@@ -1,0 +1,708 @@
+{
+ "_generated_on": {
+  "python": "3.9.19",
+  "platform": "macOS-14.6.1-x86_64-i386-64bit",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "git_commit": "2a6fa79620a229739e2fc085a86aaed93b0a0a17"
+ },
+ "sigfigs": 8,
+ "inputs": {
+  "Vanish_list.txt": {
+   "path": "Vanish_list.txt",
+   "bytes": 1926,
+   "sha256": "0f97409cbe4387a6ebfa1816621fbcd1acd5ac9a03627a61abb586cdac742484",
+   "value_hash": "63f79b8cfbd20524f60bc9f26a3ef27a5404767c2cf68e6885411e0473cedbb7"
+  },
+  "Blossum_list.txt": {
+   "path": "Blossum_list.txt",
+   "bytes": 890,
+   "sha256": "d01c60aa6dc91cbaa1fce9bda7c64c45e61e89ee252e4f3e011a1706210fa963",
+   "value_hash": "d760e5a801024b846e799ec29196d9c61d907e10099efffd33b1aacfbf8edbbd"
+  },
+  "Vanish_phylo.txt": {
+   "path": "Vanish_phylo.txt",
+   "bytes": 15540,
+   "sha256": "0e4e297f01c72e1c1f3f74588576e54bdbdcf13910be8ef45f8653a0c2eb2636",
+   "value_hash": "f5a104f0e82546372a7c5029f819ffdc914aa0eece16225281ceb5d236707131"
+  },
+  "Blossom_phylo.txt": {
+   "path": "Blossom_phylo.txt",
+   "bytes": 8649,
+   "sha256": "1f4f570a0df2b1215b6752409700f020ee047dfde4166ccb3ef4347ef909d6f7",
+   "value_hash": "79eef2e6d5a02c48c868a239cc6d2007c08c228f5c47a89c9ba93c1369f6bb1c"
+  },
+  "all_SGB_lengths_UHGG.txt": {
+   "path": "all_SGB_lengths_UHGG.txt",
+   "bytes": 90883,
+   "sha256": "cd90c049871f1bd0fd662c6bdd0efd472144ea5e08c70eac05872dc3d3b0c6f7",
+   "value_hash": "ff1f79a73ff9d5e3a22525fb8072cc9e2b33dfecabbe45cb56945b5e005b4cf7"
+  },
+  "all_SGB_lengths_lev.txt": {
+   "path": "all_SGB_lengths_lev.txt",
+   "bytes": 59937,
+   "sha256": "dc5c850f9052c0c5c042b595c428cb450a1fc02039213685411d3c6e372853f6",
+   "value_hash": "ad64c2912322eb5ab64313cba5f78a9182bdb22a64c582e0174f79de5320b53b"
+  },
+  "all_SGB_lengths_combined.txt": {
+   "path": "all_SGB_lengths_combined.txt",
+   "bytes": 103025,
+   "sha256": "18678c2b9bf2532b760eab54863d080f884d5441891112a15838c6fc5de72f33",
+   "value_hash": "e208efb02a3c554b6eb65181d1516c776f913896b0de4d6bf2814fbc42beccf9"
+  },
+  "all_SGB_lengths_chimp.txt": {
+   "path": "all_SGB_lengths_chimp.txt",
+   "bytes": 85305,
+   "sha256": "dd7c2acb7ad5d26a34322f43774204849c4b182089a18803543bfd9d4d2c600c",
+   "value_hash": "aea8c12b7fe2b0a20078a7d07908a6e72a4d8772810639148f734e194b6e31c7"
+  },
+  "combined_sgb_metadata.xlsx": {
+   "path": "combined_sgb_metadata.xlsx",
+   "bytes": 2302395,
+   "sha256": "87478127bdd4d848223643020d12d2181e304ecbd8dc391a055733189c58d6a5",
+   "value_hash": "abe6a14b2da9f059ff8091c92bdaf1fcfae4a3b5b8640d33d3222a8ea046e103"
+  }
+ },
+ "external_inputs": {
+  "combined_coverage_matrix_20260812.csv": {
+   "path": "combined_coverage_matrix_20260812.csv",
+   "bytes": 3048173783,
+   "sha256": "fee636d00d486d145795e41c467d0b5ef04b0f594db60372a97b7f3d26ed54a6",
+   "value_hash": null
+  },
+  "combined_coverage_matrix_20260820.csv": {
+   "path": "combined_coverage_matrix_20260820.csv",
+   "bytes": 3057126187,
+   "sha256": "d5809f4e15572ee7a4a71881a7b4495a0e7add4075831537dea4be1636b291da",
+   "value_hash": null
+  },
+  "combined_depth_matrix_20260812.csv": {
+   "path": "combined_depth_matrix_20260812.csv",
+   "bytes": 3096844829,
+   "sha256": "c773cfaa5117fb9234958eb058c0aa5147bda2cc2a8024dccd63e083376cf8cc",
+   "value_hash": null
+  },
+  "combined_depth_matrix_20260820.csv": {
+   "path": "combined_depth_matrix_20260820.csv",
+   "bytes": 3105134567,
+   "sha256": "7081e0427281d63ebf5e60c19c1366c59f655ba39e586692089d1706aa5aec15",
+   "value_hash": null
+  },
+  "final_run/metadata_M1.csv": {
+   "path": "final_run/metadata_M1.csv",
+   "bytes": 9664154,
+   "sha256": "06031e18894a6354d09a71df7e68a2b8fcbe3a8c0c1690e12881c64c2e0ed346",
+   "value_hash": "8124960630f74bc7b1df8e3043174c795d6c66d92b295f776ea56d5bac3b3fef"
+  }
+ },
+ "derived": {
+  "metadata_M2.xlsx": {
+   "path": "metadata_M2.xlsx",
+   "bytes": 2461656,
+   "sha256": "60d87f95c4ffa35c6f639d99ad75bf58940475a7ce14325d39bec71cfd378196",
+   "value_hash": "f0bf0c893f6eaa1ce5cc9e13b68054c0b93d8f610b7a3171dd310bbbb952f857"
+  },
+  "metadata_M3.xlsx": {
+   "path": "metadata_M3.xlsx",
+   "bytes": 169613,
+   "sha256": "3fe66cb4421d95d0501a1f05dc86f8c54ca8fb5bc00ddec9532724f0afb10f6a",
+   "value_hash": "4e469804d5f2f7a46c14e25c24b4138e6426bfec732d47ff0056dc3bf81e8cc3"
+  },
+  "Data_S2_metadata_M1.xlsx": {
+   "path": "Data_S2_metadata_M1.xlsx",
+   "bytes": 7817836,
+   "sha256": "d22fe7a79c020285e4fa31f366cce917a3596ce39fc4d84fc843c7f20ad0a105",
+   "value_hash": "c04f456518a46d2424b49b1cb52876b230ea30c73b252cb03fd9b6876bbbec3e"
+  }
+ },
+ "outputs": {
+  "results/UHGG/stats_report.csv": {
+   "path": "results/UHGG/stats_report.csv",
+   "bytes": 121433,
+   "sha256": "b5a4034cfabec8155fee671be22a7e54e4050bed29b5ae8a342f1b7fd11f73c2",
+   "value_hash": "aa23e5792d08b4eac2ae919bb9c154fe67c570421c38dc2f7d57efa6d032674b"
+  },
+  "results/combined/stats_report.csv": {
+   "path": "results/combined/stats_report.csv",
+   "bytes": 253106,
+   "sha256": "173aaae1d9ae96a571fcff33704cdd8e5e402f3b29f88a12016ad982313dff9f",
+   "value_hash": "11672d7732d4c26099349d53a34db361fd606338e94916b44dc77ebcb5e4c63a"
+  },
+  "results/UHGG/table_s1a_study_summary_formatted.csv": {
+   "path": "results/UHGG/table_s1a_study_summary_formatted.csv",
+   "bytes": 21178,
+   "sha256": "66924f3a8700bbfb68794296b3fc389fb83f4b8b517ab36fd8142be2be11ba0c",
+   "value_hash": "18ac5e2c09e3dcbc4b2118860151d0693b0839166d6a266cae6052592cdf5181"
+  },
+  "results/combined/section2_differential/supplement/table_s5_overlap_summary.csv": {
+   "path": "results/combined/section2_differential/supplement/table_s5_overlap_summary.csv",
+   "bytes": 476,
+   "sha256": "f9bbe893e1ffd0bce9d303f4bcd034e3e6daf2e553cc1e9799d1226291b6f137",
+   "value_hash": "fac701a417b0c5b1960afc887b746dcb5ef1dc88934639f3a1789c10dddd022e"
+  },
+  "results/combined/section3_health/main/health_per_condition_cmh_10pct.csv": {
+   "path": "results/combined/section3_health/main/health_per_condition_cmh_10pct.csv",
+   "bytes": 37875,
+   "sha256": "f15e21154f94983f9f5dccbf97d2eb7d3f1f8f874ddbc6e8832bf57174a4b483",
+   "value_hash": "b1488719ce323c7fd29f8c557b4dc3917f142956e37463d14ac5c954d796bc7f"
+  },
+  "results/combined/section3_health/main/health_binomial_tests_10pct.csv": {
+   "path": "results/combined/section3_health/main/health_binomial_tests_10pct.csv",
+   "bytes": 25169,
+   "sha256": "c47040ec5b68809acc58df52b0c8c532675ac8eb1c02d72d68fc25d0f12e7d15",
+   "value_hash": "4feeca1dad1d5ac7cc54f15ab305232d1ecde224f548324cb92d56722763774d"
+  },
+  "results/UHGG/section2_differential/main/vanish_plus_ids.txt": {
+   "path": "results/UHGG/section2_differential/main/vanish_plus_ids.txt",
+   "bytes": 1496,
+   "sha256": "2fea8f3aab0376c99e41f8a7bddb48dc48ed9529c8c8713eabed8ab57b95c305",
+   "value_hash": "10087d6c2b067e628a4e035a27e9d630991d73dcacbc7b5f940c88ed0a1ba69b"
+  },
+  "results/UHGG/section2_differential/main/blossum_plus_ids.txt": {
+   "path": "results/UHGG/section2_differential/main/blossum_plus_ids.txt",
+   "bytes": 1416,
+   "sha256": "afb9a25c1cc9b7fbb6fc395c98b5daed2e9dc547bd7b1841be3ac29993722929",
+   "value_hash": "fd9199b42d252f48cb07b2f14e3d9dd57b8da0f986a89eee711ad1ed2a49d83a"
+  },
+  "results/UHGG/section2_differential/main/vanishH_ids.txt": {
+   "path": "results/UHGG/section2_differential/main/vanishH_ids.txt",
+   "bytes": 1494,
+   "sha256": "5ea9a4ee5df0a4b55cb93c7755b52d245ba0297db2d824091218681dd6d73716",
+   "value_hash": "c4654589c7722c4367c6ac11c47083702fdde888a84ca55ee66e919c7e3d1003"
+  },
+  "results/UHGG/section2_differential/main/blossumH_ids.txt": {
+   "path": "results/UHGG/section2_differential/main/blossumH_ids.txt",
+   "bytes": 1424,
+   "sha256": "56bf15e2587ddc2f0a98e37e3ce53e7d7bdd0bf2abe9ff0be0d8dd68958586aa",
+   "value_hash": "fa8945d3e1525dbe04ea2064a7052963ae093d821b3b37bfc4add3066f9c2ab1"
+  },
+  "results/combined/section2_differential/main/vanish_plus_ids.txt": {
+   "path": "results/combined/section2_differential/main/vanish_plus_ids.txt",
+   "bytes": 1339,
+   "sha256": "e85da870b20b11d6b91ff2df886fa9c9c700f77dcf1530f3d6efc03b54c34ba1",
+   "value_hash": "03aae175b8b9500fa11864cdceb56ea905817b3347711e6d30498e66f263f353"
+  },
+  "results/combined/section2_differential/main/blossum_plus_ids.txt": {
+   "path": "results/combined/section2_differential/main/blossum_plus_ids.txt",
+   "bytes": 1198,
+   "sha256": "26d00775bc00d083468365dc8acacd916304e5b07ed2ff953451a41beb45f40c",
+   "value_hash": "0c389f65d1a813c681a75009554eafb4da99cd07548c7338d3997f36035ae223"
+  },
+  "results/combined/section2_differential/main/vanishH_ids.txt": {
+   "path": "results/combined/section2_differential/main/vanishH_ids.txt",
+   "bytes": 1336,
+   "sha256": "57346adf40269397881f9e050f5a4d362efdb05262f1f22623a5627e6caa99c2",
+   "value_hash": "7dc65a452e147401a871808a678262a0a99a873995591f98595682c6d974df5e"
+  },
+  "results/combined/section2_differential/main/blossumH_ids.txt": {
+   "path": "results/combined/section2_differential/main/blossumH_ids.txt",
+   "bytes": 1182,
+   "sha256": "ea07a6ee8533e87f0dd130e0b088f6caf573f1c2590e4a9ae1386f3aa84f9727",
+   "value_hash": "8937f9e57717329c102becbf871b10c77a7dc7fb782850268c89fc27dcc523aa"
+  },
+  "results/combined/section3_health/main/health_richness_gmw_10pct.csv": {
+   "path": "results/combined/section3_health/main/health_richness_gmw_10pct.csv",
+   "bytes": 1591,
+   "sha256": "da4361374d7b29a6236160892a6f861b373f73216876698ddfde9ae0023ad40c",
+   "value_hash": "25c8880ad89e63255cc22d0191e42c2281dc94679261ee66fa55983adfcfd7fc"
+  },
+  "results/combined/section3_health/main/health_per_taxon_gmw_10pct.csv": {
+   "path": "results/combined/section3_health/main/health_per_taxon_gmw_10pct.csv",
+   "bytes": 1038881,
+   "sha256": "039b133bbf79912dd3282467c6e3efdb96e078623ec47fad197339a32519940b",
+   "value_hash": "af62c0c6191126d56e191ab0e6e041bfabf5625040b15673dd53cd5b05542d06"
+  },
+  "results/combined/section3_health/main/health_per_taxon_prevmatched_10pct.csv": {
+   "path": "results/combined/section3_health/main/health_per_taxon_prevmatched_10pct.csv",
+   "bytes": 31341299,
+   "sha256": "5fb7cd76fa0aaf0fe9a04254113857d7a797a7371688459e6d76f881963ee719",
+   "value_hash": "ccd5bad15bdf77e7099cc095ce8e31df0b14134dfc2332bb342533760fe91fbc"
+  },
+  "results/combined/section3_health/main/demographic_richness_gmw_10pct.csv": {
+   "path": "results/combined/section3_health/main/demographic_richness_gmw_10pct.csv",
+   "bytes": 1429,
+   "sha256": "c1082b0d575a17b8285ab65df0cfe21e73f5564a2d50fa7d73ebc7d0c8aa822f",
+   "value_hash": "b78aef36294b3cefb6721f45e006bea7cde3d11d823cad61280fe6a4f3d2565f"
+  },
+  "results/combined/section3_health/main/demographic_per_taxon_gmw_10pct.csv": {
+   "path": "results/combined/section3_health/main/demographic_per_taxon_gmw_10pct.csv",
+   "bytes": 840405,
+   "sha256": "65d31545c7fb67ac3f543b8e3520972bf1e434d69712520124c7496a0aa69af3",
+   "value_hash": "75597fbd9acb02ca6244d279d7eab83f336529232d95d5519e507d31c8b7f846"
+  },
+  "results/combined/section3_health/main/demographic_per_taxon_prevmatched_10pct.csv": {
+   "path": "results/combined/section3_health/main/demographic_per_taxon_prevmatched_10pct.csv",
+   "bytes": 23138031,
+   "sha256": "34222c17a504eec17cdabfd2e764f766b95a77eefe459fdb0afe45f21f22fb6c",
+   "value_hash": "be81ee6b474d01a03fe928b0a895547a9e52f63c1ba058d9ecbad9be7d78e4ac"
+  },
+  "results/combined/section3_health/main/demographic_table_s10a_unadjusted_10pct.csv": {
+   "path": "results/combined/section3_health/main/demographic_table_s10a_unadjusted_10pct.csv",
+   "bytes": 5286,
+   "sha256": "17d8c8682bb720d76622d8224ae0d0d5e42979bd2f04d3ad45fef2b22c5a7c26",
+   "value_hash": "a4811f1f69d858756975e199fe9598483024b1b78ad49688ac4a4982b710e287"
+  },
+  "results/combined/section3_health/main/demographic_table_s10b_energy_first_10pct.csv": {
+   "path": "results/combined/section3_health/main/demographic_table_s10b_energy_first_10pct.csv",
+   "bytes": 7309,
+   "sha256": "efd4f425f7c29b50bcb3e4e3f193a3269bbbe4efa03ba3fdd938681f3298fe3f",
+   "value_hash": "90e863a17150c5e4b2ba61b943f7f8d9aa93288d726c19bad0937f8d03e3b2fd"
+  },
+  "results/combined/section3_health/main/demographic_cohorts.csv": {
+   "path": "results/combined/section3_health/main/demographic_cohorts.csv",
+   "bytes": 678,
+   "sha256": "25028cbf1d49a94c4bf5aa28750905a5a6aab98a65dfc61f704e0193516b7f9c",
+   "value_hash": "99dd00163ac4f86026ce90f79e3327e3b7892d4dd37e98663978fdc66fb81b01"
+  },
+  "results/combined/section3_health/main/demographic_field_coverage.csv": {
+   "path": "results/combined/section3_health/main/demographic_field_coverage.csv",
+   "bytes": 653,
+   "sha256": "0f1aea4b2c9c1a865af2b3e75f721f504be098f95f7281a373c42a87de143262",
+   "value_hash": "6fdb5d98d6ee21c309cbfe5331f58145c684a23aec2be270e94186c925b38f30"
+  },
+  "results/UHGG/section1_diversity/main/axis_angle_v2_stats_10pct.csv": {
+   "path": "results/UHGG/section1_diversity/main/axis_angle_v2_stats_10pct.csv",
+   "bytes": 844,
+   "sha256": "fcc42014e2b0da48cf2d05ac6fd8ff9e458633f63854589c85d7b5d09a92aae3",
+   "value_hash": "8638ec80dbee5ec069f1170f182e93c783ab04d7ea86887f534eb63ba5f11289"
+  }
+ },
+ "figures": {
+  "main_text_figures/figure1.pdf": {
+   "path": "main_text_figures/figure1.pdf",
+   "bytes": 152254,
+   "sha256": "fbd7c33215f96da76f0b42f467951499842a17e09d8046eb62282905122380c1",
+   "value_hash": "fbd7c33215f96da76f0b42f467951499842a17e09d8046eb62282905122380c1"
+  },
+  "main_text_figures/figure2.pdf": {
+   "path": "main_text_figures/figure2.pdf",
+   "bytes": 321903,
+   "sha256": "14a7308f5371b2513ad0fcd6bed11550df3891455c9933a94f4d1614df62522a",
+   "value_hash": "14a7308f5371b2513ad0fcd6bed11550df3891455c9933a94f4d1614df62522a"
+  },
+  "main_text_figures/figure3.pdf": {
+   "path": "main_text_figures/figure3.pdf",
+   "bytes": 265937,
+   "sha256": "5de5b6700f1e2046f143737856bea14de6ef60e89f3ff2dd2f5e2ac0eedf5dcd",
+   "value_hash": "5de5b6700f1e2046f143737856bea14de6ef60e89f3ff2dd2f5e2ac0eedf5dcd"
+  },
+  "main_text_figures/figure4.pdf": {
+   "path": "main_text_figures/figure4.pdf",
+   "bytes": 356979,
+   "sha256": "8b461dbd9c1ff1a3e961ad1fa4ea81346c61d67dc1ec7cd065861c0a430d41be",
+   "value_hash": "8b461dbd9c1ff1a3e961ad1fa4ea81346c61d67dc1ec7cd065861c0a430d41be"
+  },
+  "main_text_figures/figure5.pdf": {
+   "path": "main_text_figures/figure5.pdf",
+   "bytes": 423360,
+   "sha256": "b61de456bc1cd4c00fb7ea322d9b2f218840b85d4c0685f24a4ce6eda040385b",
+   "value_hash": "c1f0b10d2dff5591a8a9287f994e81963ab8686d3c6422fde62b95d7ff8f80e9"
+  }
+ },
+ "supp_figures": {
+  "results/combined/section1_diversity/supplement/read_accounting_combined.png": {
+   "path": "results/combined/section1_diversity/supplement/read_accounting_combined.png",
+   "bytes": 341759,
+   "sha256": "98205d3629a3a66583ec5a120a92694df5ac56642fd320a158bc7a278f0bc768",
+   "value_hash": "0df3fcc414bdfe2bebbb1c7bd34752683c88c5fb8fb5414d56b6d77395b75997"
+  },
+  "results/combined/section1_diversity/supplement/tech_rep_alpha_scatter_10pct.png": {
+   "path": "results/combined/section1_diversity/supplement/tech_rep_alpha_scatter_10pct.png",
+   "bytes": 204887,
+   "sha256": "c6757e61bf697484cdffbd809065d5fca279d2fc368ee51cdcaa243a1430b92b",
+   "value_hash": "16adcc06e3993745a42c1fb26856629def7c17f5e4b315dd60f3763e34aaff8a"
+  },
+  "results/combined/section1_diversity/supplement/tech_rep_depth_vs_bc_10pct.png": {
+   "path": "results/combined/section1_diversity/supplement/tech_rep_depth_vs_bc_10pct.png",
+   "bytes": 206133,
+   "sha256": "213d1c661106af1b96276a3c255162437f8c69f2227ac378c5f7ffb3a7334d2e",
+   "value_hash": "3f3346f919489155d53f29f5181e6f7595f7aedb61e32afed59cdab3d156b196"
+  },
+  "results/combined/depth_audit/depth_by_lifestyle.png": {
+   "path": "results/combined/depth_audit/depth_by_lifestyle.png",
+   "bytes": 65776,
+   "sha256": "695b36f6b2cadcfb4cad99bae2f120c90d407562345284573229dad9a925c027",
+   "value_hash": "dfe919b868ddca6044d994e3a1919c75e557e03acab8bc272f999e0babd50e91"
+  },
+  "results/combined/carter_analysis/carter_gmw_richness_main.png": {
+   "path": "results/combined/carter_analysis/carter_gmw_richness_main.png",
+   "bytes": 360080,
+   "sha256": "1fc1544b119ceb6236bbf26d7489d74cf1f8308b2144cdd44318891b23f6775d",
+   "value_hash": "83cdad2df832830ffeed0cd4f9e3c6bad770a45b0a6f68f36c1dff7d5cfa31c8"
+  },
+  "results/combined/carter_analysis/carter_richness_pairwise_corrected.png": {
+   "path": "results/combined/carter_analysis/carter_richness_pairwise_corrected.png",
+   "bytes": 692492,
+   "sha256": "e836ae47d0bacf27807fdd02b9982dadf4d51cfb08aa15262b9ba80c7215af10",
+   "value_hash": "3b790a4a58e35b67c4e41b532982b4852f1caf11eed3b5f34a3ad9c47d14b346"
+  },
+  "results/combined/carter_analysis/gmw_threshold_sweep.png": {
+   "path": "results/combined/carter_analysis/gmw_threshold_sweep.png",
+   "bytes": 153940,
+   "sha256": "2685faa4e9c65cf5d0d119a138daa733cec3370d214a25133a9d139562be889c",
+   "value_hash": "4c9a73af47802697e4134eebcccfe3da9ca09fb4202d74a306c110a0fdcbc67b"
+  },
+  "results/combined/carter_analysis/carter_gmw_weight_diagnostics_10pct.png": {
+   "path": "results/combined/carter_analysis/carter_gmw_weight_diagnostics_10pct.png",
+   "bytes": 232221,
+   "sha256": "744e0335e0fe8a9d54663adbd80e7da9285a40d9d81cd1cd44eb0a9879b9f043",
+   "value_hash": "48573954e1c7476af91bcb37b033a1a8a0c42caa1998d5e6f6f7da8e242e0d0d"
+  },
+  "results/combined/section1_diversity/main/figure_robustness_alpha.png": {
+   "path": "results/combined/section1_diversity/main/figure_robustness_alpha.png",
+   "bytes": 912424,
+   "sha256": "e0442bd4e3113bd7d7c626e72919303985d78bdf06fcf71abce89f53fd06d055",
+   "value_hash": "ec3e949389c821e9e20ffa8c3465a28010d5bffe1ea7f10b1b0f1cd7954879ec"
+  },
+  "results/combined/section1_diversity/main/gmw_richness_main.png": {
+   "path": "results/combined/section1_diversity/main/gmw_richness_main.png",
+   "bytes": 375753,
+   "sha256": "d9daa355f3c8918fa42ec5d788f9f92e6586d549fa0ce3453a98e13ab7600a32",
+   "value_hash": "af6defaf25c07bb4e3c2ea10d2d31bfbffb8b371c611222f7bb0464372ea411c"
+  },
+  "results/combined/section3_health/main/health_richness_gmw_combined_lifestyle_all_10pct.png": {
+   "path": "results/combined/section3_health/main/health_richness_gmw_combined_lifestyle_all_10pct.png",
+   "bytes": 653247,
+   "sha256": "00c186cfe17f1072403c8f4bfcd7d56127801489da923e19b1cf174cd86a4e97",
+   "value_hash": "0a57bf788c0f09cbed15bf5e331e8a01cb608ea2442edb8261550852c6fabb8c"
+  },
+  "results/combined/section3_health/main/health_richness_gmw_combined_lifestyle3_10pct.png": {
+   "path": "results/combined/section3_health/main/health_richness_gmw_combined_lifestyle3_10pct.png",
+   "bytes": 663490,
+   "sha256": "0a63270341920b458423c8a12f1933a073d7cb547d28633b5243812a108fb315",
+   "value_hash": "b0fba30713cce8253b9eb3414f47a494f1326fc980cf100ba190af023ad14b6c"
+  },
+  "results/combined/depth_bias_ipw/gmw_threshold_sweep.png": {
+   "path": "results/combined/depth_bias_ipw/gmw_threshold_sweep.png",
+   "bytes": 143054,
+   "sha256": "88c91c2a908c509c75e8cdbec357c1760b6accea67518719ab76b643dcfeb5ad",
+   "value_hash": "2db2ec75b0e538042724cd87237a9e0182d64524834126bf0677d173cf1717f0"
+  },
+  "results/combined/section1_diversity/main/figure_read_length_diagnostic.png": {
+   "path": "results/combined/section1_diversity/main/figure_read_length_diagnostic.png",
+   "bytes": 895170,
+   "sha256": "b72e22bfa1f1bcd45f3ed813b0838ad9012388584d3c92cfe218190acaaacfc4",
+   "value_hash": "1608eb6a54a52610ced039bf79ca2c32d46c32443ab1d22f65d34da5a35caff4"
+  },
+  "results/Figure3_combined/figure3_combined_regenerated_10pct_hill.png": {
+   "path": "results/Figure3_combined/figure3_combined_regenerated_10pct_hill.png",
+   "bytes": 630477,
+   "sha256": "5ffafcdbb7024c1f70ef3c3cca3408b7576f812f64b28a4d4cae431f7ae773bf",
+   "value_hash": "02ce3e5eb6837d3956ffe4c6d4b2b1bbfed56ea423be289db999aa508979c71b"
+  },
+  "results/Figure3_combined/figure_a17_accumulation_sinf_mink_medium.png": {
+   "path": "results/Figure3_combined/figure_a17_accumulation_sinf_mink_medium.png",
+   "bytes": 424477,
+   "sha256": "9d50a5dd7c6d7c93b834738795fcdb3554e93a80574ee3b493266e2076a32375",
+   "value_hash": "793799cee2b79337578c2ea1496b45deaec81bc9c41909237f57895a5492cecd"
+  },
+  "results/Figure3_combined/figure_a16_accumulation_sinf_thresholds_medium.png": {
+   "path": "results/Figure3_combined/figure_a16_accumulation_sinf_thresholds_medium.png",
+   "bytes": 368415,
+   "sha256": "4d1a9d28cd223ec1aacf189c113cd55283d2b7b9efd816472ff206b1e6a25f15",
+   "value_hash": "74225a93677009848dfc19e477b1bbfc9cbe6105aab5b6192a53ca95300dbbd5"
+  },
+  "results/combined/section1_diversity/main/axis_angle_v2_10pct.png": {
+   "path": "results/combined/section1_diversity/main/axis_angle_v2_10pct.png",
+   "bytes": 319775,
+   "sha256": "6d6923fe4b78d7066dccc8c92e4709e8ae3de950410d19ea1d8c199356931fc9",
+   "value_hash": "3558fc1d2d6bc513fcb49c6ec0ca150e496543ea363de88a29bdbb9f2299dd93"
+  },
+  "results/combined/section1_diversity/main/axis_angle_v2_study_centroids_10pct.png": {
+   "path": "results/combined/section1_diversity/main/axis_angle_v2_study_centroids_10pct.png",
+   "bytes": 323829,
+   "sha256": "054fcfe92b6d69bf66f255d2109c247c1b9c438a5bfb8618277ad93e0444045c",
+   "value_hash": "b7aee93a123d642d684cfb7d205fab6f4ead8c64a7c4342caaffeedd34215f6d"
+  },
+  "results/combined/section1_diversity/main/depth_binned_richness_cv_10pct.png": {
+   "path": "results/combined/section1_diversity/main/depth_binned_richness_cv_10pct.png",
+   "bytes": 346111,
+   "sha256": "d1f4d0b8cf6885edc630e673cabf3cc826ebf61efe09e050c0d65c302749a27c",
+   "value_hash": "855e14475df060fca0f6aba85ce32b82ebe47ade01f9e17ae3d97083e106c565"
+  },
+  "results/combined/section2_differential/supplement/fig_s5b_overlap_analysis.png": {
+   "path": "results/combined/section2_differential/supplement/fig_s5b_overlap_analysis.png",
+   "bytes": 346193,
+   "sha256": "c9276cecfe2aa95da36dac2cce36b46a28ac801716ae73392712713d2691cdc9",
+   "value_hash": "b8aa681560e6a3fd66484a420d9d3de177ecfbc20a2056c133c6c46a2416c32a"
+  },
+  "results/combined/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct.png": {
+   "path": "results/combined/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct.png",
+   "bytes": 246552,
+   "sha256": "2ba82ff2db92a5d439343c0aaaf034564dcea779caa2b907ce7461aed3b203ef",
+   "value_hash": "8ab03f3b33f620c9fb0e6dbc335c9edfbe54960503f1e2898e80b3563c3e6d16"
+  },
+  "results/combined/depth_audit/depth_by_health_group.png": {
+   "path": "results/combined/depth_audit/depth_by_health_group.png",
+   "bytes": 68185,
+   "sha256": "775d2c39c651ff8d66c91b44d0641e86e800791dab8c38b2f132b603b2e1c0da",
+   "value_hash": "d821a11ee3c0a6d2ac1dea41bb036d68531b05868b3fbcac9642f277cef02889"
+  },
+  "results/combined/section3_health/main/health_richness_gmw_combined_NI_health_10pct.png": {
+   "path": "results/combined/section3_health/main/health_richness_gmw_combined_NI_health_10pct.png",
+   "bytes": 639398,
+   "sha256": "9326355c2319cd7f89b4c1c84cdce28d3b4f8f14329db2b9da0aa6f1702060f7",
+   "value_hash": "9c9f27302926ca36278a0a0ea3315d5523a6103ebb44496c22067b3915f43fc2"
+  },
+  "results/combined/section3_health/supplement/health_background_curve_base_combined_10pct.png": {
+   "path": "results/combined/section3_health/supplement/health_background_curve_base_combined_10pct.png",
+   "bytes": 413350,
+   "sha256": "14414a727b60a42270bbdbec7b3b8a2a1a257a8e180b8c4683343d9c2fa40040",
+   "value_hash": "dbdef0f458691bdc96eb66ef56c6bec43a50a4c04ba2abdb82e82362bca82a12"
+  },
+  "results/combined/section3_health/supplement/health_within_clade_contrasts_combined_10pct.png": {
+   "path": "results/combined/section3_health/supplement/health_within_clade_contrasts_combined_10pct.png",
+   "bytes": 427256,
+   "sha256": "b60e0c54687b65d52539b239d3ff8ee240df4c1f3c5427325d1f2f22ae378913",
+   "value_hash": "a5b8b8dcc0bea1773a97ac6290c7c9c766fc20d8bdc01a6ee0c5b28882c65c6c"
+  },
+  "results/combined/section3_health/main/health_taxon_drivers_VANISH_family_combined_10pct.png": {
+   "path": "results/combined/section3_health/main/health_taxon_drivers_VANISH_family_combined_10pct.png",
+   "bytes": 300824,
+   "sha256": "a343ee855775630f3999150d1115e5fcdaa065da446f4481c98e906b877439cf",
+   "value_hash": "937bddcf4867c1f6a3afa0683a937a94b675a4fdc160e1c655ad52795f39ec45"
+  },
+  "results/combined/section3_health/main/health_taxon_drivers_BloSSUM_family_combined_10pct.png": {
+   "path": "results/combined/section3_health/main/health_taxon_drivers_BloSSUM_family_combined_10pct.png",
+   "bytes": 522110,
+   "sha256": "a1c07d0e89e4d4f5ba73f6dd0e71381bfb853fa4ee15bccd46a2c397fe168df8",
+   "value_hash": "a9e67cd83eaedf2362c000ce5bd684ceeeca0b7d1886eb6c2ca3f5664975baf9"
+  },
+  "results/combined/section3_health/supplement/health_taxon_drivers_VANISH_combined_10pct.png": {
+   "path": "results/combined/section3_health/supplement/health_taxon_drivers_VANISH_combined_10pct.png",
+   "bytes": 177886,
+   "sha256": "c6eda7da182948e1f259096aeb376657c7f637ed43588383b945d16e856ab20e",
+   "value_hash": "52368a65ab0add912fdd9c27f89a79f20ef3d9f405d89b90347ad936dc7100c4"
+  },
+  "results/combined/section3_health/supplement/health_taxon_drivers_BloSSUM_combined_10pct.png": {
+   "path": "results/combined/section3_health/supplement/health_taxon_drivers_BloSSUM_combined_10pct.png",
+   "bytes": 185795,
+   "sha256": "e1a45e8894be938448dbb5a94a9539a3e61d57ba93d1da803282695bf35b156f",
+   "value_hash": "ec69dee3b92573b56d3e5164304a98ca75a5be2d8bf1a660cf0ac4ca458206c7"
+  },
+  "results/combined/figure_s0_roadmap.png": {
+   "path": "results/combined/figure_s0_roadmap.png",
+   "bytes": 4835374,
+   "sha256": "2076fc5a44b87ba37fcfa671b9e207be2a8be7e77a54f6d6c2c35293e9554185",
+   "value_hash": "c3baa84c58510c08b82eee5047b83768dfb95c6be6b0dba17fd30d2f797a73ae"
+  }
+ },
+ "data_objects": {
+  "results/combined/section1_diversity/supplement/figure_data/Figure_S1_data.pkl": {
+   "path": "results/combined/section1_diversity/supplement/figure_data/Figure_S1_data.pkl",
+   "bytes": 1157448,
+   "sha256": "1e50c719d43c5858be3e2a9c18d6d7d2e5c0682cadcd054c3851c4efdd30f4ba",
+   "value_hash": "6235a25222ea47779b365de38e60557f22f558be1547c683db19a51ace1e47b4"
+  },
+  "results/combined/section1_diversity/supplement/figure_data/Figure_S2_data.pkl": {
+   "path": "results/combined/section1_diversity/supplement/figure_data/Figure_S2_data.pkl",
+   "bytes": 150837,
+   "sha256": "e8905c303cd4c26bf451ad012a23fc0b3f2b3eab6bf49a37f571aff6bbad208a",
+   "value_hash": "4b05a15413bc3452b4d1704b07a6cb5aa215d3c4e70157d9c11850f7aaf2379d"
+  },
+  "results/combined/section1_diversity/supplement/figure_data/Figure_S3_data.pkl": {
+   "path": "results/combined/section1_diversity/supplement/figure_data/Figure_S3_data.pkl",
+   "bytes": 195499,
+   "sha256": "5416ed1e5dc41a8de90d40cf3550707d1b340fc68c559f8d2cfe6805440a0b48",
+   "value_hash": "886c1a9624d89d3d7165621d1657a64761a71d38c5ddd7153e4c6a247674d6a2"
+  },
+  "results/combined/depth_audit/figure_data/Figure_S4_data.pkl": {
+   "path": "results/combined/depth_audit/figure_data/Figure_S4_data.pkl",
+   "bytes": 574425,
+   "sha256": "f3fb5159300550e21e62a03ce431cc35b08c635a5a0b47ca3c926ded194d02c7",
+   "value_hash": "971814834e03d2a2565cf0ba71e084680150c6ff5c7f5d8b9b7c7a3a259c032c"
+  },
+  "results/combined/carter_analysis/figure_data/Figure_S5_data.pkl": {
+   "path": "results/combined/carter_analysis/figure_data/Figure_S5_data.pkl",
+   "bytes": 70349,
+   "sha256": "ca7bb267f026c4a24823d4ed44c75733f782984051cca3a814af79286a5d03aa",
+   "value_hash": "88a520d24ad94ccf05df8bfb0a47ecec7801be76c195940e2101d1c4c6c7122d"
+  },
+  "results/combined/carter_analysis/figure_data/Figure_S6_data.pkl": {
+   "path": "results/combined/carter_analysis/figure_data/Figure_S6_data.pkl",
+   "bytes": 194978,
+   "sha256": "0509ddbd1f4d45025ae30827233f9aad5bc5d85258b5bcd9680697d3e777e3c0",
+   "value_hash": "ba0eeea8e390c281289bacc8f20b1ab94a610085086d837453fcec15aeff2d8a"
+  },
+  "results/combined/carter_analysis/figure_data/Figure_S7_data.pkl": {
+   "path": "results/combined/carter_analysis/figure_data/Figure_S7_data.pkl",
+   "bytes": 2252,
+   "sha256": "ebe57b988c3647fd32099393e49d4d91e23be52b1c6650099abf551f78e5b454",
+   "value_hash": "58154c4c9ec9a14eb421e3832c4b2090009d9ce7205f7f16b20f14dfe3321469"
+  },
+  "results/combined/carter_analysis/figure_data/Figure_S8_data.pkl": {
+   "path": "results/combined/carter_analysis/figure_data/Figure_S8_data.pkl",
+   "bytes": 54536,
+   "sha256": "b7908dc32b0d19c382d59fd6f7198bdd447f3f2f2444c45fdb0a5c2d095cdd95",
+   "value_hash": "3ca0bc1400ba57af95112a5d951044278a01a18a239885aaa24ffc82463e2141"
+  },
+  "results/combined/section1_diversity/main/figure_data/Figure_S9_data.pkl": {
+   "path": "results/combined/section1_diversity/main/figure_data/Figure_S9_data.pkl",
+   "bytes": 2095069,
+   "sha256": "dc51f8e74ef1c33dcc0f509f6e23e7ee46ce13ae9347654fc053e423e900f220",
+   "value_hash": "5723ef2c305f0eb020f8706feb8464c10a5c3881b8c009fa3a4d6a509b349513"
+  },
+  "results/combined/section1_diversity/main/figure_data/Figure_S10_data.pkl": {
+   "path": "results/combined/section1_diversity/main/figure_data/Figure_S10_data.pkl",
+   "bytes": 724293,
+   "sha256": "001ea6f3e87428ebecaf732d6e77c5f8216ad054ac52998a642c489cc6dbcf6f",
+   "value_hash": "693078fcd6cf1137b114c35edbf6f1c6ef23570c407a547f68753738651d1f79"
+  },
+  "results/combined/section3_health/main/figure_data/Figure_S11_data.pkl": {
+   "path": "results/combined/section3_health/main/figure_data/Figure_S11_data.pkl",
+   "bytes": 1448249,
+   "sha256": "ae07b266317c6da11600a7600b926e912b4e0405a269eec7a18091c1e5a0393b",
+   "value_hash": "9cd0fab7e9bee4de67aea752c258b11aa66dad0f706a5b53b0bfb70bc9cad6b3"
+  },
+  "results/combined/section3_health/main/figure_data/Figure_S12_data.pkl": {
+   "path": "results/combined/section3_health/main/figure_data/Figure_S12_data.pkl",
+   "bytes": 953849,
+   "sha256": "aeba9a627f9fd049e972e9e106c7ba4de698d3e20d45f3d61bc3057395a9d595",
+   "value_hash": "9757911ab8abbd5bba62a5e256a64206d5b73a717d8d7c594d76a466dc5b9788"
+  },
+  "results/combined/depth_bias_ipw/figure_data/Figure_S13_data.pkl": {
+   "path": "results/combined/depth_bias_ipw/figure_data/Figure_S13_data.pkl",
+   "bytes": 2253,
+   "sha256": "20bb30f65c202906433aebe437c2b763b1bb758731bdaba877fadf28ce03ff5a",
+   "value_hash": "f47c8ba6a0925029d1acc6e02b18b9a46a3c24ba42b2d409164975180e3dcb0b"
+  },
+  "results/combined/section1_diversity/main/figure_data/Figure_S14_data.pkl": {
+   "path": "results/combined/section1_diversity/main/figure_data/Figure_S14_data.pkl",
+   "bytes": 2366997,
+   "sha256": "ff1103d46d16c7f91a2141258d67e2b24816870edacac88453219569a80870f9",
+   "value_hash": "98e1dbcff07b3eb0b0d46919a1a9c38c174a8b1b7ebdc16dcf4be2b6ccb27ff8"
+  },
+  "results/Figure3_combined/figure_data/Figure_S15_data.pkl": {
+   "path": "results/Figure3_combined/figure_data/Figure_S15_data.pkl",
+   "bytes": 34131,
+   "sha256": "06531e7a27aba12b54f10fd7bbee62ad71e2387d31006e40b2faa010b7113c91",
+   "value_hash": "fae18b08251857cecdb19761f2bd908f1a523a86cead46a657ab07098d4434f8"
+  },
+  "results/Figure3_combined/figure_data/Figure_S16_data.pkl": {
+   "path": "results/Figure3_combined/figure_data/Figure_S16_data.pkl",
+   "bytes": 173568,
+   "sha256": "93a8980ce6ea9c18de3db0474b99bb3d3a51a5a9c5c57187eb32607affb1b7f5",
+   "value_hash": "b2444ab875c6f8182bc0fe26355c47becbcf0dad42b1669c7fe5b6eea0e85cde"
+  },
+  "results/Figure3_combined/figure_data/Figure_S17_data.pkl": {
+   "path": "results/Figure3_combined/figure_data/Figure_S17_data.pkl",
+   "bytes": 130679,
+   "sha256": "692d08ba5c4b268d54cbc91f223dac22f19d2873c3287dc35be49e935860e01f",
+   "value_hash": "c97b9e6f1c3197b49f4eda76d2968e716f4ebda6f2192a42bf62800d8dff12b5"
+  },
+  "results/combined/section1_diversity/main/figure_data/Figure_S18_data.pkl": {
+   "path": "results/combined/section1_diversity/main/figure_data/Figure_S18_data.pkl",
+   "bytes": 3456,
+   "sha256": "29fc5f983d801d5e2518a5b5eb2730462584379eacecdfc946346ba4944a3eb6",
+   "value_hash": "aee1694e9ce515ae4dd3558ea29dc410d41afcf7aedb57be0d51b20c4db3137f"
+  },
+  "results/combined/section1_diversity/main/figure_data/Figure_S19_data.pkl": {
+   "path": "results/combined/section1_diversity/main/figure_data/Figure_S19_data.pkl",
+   "bytes": 4594,
+   "sha256": "773a8d153b2d1af4f54dcff56d1cb7d22b615653fba92008ed977af91b801857",
+   "value_hash": "5524a88a0e0558522caa3889861dd433924e964da3825cfece8e086ae5f3fb50"
+  },
+  "results/combined/section1_diversity/main/figure_data/Figure_S20_data.pkl": {
+   "path": "results/combined/section1_diversity/main/figure_data/Figure_S20_data.pkl",
+   "bytes": 15038,
+   "sha256": "18026b98088a7f56c85ac1ca80ca4938a837a4896b90220983df57f308f9ddae",
+   "value_hash": "711423574a230ac6deadeabb998097fd817b05aa8e07e35bc981a33b00dd09be"
+  },
+  "results/combined/section2_differential/supplement/figure_data/Figure_S21_data.pkl": {
+   "path": "results/combined/section2_differential/supplement/figure_data/Figure_S21_data.pkl",
+   "bytes": 158276,
+   "sha256": "5a6f1561c9f5d048afb36a9e5b975457c10156d4576808e9948238be80f4f63f",
+   "value_hash": "a29be7600bbceca4b8cb80fd835156003916884fa07630c225ba07380d3b17db"
+  },
+  "results/combined/section2_differential/main/figure_data/Figure_S22_data.pkl": {
+   "path": "results/combined/section2_differential/main/figure_data/Figure_S22_data.pkl",
+   "bytes": 2202,
+   "sha256": "0957387b2f0cdc081de3097717d778683930f7f89b9530e3636b4cf812be72ab",
+   "value_hash": "a5e61d4689ca0e4f52571234b5724642b8c1ce5787cb718fe0931751059783ea"
+  },
+  "results/combined/depth_audit/figure_data/Figure_S23_data.pkl": {
+   "path": "results/combined/depth_audit/figure_data/Figure_S23_data.pkl",
+   "bytes": 555113,
+   "sha256": "4fc38341d0462e8acddf5d4e99b6dde67f1015ba00b6addab7445b49f3feba6c",
+   "value_hash": "f994a5658bc91ffed477394906147c3b4727d4f76a594073edd7eb7e2bc53f4d"
+  },
+  "results/combined/section3_health/main/figure_data/Figure_S24_data.pkl": {
+   "path": "results/combined/section3_health/main/figure_data/Figure_S24_data.pkl",
+   "bytes": 1430357,
+   "sha256": "4f4f3de9e97d31011ad7a31834eff99180b3c4c3f83cf989a4eb0f94842f291c",
+   "value_hash": "1481d69cd853aace272ac5a9a3a6e765b28d7c68c25cab2c262cd5549f8f0c92"
+  },
+  "results/combined/section3_health/supplement/figure_data/Figure_S25_data.pkl": {
+   "path": "results/combined/section3_health/supplement/figure_data/Figure_S25_data.pkl",
+   "bytes": 3859575,
+   "sha256": "cacdb75f343f9f5ca37f7a0223bf50675e259bdfd14791c524e4881bc049420d",
+   "value_hash": "a3b918f485fad4cca6925be4ee23c7dde05bdc7e83b7d954f9456f198c5d8594"
+  },
+  "results/combined/section3_health/supplement/figure_data/Figure_S26_data.pkl": {
+   "path": "results/combined/section3_health/supplement/figure_data/Figure_S26_data.pkl",
+   "bytes": 1502252,
+   "sha256": "a077e5576fc7bc6b06aa969bd6042d031351a618567d97f05fc1ec54e844d404",
+   "value_hash": "34a61fcb711bee48f78ebf4a5c6cab60839fef6b470279e791113e1f8e655ceb"
+  },
+  "results/combined/section3_health/main/figure_data/Figure_S27_data.pkl": {
+   "path": "results/combined/section3_health/main/figure_data/Figure_S27_data.pkl",
+   "bytes": 76530,
+   "sha256": "f435f408b6deb2598b487d03efc42b8f073f6419bf7a71a1aa3788e201c5cd7d",
+   "value_hash": "2d4d3ebece52f44f97fe2477fef3861a7cddedee7e0a4c63aba39e9faa0cfa32"
+  },
+  "results/combined/section3_health/main/figure_data/Figure_S28_data.pkl": {
+   "path": "results/combined/section3_health/main/figure_data/Figure_S28_data.pkl",
+   "bytes": 76828,
+   "sha256": "5dce70f858bc7d8dbaec8a2c9ceaa18c3779716e3051308d4c8c2615cb1d0a39",
+   "value_hash": "8d4ac24b6b4a2342eaa172d4c66016a8d5f930e1853a16ad969bb5b017b01c6f"
+  },
+  "results/combined/section3_health/supplement/figure_data/Figure_S29_data.pkl": {
+   "path": "results/combined/section3_health/supplement/figure_data/Figure_S29_data.pkl",
+   "bytes": 54981,
+   "sha256": "ff652e86ee418988b540fc1e6f2b5f845dba1ca30a43e097e21f7d89fc7f619a",
+   "value_hash": "0899736ce05fba923b676941dabb7309d6fdd58b341272083940615c0e0e4bc4"
+  },
+  "results/combined/section3_health/supplement/figure_data/Figure_S30_data.pkl": {
+   "path": "results/combined/section3_health/supplement/figure_data/Figure_S30_data.pkl",
+   "bytes": 28426,
+   "sha256": "8cd09e94c72284128c1ca4d877dadc5197756ca5da71edd59edcb0afbf81f868",
+   "value_hash": "2993d653ad972be9683a7f128f8e8eddf1d247f569ed1b742cdf5e12a2e62940"
+  },
+  "results/combined/figure_data/Figure_S31_data.pkl": {
+   "path": "results/combined/figure_data/Figure_S31_data.pkl",
+   "bytes": 1691,
+   "sha256": "605703e8f603748055979d8d08e7896ef7217847601b4992ec6f3ec1ffa39932",
+   "value_hash": "51dc52942d8063bd958dd0b98c59a02e21db53d661671f6c378378abdb911de5"
+  },
+  "main_text_figures/figure_data/Figure_F1_data.pkl": {
+   "path": "main_text_figures/figure_data/Figure_F1_data.pkl",
+   "bytes": 5316,
+   "sha256": "74371bdfd0526fe1cef226a772f897d2be30f4991442c9aa97edd8a45d727607",
+   "value_hash": "2939b043fa8563443b6687cae075bf5f1a2229dc04fad6b871df7204c9be70dc"
+  },
+  "main_text_figures/figure_data/Figure_F2_data.pkl": {
+   "path": "main_text_figures/figure_data/Figure_F2_data.pkl",
+   "bytes": 29201876,
+   "sha256": "9a43496eacc7c6901d228f342f6dc51f31e2dca8cf3619b5e60c51e7cb6faa77",
+   "value_hash": "9c889c133aa7c12a2ae981cdb384d32bfc3b34c6623028a7e39dc3f5ecaafc99"
+  },
+  "main_text_figures/figure_data/Figure_F3_data.pkl": {
+   "path": "main_text_figures/figure_data/Figure_F3_data.pkl",
+   "bytes": 34125,
+   "sha256": "281ada9d36d5a4441ae6bb47721a28f1b101f36f4e09ddc61088150f2307d363",
+   "value_hash": "8a8a25fe6f17c5ae3df5cbeee98e97544c2e88ccc1b0220386cd75a465c6802b"
+  },
+  "main_text_figures/figure_data/Figure_F4_data.pkl": {
+   "path": "main_text_figures/figure_data/Figure_F4_data.pkl",
+   "bytes": 1046422,
+   "sha256": "7eb816f697d184951dea64f2ae87e37b048b9de93986244209a73b5d8f1cf19e",
+   "value_hash": "1774943d88a48fa59bc2dd3fd44f9b2187fbb09c66e2980956c6768bf66fe7a7"
+  },
+  "main_text_figures/figure_data/Figure_F5_data.pkl": {
+   "path": "main_text_figures/figure_data/Figure_F5_data.pkl",
+   "bytes": 29871004,
+   "sha256": "5686362e4e9ee3c68779b810447401bd10a70a144de2c2750e9d04c81d977d72",
+   "value_hash": "6d1dc0605a53c54760d816695948045ced4f118fbaa3ea6a6633f7bf00fab539"
+  }
+ }
+}

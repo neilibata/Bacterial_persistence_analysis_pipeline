@@ -1,0 +1,58 @@
+Metadata Table M1 — provenance
+
+THE SHIPPED FILE
+  path             : final_run/metadata_M1.csv   (config.META_FILE)
+  last written     : 2026-09-28 12:42
+  sha256           : 06031e18894a6354d09a71df7e68a2b8fcbe3a8c0c1690e12881c64c2e0ed346
+                     (matches verification_manifest.json)
+  rows x columns   : 18,299 x 118   (one row per sequencing run chosen to
+                     represent a sample)
+  Unhealthy        : 6,496
+  Healthy          : 11,459
+  blank            : 344   (status genuinely unknown; none flagged, none obese)
+  disease_* flags  : 69
+  Chosen_match_ID  : 18,299 distinct, no collisions — the key that joins to the
+                     matrices
+  BioSample        : 18,282 distinct; 17 values appear twice (34 rows), one
+                     BioSample sequenced as two libraries
+  Subject_ID       : 14,700 distinct
+
+  Columns are documented in docs/M1_data_dictionary.md.
+
+HOW IT WAS BUILT
+  Nine tools in this order, not one. Each takes --apply and copies the file
+  first, so the eight .pre_* backups in this directory ARE the chain:
+
+   1. tools/build_curated_m1.py             (base curation — see below)
+   2. tools/build_subject_ids.py            -> .pre_subject_ids
+   3. tools/build_verified_m1.py            -> .pre_verified
+   4. tools/fix_carter_runs.py              -> .pre_carter_runs
+   5. tools/clean_m1_columns.py             -> .pre_column_clean
+   6. tools/fix_unsupported_flags.py        -> .pre_flag_fix
+   7. tools/split_disease_bd.py             -> .pre_bd_split
+   8. tools/fix_biosample_keyed_row.py      -> .pre_biosample_row
+   9. tools/correct_biosample_mismatches.py -> .pre_biosample_fix
+
+  Steps 2-9 are why the counts above differ from step 1's. Row count: 18,303
+  minus the 4 Carter rows whose library has no run in the matrix (step 4).
+  Health labels: MicrobiomeDB / da Silva verification (step 3) and the clearing
+  of 126 unsupported flag instances (step 6) moved samples between the arms.
+  Flag count: disease_BD held two unrelated diseases and became
+  disease_bone_disease (54) + disease_Behcets (20) at step 7, so 68 -> 69.
+  tools/audit_final_run.py pins the row count, the Unhealthy distribution and
+  the absence of collisions, and is the check to run after any rebuild.
+
+STEP 1, AS tools/build_curated_m1.py RECORDED IT
+  Kept verbatim. These are the numbers for the base curation only, BEFORE steps
+  2-9; they do not describe the shipped file. build_curated_m1.py rewrites this
+  provenance file from scratch when it runs, so if these are the only lines
+  present, steps 2-9 have been applied without this record being updated.
+
+  built 2026-09-24 15:03 by tools/build_curated_m1.py
+  base cohort      : metadata_Aug_26_2026_final.csv
+  read length from : metadata_M1.csv (per sample, else per study)
+  obesity rule     : a sample flagged obese is Unhealthy (145 relabelled).
+                     Overweight alone is not.
+  rows             : 18,303
+  Unhealthy        : 6,310
+  Healthy          : 11,649

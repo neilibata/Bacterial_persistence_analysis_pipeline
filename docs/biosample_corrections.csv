@@ -1,0 +1,2 @@
+Chosen_match_ID,Sample ID,BioSample_M1,BioSample_ENA,source,note
+ERR9709353,FMT_68_t90,SAMEA14367171,SAMEA14367166,ENA read_run filereport 2026-09-28,"M1 gave FMT_68_t90 the BioSample of FMT_73_t7 (ERR9709352, SUBJ 33); ENA sample_alias SFMT_68_t90 is SAMEA14367166. Two people, not one BioSample."

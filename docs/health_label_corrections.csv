@@ -1,0 +1,1059 @@
+Chosen_match_ID,column,old,new,reason,affects_analysis
+ERR866565,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866566,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866567,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866568,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866569,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866570,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866571,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866572,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866573,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866574,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866576,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866577,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866578,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866579,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866580,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866588,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866590,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866593,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866597,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866598,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866599,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866600,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866604,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR866605,Unhealthy,Healthy,Unhealthy,MBIOTEMP='acute_diarrhoea' and a disease flag both indicate disease,yes
+ERR688509,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver' and a disease flag both indicate disease,yes
+ERR688516,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver;hypertension' and a disease flag both indicate disease,yes
+ERR688520,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver;hypertension' and a disease flag both indicate disease,yes
+ERR688533,Unhealthy,Healthy,Unhealthy,MBIOTEMP='hypertension' and a disease flag both indicate disease,yes
+ERR688550,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver' and a disease flag both indicate disease,yes
+ERR688554,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver' and a disease flag both indicate disease,yes
+ERR688557,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver' and a disease flag both indicate disease,yes
+ERR688590,Unhealthy,Healthy,Unhealthy,MBIOTEMP='hypertension' and a disease flag both indicate disease,yes
+ERR688593,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver;hypertension' and a disease flag both indicate disease,yes
+ERR688598,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver;hypertension' and a disease flag both indicate disease,yes
+ERR688606,Unhealthy,Healthy,Unhealthy,MBIOTEMP='fatty_liver;hypertension' and a disease flag both indicate disease,yes
+ERR688617,Unhealthy,Healthy,Unhealthy,MBIOTEMP='hypertension' and a disease flag both indicate disease,yes
+ERR260249,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260254,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260228,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260232,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260236,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260133,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260138,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260156,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260158,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR260172,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IGT' and a disease flag both indicate disease,yes
+ERR275252,Unhealthy,Healthy,Unhealthy,MBIOTEMP='T2D' and a disease flag both indicate disease,yes
+ERR209531,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209533,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209534,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209537,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209538,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209543,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209544,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209546,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209547,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209549,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209550,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209553,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209554,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209556,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209560,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209569,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209558,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209563,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209567,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209570,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209573,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209574,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209576,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209578,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209580,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209581,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209582,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209619,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209616,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209617,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209618,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209620,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209621,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209629,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209635,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209637,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209655,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209675,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209678,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209681,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209679,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209684,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209691,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209693,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209695,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209697,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209699,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209701,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209707,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209711,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209717,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209730,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209732,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209746,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209747,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209756,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209755,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209758,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209762,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209763,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209765,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209767,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209769,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209783,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209788,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209789,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209792,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209793,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209796,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209802,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209804,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209806,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209808,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+ERR209830,Unhealthy,Healthy,Unhealthy,MBIOTEMP='IBD' and a disease flag both indicate disease,yes
+SRR9293405,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293345,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9292789,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293125,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9292891,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9292885,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9292881,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293118,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9292783,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293064,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293076,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9292677,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293369,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+SRR9293220,Unhealthy,Healthy,Unhealthy,MBIOTEMP='STH' and a disease flag both indicate disease,yes
+ERS1444547,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444549,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444551,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444553,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444555,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444557,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444559,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444563,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444565,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444567,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444571,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444575,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444577,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444579,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444581,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444585,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444587,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444589,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444593,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444595,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444597,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444599,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444601,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444603,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866565,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866566,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866567,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866568,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866569,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866570,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866571,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866572,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866573,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866574,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866576,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866577,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866578,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866579,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866580,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866588,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866590,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866593,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866597,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866598,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866599,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866600,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866604,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866605,Diseased (gut and metabolic),No,Yes,disease_acute_diarrhoea is yes,no
+SRR5930498,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930499,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930501,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930502,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930493,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930494,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930526,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930527,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930528,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930521,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930522,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930523,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930533,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930534,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930511,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930510,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930513,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930512,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930515,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930514,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930517,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930516,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930509,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930508,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930536,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930520,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930503,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930531,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930532,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930529,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930530,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930518,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930519,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930507,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930506,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930505,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930504,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930495,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5930497,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5650045,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651397,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651426,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651425,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651424,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651423,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651422,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651421,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651430,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651429,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651441,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651442,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651443,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651444,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651445,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651446,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651447,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651448,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+SRR5651449,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328786,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328787,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328788,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328789,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328791,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328795,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328796,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328797,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328798,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS328799,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321252,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321261,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321398,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321462,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321471,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321480,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321483,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321484,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321485,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209473,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321487,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321488,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321489,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321491,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321492,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321497,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321520,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321521,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321522,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321523,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321529,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321530,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321532,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321542,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR321543,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209529,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209536,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209531,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209533,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209534,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209537,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209538,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209540,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209543,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209544,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209546,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209547,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209549,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209550,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209553,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209554,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209556,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209560,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209569,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209558,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209563,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209566,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209567,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209570,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209573,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209574,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209576,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209578,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209580,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209581,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209582,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209619,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209616,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209617,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209618,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209620,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209621,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209623,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209626,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209629,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209635,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209637,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209640,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209643,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209655,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209644,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209648,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209650,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209656,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209657,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209666,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209667,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209671,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209674,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209675,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209678,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209681,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209679,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209684,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209688,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209691,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209693,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209694,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209695,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209697,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209699,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209701,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209703,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209705,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209707,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209711,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209713,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209717,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209720,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209721,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209723,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209722,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209730,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209732,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209734,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209741,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209746,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209747,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209756,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209755,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209758,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209762,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209763,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209765,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209767,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209769,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209783,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209786,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209788,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209800,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209789,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209792,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209793,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209796,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209797,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209802,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209804,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209806,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209808,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209809,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209810,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209812,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209814,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERR209830,Diseased (gut and metabolic),No,Yes,disease_IBD is yes,no
+ERS1444547,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444549,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444551,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444553,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444555,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444557,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444559,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444563,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444565,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444567,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444571,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444575,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444577,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444579,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444581,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444585,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444587,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444589,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444593,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444595,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444597,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444599,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444601,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERS1444603,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866565,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866566,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866567,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866568,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866569,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866570,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866571,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866572,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866573,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866574,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866576,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866577,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866578,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866579,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866580,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866588,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866590,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866593,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866597,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866598,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866599,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866600,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866604,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+ERR866605,Diseased (other),No,Yes,disease_acute_diarrhoea is yes,no
+SRR13378581,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378580,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378578,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378577,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378576,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378575,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378574,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378573,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378569,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378567,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378566,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378565,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378564,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378563,Diseased (other),No,Yes,disease_ACVD is yes,no
+SRR13378562,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017573,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017572,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017571,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017570,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017569,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017567,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017566,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017565,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017563,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017562,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017561,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017560,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017559,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017558,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017557,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017556,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017555,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017554,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017553,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017552,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017551,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017550,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017549,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017548,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017547,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017546,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017545,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017544,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017543,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017542,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017541,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017540,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017539,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017538,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017537,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017536,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017535,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017534,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017533,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017530,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017529,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017527,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017525,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017523,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017522,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017519,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017521,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017528,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017526,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017524,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017520,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017461,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017518,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017500,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017491,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017471,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017470,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017469,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017468,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017467,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017466,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017465,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017464,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017463,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017462,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017421,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017420,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017419,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017418,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017417,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017416,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017415,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017414,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017413,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017412,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017411,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017472,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017473,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017474,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017475,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017477,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017478,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017479,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017481,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017482,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017483,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017484,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017485,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017486,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017487,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017489,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017490,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017503,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017504,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017506,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017507,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017508,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017510,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017512,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERR2017513,Diseased (other),No,Yes,disease_ACVD is yes,no
+ERS1444547,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444549,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444551,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444553,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444555,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444557,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444559,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444563,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444565,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444567,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444571,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444575,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444577,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444579,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444581,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444585,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444587,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444589,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444593,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444595,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444597,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444599,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444601,Diseased (all),No,Yes,union of the two category fields,no
+ERS1444603,Diseased (all),No,Yes,union of the two category fields,no
+ERR866565,Diseased (all),,Yes,union of the two category fields,no
+ERR866566,Diseased (all),,Yes,union of the two category fields,no
+ERR866567,Diseased (all),,Yes,union of the two category fields,no
+ERR866568,Diseased (all),,Yes,union of the two category fields,no
+ERR866569,Diseased (all),,Yes,union of the two category fields,no
+ERR866570,Diseased (all),,Yes,union of the two category fields,no
+ERR866571,Diseased (all),,Yes,union of the two category fields,no
+ERR866572,Diseased (all),,Yes,union of the two category fields,no
+ERR866573,Diseased (all),,Yes,union of the two category fields,no
+ERR866574,Diseased (all),,Yes,union of the two category fields,no
+ERR866576,Diseased (all),,Yes,union of the two category fields,no
+ERR866577,Diseased (all),,Yes,union of the two category fields,no
+ERR866578,Diseased (all),,Yes,union of the two category fields,no
+ERR866579,Diseased (all),,Yes,union of the two category fields,no
+ERR866580,Diseased (all),,Yes,union of the two category fields,no
+ERR866588,Diseased (all),,Yes,union of the two category fields,no
+ERR866590,Diseased (all),,Yes,union of the two category fields,no
+ERR866593,Diseased (all),,Yes,union of the two category fields,no
+ERR866597,Diseased (all),,Yes,union of the two category fields,no
+ERR866598,Diseased (all),,Yes,union of the two category fields,no
+ERR866599,Diseased (all),,Yes,union of the two category fields,no
+ERR866600,Diseased (all),,Yes,union of the two category fields,no
+ERR866604,Diseased (all),,Yes,union of the two category fields,no
+ERR866605,Diseased (all),,Yes,union of the two category fields,no
+SRR203323,Diseased (all),,Yes,union of the two category fields,no
+SRR203321,Diseased (all),,Yes,union of the two category fields,no
+SRR203317,Diseased (all),,Yes,union of the two category fields,no
+SRR203320,Diseased (all),,Yes,union of the two category fields,no
+SRR5650135,Diseased (all),,Yes,union of the two category fields,no
+SRR5650169,Diseased (all),,Yes,union of the two category fields,no
+SRR5650045,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651397,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651426,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651425,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651424,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651423,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651422,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651421,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651430,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651429,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651441,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651442,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651443,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651444,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651445,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651446,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651447,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651448,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651449,Diseased (all),No,Yes,union of the two category fields,no
+SRR5651479,Diseased (all),,Yes,union of the two category fields,no
+SRR5665117,Diseased (all),,Yes,union of the two category fields,no
+SRR5665024,Diseased (all),,Yes,union of the two category fields,no
+ERR9709312,Diseased (all),,Yes,union of the two category fields,no
+ERR9709294,Diseased (all),,Yes,union of the two category fields,no
+ERR9709293,Diseased (all),,Yes,union of the two category fields,no
+ERR9709319,Diseased (all),,Yes,union of the two category fields,no
+ERR9709317,Diseased (all),,Yes,union of the two category fields,no
+ERR9709323,Diseased (all),,Yes,union of the two category fields,no
+ERR9709353,Diseased (all),,Yes,union of the two category fields,no
+ERR9709504,Diseased (all),,Yes,union of the two category fields,no
+ERR9709321,Diseased (all),,Yes,union of the two category fields,no
+ERR9709364,Diseased (all),,Yes,union of the two category fields,no
+ERR9709352,Diseased (all),,Yes,union of the two category fields,no
+ERR9709457,Diseased (all),,Yes,union of the two category fields,no
+ERR9709437,Diseased (all),,Yes,union of the two category fields,no
+ERR9709354,Diseased (all),,Yes,union of the two category fields,no
+ERR9709357,Diseased (all),,Yes,union of the two category fields,no
+ERR9709419,Diseased (all),,Yes,union of the two category fields,no
+ERR9709355,Diseased (all),,Yes,union of the two category fields,no
+ERR9709360,Diseased (all),,Yes,union of the two category fields,no
+ERR9709417,Diseased (all),,Yes,union of the two category fields,no
+ERR9709458,Diseased (all),,Yes,union of the two category fields,no
+ERR9709454,Diseased (all),,Yes,union of the two category fields,no
+ERR9709460,Diseased (all),,Yes,union of the two category fields,no
+ERR9709435,Diseased (all),,Yes,union of the two category fields,no
+ERR9709418,Diseased (all),,Yes,union of the two category fields,no
+ERR9709445,Diseased (all),,Yes,union of the two category fields,no
+ERR9709442,Diseased (all),,Yes,union of the two category fields,no
+ERR9709453,Diseased (all),,Yes,union of the two category fields,no
+ERR9709450,Diseased (all),,Yes,union of the two category fields,no
+ERR9709451,Diseased (all),,Yes,union of the two category fields,no
+ERR9709452,Diseased (all),,Yes,union of the two category fields,no
+ERR9709455,Diseased (all),,Yes,union of the two category fields,no
+ERR9709443,Diseased (all),,Yes,union of the two category fields,no
+ERR9709447,Diseased (all),,Yes,union of the two category fields,no
+ERR9709501,Diseased (all),,Yes,union of the two category fields,no
+ERR9709530,Diseased (all),,Yes,union of the two category fields,no
+ERR1776143,Diseased (all),,Yes,union of the two category fields,no
+ERR1776102,Diseased (all),,Yes,union of the two category fields,no
+ERR1776103,Diseased (all),,Yes,union of the two category fields,no
+ERR1776197,Diseased (all),,Yes,union of the two category fields,no
+ERR1776113,Diseased (all),,Yes,union of the two category fields,no
+ERR1776120,Diseased (all),,Yes,union of the two category fields,no
+ERR1776118,Diseased (all),,Yes,union of the two category fields,no
+ERR1776119,Diseased (all),,Yes,union of the two category fields,no
+ERR1776131,Diseased (all),,Yes,union of the two category fields,no
+ERR1776121,Diseased (all),,Yes,union of the two category fields,no
+ERR1776122,Diseased (all),,Yes,union of the two category fields,no
+ERR1776123,Diseased (all),,Yes,union of the two category fields,no
+ERR1776140,Diseased (all),,Yes,union of the two category fields,no
+ERR1776141,Diseased (all),,Yes,union of the two category fields,no
+ERR1776148,Diseased (all),,Yes,union of the two category fields,no
+ERR1776145,Diseased (all),,Yes,union of the two category fields,no
+ERR1776146,Diseased (all),,Yes,union of the two category fields,no
+ERR1776147,Diseased (all),,Yes,union of the two category fields,no
+ERR1776156,Diseased (all),,Yes,union of the two category fields,no
+ERR1776149,Diseased (all),,Yes,union of the two category fields,no
+ERR1776150,Diseased (all),,Yes,union of the two category fields,no
+ERR1776151,Diseased (all),,Yes,union of the two category fields,no
+ERR1776152,Diseased (all),,Yes,union of the two category fields,no
+ERR1776153,Diseased (all),,Yes,union of the two category fields,no
+ERR1776184,Diseased (all),,Yes,union of the two category fields,no
+ERR1776186,Diseased (all),,Yes,union of the two category fields,no
+ERR6996347,Diseased (all),,Yes,union of the two category fields,no
+SRR13378581,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378580,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378578,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378577,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378576,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378575,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378574,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378573,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378569,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378567,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378566,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378565,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378564,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378563,Diseased (all),No,Yes,union of the two category fields,no
+SRR13378562,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017573,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017572,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017571,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017570,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017569,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017567,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017566,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017565,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017563,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017562,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017561,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017560,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017559,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017558,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017557,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017556,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017555,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017554,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017553,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017552,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017551,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017550,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017549,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017548,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017547,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017546,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017545,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017544,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017543,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017542,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017541,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017540,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017539,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017538,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017537,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017536,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017535,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017534,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017533,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017530,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017529,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017527,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017525,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017523,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017522,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017519,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017521,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017528,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017526,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017524,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017520,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017461,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017518,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017500,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017491,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017471,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017470,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017469,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017468,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017467,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017466,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017465,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017464,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017463,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017462,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017421,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017420,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017419,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017418,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017417,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017416,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017415,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017414,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017413,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017412,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017411,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017472,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017473,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017474,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017475,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017477,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017478,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017479,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017481,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017482,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017483,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017484,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017485,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017486,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017487,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017489,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017490,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017503,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017504,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017506,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017507,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017508,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017510,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017512,Diseased (all),No,Yes,union of the two category fields,no
+ERR2017513,Diseased (all),No,Yes,union of the two category fields,no
+SRR3724049,Diseased (all),,Yes,union of the two category fields,no
+ERR6243878,Diseased (all),,Yes,union of the two category fields,no
+ERR6235717,Diseased (all),,Yes,union of the two category fields,no
+ERR6235716,Diseased (all),,Yes,union of the two category fields,no
+ERR6239139,Diseased (all),,Yes,union of the two category fields,no
+ERR6236131,Diseased (all),,Yes,union of the two category fields,no
+ERR6235718,Diseased (all),,Yes,union of the two category fields,no
+ERR6233693,Diseased (all),,Yes,union of the two category fields,no
+ERR6233692,Diseased (all),,Yes,union of the two category fields,no
+ERR6232687,Diseased (all),,Yes,union of the two category fields,no
+ERR6232688,Diseased (all),,Yes,union of the two category fields,no
+ERR6233694,Diseased (all),,Yes,union of the two category fields,no
+ERR6232529,Diseased (all),,Yes,union of the two category fields,no
+ERR6232686,Diseased (all),,Yes,union of the two category fields,no
+ERR6232528,Diseased (all),,Yes,union of the two category fields,no
+ERR6232526,Diseased (all),,Yes,union of the two category fields,no
+ERR6232525,Diseased (all),,Yes,union of the two category fields,no
+ERR6232523,Diseased (all),,Yes,union of the two category fields,no
+ERR6232521,Diseased (all),,Yes,union of the two category fields,no
+ERR6232522,Diseased (all),,Yes,union of the two category fields,no
+ERR6232527,Diseased (all),,Yes,union of the two category fields,no
+ERR6232518,Diseased (all),,Yes,union of the two category fields,no
+ERR6232425,Diseased (all),,Yes,union of the two category fields,no
+ERR6232458,Diseased (all),,Yes,union of the two category fields,no
+ERR6232382,Diseased (all),,Yes,union of the two category fields,no
+ERR6231548,Diseased (all),,Yes,union of the two category fields,no
+ERR6232524,Diseased (all),,Yes,union of the two category fields,no
+ERR6231616,Diseased (all),,Yes,union of the two category fields,no
+ERR6230278,Diseased (all),,Yes,union of the two category fields,no
+ERR6230340,Diseased (all),,Yes,union of the two category fields,no
+ERR6230326,Diseased (all),,Yes,union of the two category fields,no
+ERR6231475,Diseased (all),,Yes,union of the two category fields,no
+ERR6233695,Diseased (all),,Yes,union of the two category fields,no
+ERR6230245,Diseased (all),,Yes,union of the two category fields,no
+ERR6275682,Diseased (all),,Yes,union of the two category fields,no
+ERR6275683,Diseased (all),,Yes,union of the two category fields,no
+ERR6275678,Diseased (all),,Yes,union of the two category fields,no
+ERR6275679,Diseased (all),,Yes,union of the two category fields,no
+ERR6275680,Diseased (all),,Yes,union of the two category fields,no
+ERR6275676,Diseased (all),,Yes,union of the two category fields,no
+ERR6279672,Diseased (all),,Yes,union of the two category fields,no
+ERS396295,Diseased (all),,Yes,union of the two category fields,no
+ERR1398160,Diseased (all),,Yes,union of the two category fields,no
+ERR1398200,Diseased (all),,Yes,union of the two category fields,no
+ERR1398102,Diseased (all),,Yes,union of the two category fields,no
+ERR1398257,Diseased (all),,Yes,union of the two category fields,no
+ERR1398147,Diseased (all),,Yes,union of the two category fields,no
+SRR5950616,Diseased (all),,Yes,union of the two category fields,no
+SRR5935953,Diseased (all),,Yes,union of the two category fields,no
+ERR262944,Diseased (all),,Yes,union of the two category fields,no
+ERR260485,Diseased (all),,Yes,union of the two category fields,no
+ERR260490,Diseased (all),,Yes,union of the two category fields,no
+ERR260496,Diseased (all),,Yes,union of the two category fields,no
+ERR262957,Diseased (all),,Yes,union of the two category fields,no
+ERR260506,Diseased (all),,Yes,union of the two category fields,no
+SRR5275423,Diseased (all),,Yes,union of the two category fields,no
+SRR6784543,Diseased (all),,Yes,union of the two category fields,no
+SRR6784542,Diseased (all),,Yes,union of the two category fields,no
+SRR6784539,Diseased (all),,Yes,union of the two category fields,no
+SRR6784538,Diseased (all),,Yes,union of the two category fields,no
+SRR6784537,Diseased (all),,Yes,union of the two category fields,no
+SRR6784536,Diseased (all),,Yes,union of the two category fields,no
+SRR6784533,Diseased (all),,Yes,union of the two category fields,no
+SRR6784532,Diseased (all),,Yes,union of the two category fields,no
+SRR6784530,Diseased (all),,Yes,union of the two category fields,no
+SRR6784517,Diseased (all),,Yes,union of the two category fields,no
+ERS328786,Diseased (all),No,Yes,union of the two category fields,no
+ERS328787,Diseased (all),No,Yes,union of the two category fields,no
+ERS328788,Diseased (all),No,Yes,union of the two category fields,no
+ERS328789,Diseased (all),No,Yes,union of the two category fields,no
+ERS328791,Diseased (all),No,Yes,union of the two category fields,no
+ERS328795,Diseased (all),No,Yes,union of the two category fields,no
+ERS328796,Diseased (all),No,Yes,union of the two category fields,no
+ERS328797,Diseased (all),No,Yes,union of the two category fields,no
+ERS328798,Diseased (all),No,Yes,union of the two category fields,no
+ERS328799,Diseased (all),No,Yes,union of the two category fields,no
+ERR321252,Diseased (all),No,Yes,union of the two category fields,no
+ERR321261,Diseased (all),No,Yes,union of the two category fields,no
+ERR321398,Diseased (all),No,Yes,union of the two category fields,no
+ERR321462,Diseased (all),No,Yes,union of the two category fields,no
+ERR321471,Diseased (all),No,Yes,union of the two category fields,no
+ERR321480,Diseased (all),No,Yes,union of the two category fields,no
+ERR321483,Diseased (all),No,Yes,union of the two category fields,no
+ERR321484,Diseased (all),No,Yes,union of the two category fields,no
+ERR321485,Diseased (all),No,Yes,union of the two category fields,no
+ERR209473,Diseased (all),No,Yes,union of the two category fields,no
+ERR321487,Diseased (all),No,Yes,union of the two category fields,no
+ERR321488,Diseased (all),No,Yes,union of the two category fields,no
+ERR321489,Diseased (all),No,Yes,union of the two category fields,no
+ERR321491,Diseased (all),No,Yes,union of the two category fields,no
+ERR321492,Diseased (all),No,Yes,union of the two category fields,no
+ERR321497,Diseased (all),No,Yes,union of the two category fields,no
+ERR321520,Diseased (all),No,Yes,union of the two category fields,no
+ERR321521,Diseased (all),No,Yes,union of the two category fields,no
+ERR321522,Diseased (all),No,Yes,union of the two category fields,no
+ERR321523,Diseased (all),No,Yes,union of the two category fields,no
+ERR321529,Diseased (all),No,Yes,union of the two category fields,no
+ERR321530,Diseased (all),No,Yes,union of the two category fields,no
+ERR321532,Diseased (all),No,Yes,union of the two category fields,no
+ERR321542,Diseased (all),No,Yes,union of the two category fields,no
+ERR321543,Diseased (all),No,Yes,union of the two category fields,no
+ERR209529,Diseased (all),No,Yes,union of the two category fields,no
+ERR209536,Diseased (all),No,Yes,union of the two category fields,no
+ERR209531,Diseased (all),No,Yes,union of the two category fields,no
+ERR209533,Diseased (all),No,Yes,union of the two category fields,no
+ERR209534,Diseased (all),No,Yes,union of the two category fields,no
+ERR209537,Diseased (all),No,Yes,union of the two category fields,no
+ERR209538,Diseased (all),No,Yes,union of the two category fields,no
+ERR209540,Diseased (all),No,Yes,union of the two category fields,no
+ERR209543,Diseased (all),No,Yes,union of the two category fields,no
+ERR209544,Diseased (all),No,Yes,union of the two category fields,no
+ERR209546,Diseased (all),No,Yes,union of the two category fields,no
+ERR209547,Diseased (all),No,Yes,union of the two category fields,no
+ERR209549,Diseased (all),No,Yes,union of the two category fields,no
+ERR209550,Diseased (all),No,Yes,union of the two category fields,no
+ERR209553,Diseased (all),No,Yes,union of the two category fields,no
+ERR209554,Diseased (all),No,Yes,union of the two category fields,no
+ERR209556,Diseased (all),No,Yes,union of the two category fields,no
+ERR209560,Diseased (all),No,Yes,union of the two category fields,no
+ERR209569,Diseased (all),No,Yes,union of the two category fields,no
+ERR209558,Diseased (all),No,Yes,union of the two category fields,no
+ERR209563,Diseased (all),,Yes,union of the two category fields,no
+ERR209566,Diseased (all),No,Yes,union of the two category fields,no
+ERR209567,Diseased (all),No,Yes,union of the two category fields,no
+ERR209570,Diseased (all),No,Yes,union of the two category fields,no
+ERR209573,Diseased (all),No,Yes,union of the two category fields,no
+ERR209574,Diseased (all),No,Yes,union of the two category fields,no
+ERR209576,Diseased (all),No,Yes,union of the two category fields,no
+ERR209578,Diseased (all),No,Yes,union of the two category fields,no
+ERR209580,Diseased (all),,Yes,union of the two category fields,no
+ERR209581,Diseased (all),No,Yes,union of the two category fields,no
+ERR209582,Diseased (all),No,Yes,union of the two category fields,no
+ERR209619,Diseased (all),,Yes,union of the two category fields,no
+ERR209616,Diseased (all),No,Yes,union of the two category fields,no
+ERR209617,Diseased (all),,Yes,union of the two category fields,no
+ERR209618,Diseased (all),,Yes,union of the two category fields,no
+ERR209620,Diseased (all),No,Yes,union of the two category fields,no
+ERR209621,Diseased (all),,Yes,union of the two category fields,no
+ERR209623,Diseased (all),No,Yes,union of the two category fields,no
+ERR209626,Diseased (all),No,Yes,union of the two category fields,no
+ERR209629,Diseased (all),No,Yes,union of the two category fields,no
+ERR209635,Diseased (all),No,Yes,union of the two category fields,no
+ERR209637,Diseased (all),No,Yes,union of the two category fields,no
+ERR209640,Diseased (all),No,Yes,union of the two category fields,no
+ERR209643,Diseased (all),No,Yes,union of the two category fields,no
+ERR209655,Diseased (all),,Yes,union of the two category fields,no
+ERR209644,Diseased (all),No,Yes,union of the two category fields,no
+ERR209648,Diseased (all),No,Yes,union of the two category fields,no
+ERR209650,Diseased (all),No,Yes,union of the two category fields,no
+ERR209656,Diseased (all),No,Yes,union of the two category fields,no
+ERR209657,Diseased (all),No,Yes,union of the two category fields,no
+ERR209666,Diseased (all),No,Yes,union of the two category fields,no
+ERR209667,Diseased (all),No,Yes,union of the two category fields,no
+ERR209671,Diseased (all),No,Yes,union of the two category fields,no
+ERR209674,Diseased (all),No,Yes,union of the two category fields,no
+ERR209675,Diseased (all),No,Yes,union of the two category fields,no
+ERR209678,Diseased (all),No,Yes,union of the two category fields,no
+ERR209681,Diseased (all),No,Yes,union of the two category fields,no
+ERR209679,Diseased (all),,Yes,union of the two category fields,no
+ERR209684,Diseased (all),No,Yes,union of the two category fields,no
+ERR209688,Diseased (all),No,Yes,union of the two category fields,no
+ERR209691,Diseased (all),No,Yes,union of the two category fields,no
+ERR209693,Diseased (all),No,Yes,union of the two category fields,no
+ERR209694,Diseased (all),No,Yes,union of the two category fields,no
+ERR209695,Diseased (all),No,Yes,union of the two category fields,no
+ERR209697,Diseased (all),No,Yes,union of the two category fields,no
+ERR209699,Diseased (all),No,Yes,union of the two category fields,no
+ERR209701,Diseased (all),No,Yes,union of the two category fields,no
+ERR209703,Diseased (all),No,Yes,union of the two category fields,no
+ERR209705,Diseased (all),No,Yes,union of the two category fields,no
+ERR209707,Diseased (all),No,Yes,union of the two category fields,no
+ERR209711,Diseased (all),,Yes,union of the two category fields,no
+ERR209713,Diseased (all),No,Yes,union of the two category fields,no
+ERR209717,Diseased (all),No,Yes,union of the two category fields,no
+ERR209720,Diseased (all),No,Yes,union of the two category fields,no
+ERR209721,Diseased (all),No,Yes,union of the two category fields,no
+ERR209723,Diseased (all),No,Yes,union of the two category fields,no
+ERR209722,Diseased (all),No,Yes,union of the two category fields,no
+ERR209730,Diseased (all),No,Yes,union of the two category fields,no
+ERR209732,Diseased (all),,Yes,union of the two category fields,no
+ERR209734,Diseased (all),No,Yes,union of the two category fields,no
+ERR209741,Diseased (all),No,Yes,union of the two category fields,no
+ERR209746,Diseased (all),No,Yes,union of the two category fields,no
+ERR209747,Diseased (all),No,Yes,union of the two category fields,no
+ERR209756,Diseased (all),No,Yes,union of the two category fields,no
+ERR209755,Diseased (all),No,Yes,union of the two category fields,no
+ERR209758,Diseased (all),,Yes,union of the two category fields,no
+ERR209762,Diseased (all),No,Yes,union of the two category fields,no
+ERR209763,Diseased (all),,Yes,union of the two category fields,no
+ERR209765,Diseased (all),No,Yes,union of the two category fields,no
+ERR209767,Diseased (all),No,Yes,union of the two category fields,no
+ERR209769,Diseased (all),,Yes,union of the two category fields,no
+ERR210633,Diseased (all),,Yes,union of the two category fields,no
+ERR209783,Diseased (all),No,Yes,union of the two category fields,no
+ERR209786,Diseased (all),No,Yes,union of the two category fields,no
+ERR209788,Diseased (all),No,Yes,union of the two category fields,no
+ERR209800,Diseased (all),No,Yes,union of the two category fields,no
+ERR209789,Diseased (all),No,Yes,union of the two category fields,no
+ERR209792,Diseased (all),No,Yes,union of the two category fields,no
+ERR209793,Diseased (all),No,Yes,union of the two category fields,no
+ERR209796,Diseased (all),No,Yes,union of the two category fields,no
+ERR209797,Diseased (all),No,Yes,union of the two category fields,no
+ERR209802,Diseased (all),No,Yes,union of the two category fields,no
+ERR209804,Diseased (all),No,Yes,union of the two category fields,no
+ERR209806,Diseased (all),No,Yes,union of the two category fields,no
+ERR209808,Diseased (all),No,Yes,union of the two category fields,no
+ERR209809,Diseased (all),No,Yes,union of the two category fields,no
+ERR209810,Diseased (all),No,Yes,union of the two category fields,no
+ERR209812,Diseased (all),No,Yes,union of the two category fields,no
+ERR209814,Diseased (all),No,Yes,union of the two category fields,no
+ERR209830,Diseased (all),,Yes,union of the two category fields,no
+SRR19064878,Diseased (all),,Yes,union of the two category fields,no
+SRR19064596,Diseased (all),,Yes,union of the two category fields,no
+SRR19064800,Diseased (all),,Yes,union of the two category fields,no
+DRR171638,Diseased (all),,Yes,union of the two category fields,no
+ERR589485,Diseased (all),,Yes,union of the two category fields,no
+ERR2855881,Diseased (all),,Yes,union of the two category fields,no
+ERR2855796,Diseased (all),,Yes,union of the two category fields,no
+ERR2855850,Diseased (all),,Yes,union of the two category fields,no
+ERR2855818,Diseased (all),,Yes,union of the two category fields,no
+ERR2855894,Diseased (all),,Yes,union of the two category fields,no
+ERR2855799,Diseased (all),,Yes,union of the two category fields,no
+ERR2855900,Diseased (all),,Yes,union of the two category fields,no
+ERR2855808,Diseased (all),,Yes,union of the two category fields,no
+ERR2855930,Diseased (all),,Yes,union of the two category fields,no
+ERR2855846,Diseased (all),,Yes,union of the two category fields,no
+ERR2855956,Diseased (all),,Yes,union of the two category fields,no
+ERR2855795,Diseased (all),,Yes,union of the two category fields,no
+ERR2855793,Diseased (all),,Yes,union of the two category fields,no
+ERR2855883,Diseased (all),,Yes,union of the two category fields,no
+ERR2855800,Diseased (all),,Yes,union of the two category fields,no
+ERR2855869,Diseased (all),,Yes,union of the two category fields,no
+ERR2855830,Diseased (all),,Yes,union of the two category fields,no
+ERR866565,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866566,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866567,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866568,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866569,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866570,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866571,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866572,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866573,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866574,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866576,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866577,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866578,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866579,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866580,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866588,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866590,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866593,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866597,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866598,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866599,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866600,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866604,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no
+ERR866605,Healthy,Yes,,"cleared: this sample was corrected to Unhealthy, so Healthy=Yes contradicted it",no

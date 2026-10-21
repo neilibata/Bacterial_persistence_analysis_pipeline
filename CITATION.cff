@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Analysis pipeline for \"Persistence of Non-industrial Gut Microbiota Discriminates Health and Disease States in Industrial Populations\""
+abstract: >-
+  Analysis pipeline comparing Industrial and Non-Industrial gut microbiome
+  profiles, including depth matching, diversity and accumulation analyses,
+  VANISH/BloSSUM differential prevalence analyses, health association tests,
+  sensitivity sweeps, and manuscript figure assembly.
+type: software
+authors:
+  - family-names: Ibata
+    given-names: Neil G. O.
+    affiliation: "Department of Human Evolutionary Biology, Harvard University, Cambridge, MA, USA"
+  - family-names: Sarkar
+    given-names: Amar
+    affiliation: "Department of Human Evolutionary Biology, Harvard University, Cambridge, MA, USA"
+    orcid: "https://orcid.org/0000-0002-6114-1873"
+  - family-names: Brielle
+    given-names: Esther
+    affiliation: "Department of Human Evolutionary Biology, Harvard University, Cambridge, MA, USA"
+    orcid: "https://orcid.org/0000-0002-6114-0301"
+  - family-names: Penumarthi
+    given-names: Lasya R.
+    affiliation: "Institute of Bioinformatics, University of Georgia, Athens, GA, USA"
+    orcid: "https://orcid.org/0009-0000-6625-8619"
+  - family-names: Moeller
+    given-names: Andrew H.
+    affiliation: "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA"
+    orcid: "https://orcid.org/0000-0002-8377-4647"
+  - family-names: Carmody
+    given-names: Rachel N.
+    affiliation: "Department of Human Evolutionary Biology, Harvard University, Cambridge, MA, USA"
+    orcid: "https://orcid.org/0000-0001-7505-9646"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/neilibata/Bacterial_persistence_analysis_pipeline"
+# The input data live in a separate Zenodo record, not in this repository.
+# download_data.sh fetches it; see README.md.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23437518"
+    description: "Record A - pipeline input data (breadth/depth matrices and curated metadata)"
+# Every co-author's ORCID was resolved against the public registry and
+# returned the expected name. Ibata has none recorded, so the field is absent
+# rather than guessed. The manuscript DOI goes in under identifiers once it
+# is assigned.
+keywords:
+  - microbiome
+  - metagenomics
+  - SGB
+  - diversity

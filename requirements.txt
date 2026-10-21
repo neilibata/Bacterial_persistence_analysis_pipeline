@@ -1,0 +1,24 @@
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+Pillow
+seaborn
+scikit-learn
+statsmodels
+joblib
+patsy
+shapely
+cartopy
+
+# Map figures. geopandas is REQUIRED: figures/make_metadata_summary.py::_load_world
+# does a bare `import geopandas`, and without it Figure 1 and the Equal Earth
+# supplementary maps are skipped -- which happened on a second machine and left
+# stale figure1.pdf/.png in place. plotly is guarded (prints a warning and skips
+# the interactive world map). geodatasets is only one of several Natural Earth
+# fallbacks in _find_ne_path(), so its absence is tolerated.
+geopandas==1.0.1
+pyogrio==0.10.0
+plotly==6.5.0
+# geodatasets  # not installed here; optional fallback

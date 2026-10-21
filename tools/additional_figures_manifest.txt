@@ -1,0 +1,144 @@
+# Supplementary-figure slot -> pipeline output, all against the combined reference.
+#
+# RENUMBERED 2026-10-19. Two figures were cited out of order in the manuscript
+# and both moved to where they are first cited. The change is a cyclic
+# rotation of two runs of slots, not a shift, so the total stays at 31 and
+# every other slot is untouched:
+#
+#     S5 -> S14   and   S6..S14 -> S5..S13
+#    S30 -> S26   and   S26..S29 -> S27..S30
+#
+# Read-length QC (was S5) was first cited after the four Carter figures (then
+# S6-S9), so it moved to the end of that run and the Carter figures became
+# S5-S8. The within-clade contrast figure (was S30) was first cited before the
+# four taxon-driver panels (then S26-S29), so it became S26 and they moved up.
+# A comment below that reads S6-S9, S27 or S30 as a slot number predates this
+# and describes the old numbering.
+#
+# Because it is a permutation, do not renumber by a sequence of find-and-
+# replace: S6->S5 followed by S5->S14 sends the original S6 to S14. The slots
+# here were rewritten by line. Downstream names follow automatically --
+# link_supplementary_figures.py builds `S%02d_<stem>` from these slots and
+# prunes the names this file no longer asks for.
+#
+# Rewriting by line left the file in the OLD slot order: it read S1-S4, S14,
+# S5..S13, and ended S27, S28, S29, S30, S26, S31. Correct, and unreadable --
+# the one file a reader opens to learn which figure is which listed them in an
+# order matching no document. The entries are sorted by slot now, each keeping
+# the note that explains it. Order carries no meaning to any consumer:
+# link_supplementary_figures.py and build_provenance_map.py both sort by slot
+# themselves, so re-sorting after a future renumbering is safe.
+#
+# Derived by matching the images embedded in Additional_figures_080826.docx
+# against the August result snapshots (tools/match_manifest.py). Those images
+# were largely produced from the UHGG run; each is mapped one-to-one onto its
+# combined counterpart here, which is the point of the upgrade pass.
+#
+# Exceptions, deliberate:
+#   S5-S8  the Carter figures, rebuilt on the 1,731-sample intersection. These
+#          supersede the EMF images still in the document, which came from
+#          outside this pipeline and cannot be image-matched.
+#   S16/S17  the filenames are swapped relative to the slots they fill. The
+#          image evidence is unambiguous (distances 16 and 12, margins > 500)
+#          and the captions agree: "detected in at least n samples" is the
+#          _mink file, the stringent-threshold rows are the _thresholds file.
+#
+#   S19    set from the caption, not the image. The nearest image was the
+#          health-axis projection at distance 372 with a margin of 10 -- weak
+#          on both counts, and forced by the joint assignment rather than
+#          earned. The caption is explicit: samples projected into the
+#          Hunter-Gatherer to Industrial axis space, aggregated by study, with
+#          the study centroid shown. That is the study-centroid figure. The
+#          health-axis projection is not an Additional Figure; that analysis
+#          was not included in the paper.
+#
+#   S15-S17  live in results/Figure3_combined, not under results/combined.
+#          S15 is main-text Figure 3 refitted with the Hill-type
+#          Michaelis-Menten model instead of Richards
+#          (figures/make_combined_figure3.py --model hill).
+#          S16 and S17 come from tools/make_accumulation_sinf_figures.py,
+#          restored from archive/pipeline_code_20260814.tar.gz; it was absent
+#          from the tree. Its own labels for the two figures are swapped
+#          relative to the document, which is why the filenames read the wrong
+#          way round: k=1,2,3,5 repeated-detection is document S16, and the
+#          10/30/50% breadth thresholds are document S17.
+#
+# Slot identifiers are S-numbers: the journal calls these Supplementary
+# Figures. The August source document, Additional_figures_080826.docx, numbers
+# them A1..A31, and that mapping was once the identity -- S4 was its Figure A4,
+# the only change being the letter.
+#
+# It is NOT the identity any more, and it is not a permutation either, so do
+# not translate between the two by changing the letter. Since August one figure
+# left the supplement for the main text (the background curve, now Figure 5E),
+# two slots were added and retired, a new read-accounting figure took S1, and
+# two runs of slots rotated on 2026-10-19. Some A-numbers therefore have no
+# S-number and some S-numbers have no A-number.
+#
+# The S-number is the only one the submitted documents use. This file is the
+# authority on what each one holds; match a figure by its path stem, not by
+# assuming its old number.
+#
+# Format: S-number|reference|path stem
+# Resolved as results/<reference>/<stem>_notitle.png, else <stem>.png.
+S1|combined|section1_diversity/supplement/read_accounting_combined
+S2|combined|section1_diversity/supplement/tech_rep_alpha_scatter_10pct
+S3|combined|section1_diversity/supplement/tech_rep_depth_vs_bc_10pct
+S4|combined|depth_audit/depth_by_lifestyle
+S5|combined|carter_analysis/carter_gmw_richness_main
+S6|combined|carter_analysis/carter_richness_pairwise_corrected
+S7|combined|carter_analysis/gmw_threshold_sweep
+S8|combined|carter_analysis/carter_gmw_weight_diagnostics_10pct
+S9|combined|section1_diversity/main/figure_robustness_alpha
+S10|combined|section1_diversity/main/gmw_richness_main
+S11|combined|section3_health/main/health_richness_gmw_combined_lifestyle_all_10pct
+S12|combined|section3_health/main/health_richness_gmw_combined_lifestyle3_10pct
+S13|combined|depth_bias_ipw/gmw_threshold_sweep
+S14|combined|section1_diversity/main/figure_read_length_diagnostic
+S15|Figure3_combined|figure3_combined_regenerated_10pct_hill
+S16|Figure3_combined|figure_a17_accumulation_sinf_mink_medium
+S17|Figure3_combined|figure_a16_accumulation_sinf_thresholds_medium
+S18|combined|section1_diversity/main/axis_angle_v2_10pct
+S19|combined|section1_diversity/main/axis_angle_v2_study_centroids_10pct
+S20|combined|section1_diversity/main/depth_binned_richness_cv_10pct
+S21|combined|section2_differential/supplement/fig_s5b_overlap_analysis
+S22|combined|section2_differential/main/s2c_continent_lifestyle_heatmap_10pct
+S23|combined|depth_audit/depth_by_health_group
+S24|combined|section3_health/main/health_richness_gmw_combined_NI_health_10pct
+#
+#   S25-S31  renumbered on 2026-10-07. The VanishH+/BlossumH+ background
+#          curve became main-text Figure 5E, so it left the supplement and
+#          every slot below it moved up one: there are 31 Additional Figures
+#          now, not 32. S26 is that same figure drawn for the original VANISH
+#          and BloSSUM lists, which replaces the prevalence-distribution
+#          figure that used to sit at S27 -- the density form of panel E is
+#          not drawn anywhere any more.
+S25|combined|section3_health/supplement/health_background_curve_base_combined_10pct
+#
+# S26 is the within-clade contrast figure (added 2026-10-06 as S32, moved up
+# on 2026-10-07, sat at S30 when the two later slots were retired, and moved
+# to S26 on 2026-10-19 to match its first citation): within one genus or
+# family, do the list members sit further
+# from the prevalence background than their relatives? Produced by section 3
+# itself (section3_health._plot_within_clade_contrasts), so --only s3 builds it.
+S26|combined|section3_health/supplement/health_within_clade_contrasts_combined_10pct
+S27|combined|section3_health/main/health_taxon_drivers_VANISH_family_combined_10pct
+S28|combined|section3_health/main/health_taxon_drivers_BloSSUM_family_combined_10pct
+S29|combined|section3_health/supplement/health_taxon_drivers_VANISH_combined_10pct
+S30|combined|section3_health/supplement/health_taxon_drivers_BloSSUM_combined_10pct
+
+#
+# S31 is the roadmap. It sat at S1 until 2026-10-14 and was cited nowhere in
+# either document -- a schematic of the study's own parts is what a reader
+# consults last, not first, and a supplementary series has to be cited in
+# order. Moving it to the end freed S1 for a figure the dataset paragraph
+# already cites, so no slot between them renumbered.
+S31|combined|figure_s0_roadmap
+
+# The DEMOGRAPHIC figure was withdrawn from the publishable set on
+# 2026-09-27 (author's call). It was slot S32 then; it is not a numbered
+# supplementary figure now, so it stays out of the flat
+# supplementary_figures/ view and the compliance audit. The pipeline still
+# builds it -- figure_runner's `demographics` task is unchanged and it still
+# publishes a data object, as Figure_demographic_data.pkl.
+#   section3_health/supplement/demographic_associations_combined_10pct

@@ -1,0 +1,438 @@
+[
+ {
+  "order": 0,
+  "dist": 6,
+  "best": "results_pre_20260820/combined.pre_backfill_20260813/figure_s0_roadmap.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/health_prevdist_meta_chimp_large.png",
+  "runner_dist": 504,
+  "margin": 498,
+  "equals": [
+   "results_pre_20260820/combined.pre_backfill_20260813/figure_s0_roadmap.png"
+  ],
+  "family": "figure_s0_roadmap",
+  "settled": true,
+  "assigned": "figure_s0_roadmap",
+  "assigned_dist": 6
+ },
+ {
+  "order": 1,
+  "dist": 194,
+  "best": "results_pre_20260820/lev/section1_diversity/supplement/tech_rep_alpha_scatter_300kb_medium.png",
+  "runner": "results_pre_20260820/chimp/depth_audit/depth_by_lifestyle_medium.png",
+  "runner_dist": 421,
+  "margin": 227,
+  "equals": [
+   "results_pre_20260820/lev/section1_diversity/supplement/tech_rep_alpha_scatter_300kb_medium.png"
+  ],
+  "family": "tech_rep_alpha_scatter",
+  "settled": true,
+  "assigned": "tech_rep_alpha_scatter",
+  "assigned_dist": 194
+ },
+ {
+  "order": 2,
+  "dist": 270,
+  "best": "results_pre_20260820/UHGG/section1_diversity/supplement/tech_rep_depth_vs_bc_300kb_medium.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/prevalence_gradient_chimp_10pct_medium.png",
+  "runner_dist": 368,
+  "margin": 98,
+  "equals": [
+   "results_pre_20260820/UHGG/section1_diversity/supplement/tech_rep_depth_vs_bc_10pct_medium.png",
+   "results_pre_20260820/UHGG/section1_diversity/supplement/tech_rep_depth_vs_bc_300kb_medium.png",
+   "results_pre_20260820/lev/section1_diversity/supplement/tech_rep_depth_vs_bc_10pct_medium.png",
+   "results_pre_20260820/lev/section1_diversity/supplement/tech_rep_depth_vs_bc_300kb_medium.png"
+  ],
+  "family": "tech_rep_depth_vs_bc",
+  "settled": true,
+  "assigned": "tech_rep_depth_vs_bc",
+  "assigned_dist": 270
+ },
+ {
+  "order": 3,
+  "dist": 178,
+  "best": "results_pre_20260820/UHGG/depth_audit/depth_by_lifestyle_medium.png",
+  "runner": "results_pre_20260820/chimp/depth_audit/depth_by_health_group_medium.png",
+  "runner_dist": 376,
+  "margin": 198,
+  "equals": [
+   "results_pre_20260820/UHGG/depth_audit/depth_by_lifestyle_medium.png",
+   "results_pre_20260820/UHGG/depth_audit_post_reinstatement/depth_by_lifestyle_medium.png",
+   "results_pre_20260826/UHGG/depth_audit/depth_by_lifestyle_medium.png",
+   "results_pre_20260826/UHGG/depth_audit_post_reinstatement/depth_by_lifestyle_medium.png"
+  ],
+  "family": "depth_by_lifestyle",
+  "settled": true,
+  "assigned": "depth_by_lifestyle",
+  "assigned_dist": 178
+ },
+ {
+  "order": 4,
+  "dist": 132,
+  "best": "results_pre_20260820/combined.pre_backfill_20260813/section1_diversity/main/figure_read_length_diagnostic_medium.png",
+  "runner": "results_pre_20260826/combined/section1_diversity/main/axis_angle_v2_study_centroids_300kb_large.png",
+  "runner_dist": 559,
+  "margin": 427,
+  "equals": [
+   "results_pre_20260820/combined.pre_backfill_20260813/section1_diversity/main/figure_read_length_diagnostic_medium.png",
+   "results_pre_20260820/combined/section1_diversity/main/figure_read_length_diagnostic_medium.png"
+  ],
+  "family": "figure_read_length_diagnostic",
+  "settled": true,
+  "assigned": "figure_read_length_diagnostic",
+  "assigned_dist": 132
+ },
+ {
+  "order": 5,
+  "best": null
+ },
+ {
+  "order": 6,
+  "best": null
+ },
+ {
+  "order": 7,
+  "best": null
+ },
+ {
+  "order": 8,
+  "best": null
+ },
+ {
+  "order": 9,
+  "dist": 237,
+  "best": "results_pre_20260826/combined/section1_diversity/main/figure_robustness_alpha_medium.png",
+  "runner": "results_pre_20260826/chimp/section3_health/main/health_directional_chimp_300kb_large.png",
+  "runner_dist": 551,
+  "margin": 314,
+  "equals": [
+   "results_pre_20260826/combined/section1_diversity/main/figure_robustness_alpha_medium.png"
+  ],
+  "family": "figure_robustness_alpha",
+  "settled": true,
+  "assigned": "figure_robustness_alpha",
+  "assigned_dist": 237
+ },
+ {
+  "order": 10,
+  "dist": 100,
+  "best": "results_pre_20260820/UHGG/section1_diversity/main/gmw_richness_main_medium.png",
+  "runner": "results_pre_20260820/carter_gmw/figure_a6_carter_gmw_richness_main_medium.png",
+  "runner_dist": 303,
+  "margin": 203,
+  "equals": [
+   "results_pre_20260820/UHGG/section1_diversity/main/gmw_richness_main_medium.png",
+   "results_pre_20260820/combined/section1_diversity/main/gmw_richness_main_medium.png"
+  ],
+  "family": "gmw_richness_main",
+  "settled": true,
+  "assigned": "gmw_richness_main",
+  "assigned_dist": 100
+ },
+ {
+  "order": 11,
+  "dist": 91,
+  "best": "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_lifestyle_all_10pct_medium.png",
+  "runner": "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_lifestyle3_10pct_medium.png",
+  "runner_dist": 95,
+  "margin": 4,
+  "equals": [
+   "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_lifestyle_all_10pct_medium.png"
+  ],
+  "family": "health_richness_gmw_lifestyle_all",
+  "settled": false,
+  "assigned": "health_richness_gmw_lifestyle_all",
+  "assigned_dist": 91
+ },
+ {
+  "order": 12,
+  "dist": 84,
+  "best": "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_lifestyle3_10pct_medium.png",
+  "runner": "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_lifestyle_all_10pct_medium.png",
+  "runner_dist": 92,
+  "margin": 8,
+  "equals": [
+   "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_lifestyle3_10pct_medium.png"
+  ],
+  "family": "health_richness_gmw_lifestyle3",
+  "settled": false,
+  "assigned": "health_richness_gmw_lifestyle3",
+  "assigned_dist": 84
+ },
+ {
+  "order": 13,
+  "dist": 96,
+  "best": "results_pre_20260820/UHGG/depth_bias_ipw/gmw_threshold_sweep_medium.png",
+  "runner": "results_pre_20260826/lev/section3_health/main/prevalence_gradient_lev_300kb_medium.png",
+  "runner_dist": 361,
+  "margin": 265,
+  "equals": [
+   "results_pre_20260820/UHGG/depth_bias_ipw/gmw_threshold_sweep_medium.png"
+  ],
+  "family": "gmw_threshold_sweep",
+  "settled": true,
+  "assigned": "gmw_threshold_sweep",
+  "assigned_dist": 96
+ },
+ {
+  "order": 14,
+  "dist": 191,
+  "best": "results_pre_20260820/Figure3_combined/figure3_combined_regenerated_10pct_hill_medium.png",
+  "runner": "results_pre_20260826/chimp/section3_health/main/health_taxon_drivers_BlossumHplus_chimp_10pct_large.png",
+  "runner_dist": 640,
+  "margin": 449,
+  "equals": [
+   "results_pre_20260820/Figure3_combined/figure3_combined_regenerated_10pct_hill_medium.png"
+  ],
+  "family": "figure3_regenerated_hill",
+  "settled": true,
+  "assigned": "figure3_regenerated_hill",
+  "assigned_dist": 191
+ },
+ {
+  "order": 15,
+  "dist": 16,
+  "best": "results_pre_20260820/Figure3_combined/figure_a17_accumulation_sinf_mink_medium.png",
+  "runner": "results_pre_20260820/Figure3_combined/figure_a16_accumulation_sinf_thresholds_medium.png",
+  "runner_dist": 540,
+  "margin": 524,
+  "equals": [
+   "results_pre_20260820/Figure3_combined/figure_a17_accumulation_sinf_mink_medium.png"
+  ],
+  "family": "figure_a17_accumulation_sinf_mink",
+  "settled": true,
+  "assigned": "figure_a17_accumulation_sinf_mink",
+  "assigned_dist": 16
+ },
+ {
+  "order": 16,
+  "dist": 12,
+  "best": "results_pre_20260820/Figure3_combined/figure_a16_accumulation_sinf_thresholds_medium.png",
+  "runner": "results_pre_20260820/Figure3_combined/figure_a17_accumulation_sinf_mink_medium.png",
+  "runner_dist": 544,
+  "margin": 532,
+  "equals": [
+   "results_pre_20260820/Figure3_combined/figure_a16_accumulation_sinf_thresholds_medium.png"
+  ],
+  "family": "figure_a16_accumulation_sinf_thresholds",
+  "settled": true,
+  "assigned": "figure_a16_accumulation_sinf_thresholds",
+  "assigned_dist": 12
+ },
+ {
+  "order": 17,
+  "dist": 175,
+  "best": "results_pre_20260820/UHGG/section1_diversity/main/axis_angle_v2_300kb_medium.png",
+  "runner": "results_pre_20260826/chimp/section1_diversity/main/depth_binned_richness_cv_10pct_medium.png",
+  "runner_dist": 512,
+  "margin": 337,
+  "equals": [
+   "results_pre_20260820/UHGG/section1_diversity/main/axis_angle_v2_10pct_medium.png",
+   "results_pre_20260820/UHGG/section1_diversity/main/axis_angle_v2_300kb_medium.png"
+  ],
+  "family": "axis_angle_v2",
+  "settled": true,
+  "assigned": "axis_angle_v2",
+  "assigned_dist": 175
+ },
+ {
+  "order": 18,
+  "dist": 372,
+  "best": "results_pre_20260826/lev/section3_health/main/health_axis_projection_10pct_medium.png",
+  "runner": "results_pre_20260820/chimp/accum_flat_100kb_continent_params_vsN_large.png",
+  "runner_dist": 382,
+  "margin": 10,
+  "equals": [
+   "results_pre_20260826/lev/section3_health/main/health_axis_projection_10pct_medium.png"
+  ],
+  "family": "health_axis_projection",
+  "settled": false,
+  "assigned": "health_axis_projection",
+  "assigned_dist": 372
+ },
+ {
+  "order": 19,
+  "dist": 297,
+  "best": "results_pre_20260820/combined/section1_diversity/main/depth_binned_richness_cv_300kb_medium.png",
+  "runner": "results_pre_20260820/chimp/section1_diversity/main/beta_diversity_pcoa_matched_medium.png",
+  "runner_dist": 457,
+  "margin": 160,
+  "equals": [
+   "results_pre_20260820/combined/section1_diversity/main/depth_binned_richness_cv_300kb_medium.png"
+  ],
+  "family": "depth_binned_richness_cv",
+  "settled": true,
+  "assigned": "depth_binned_richness_cv",
+  "assigned_dist": 297
+ },
+ {
+  "order": 20,
+  "dist": 63,
+  "best": "results_pre_20260820/combined.pre_backfill_20260813/section2_differential/supplement/fig_s5b_overlap_analysis_medium.png",
+  "runner": "results_pre_20260820/chimp/accum_flat_500kb_continent_params_vsN_large.png",
+  "runner_dist": 469,
+  "margin": 406,
+  "equals": [
+   "results_pre_20260820/combined.pre_backfill_20260813/section2_differential/supplement/fig_s5b_overlap_analysis_medium.png"
+  ],
+  "family": "fig_s5b_overlap_analysis",
+  "settled": true,
+  "assigned": "fig_s5b_overlap_analysis",
+  "assigned_dist": 63
+ },
+ {
+  "order": 21,
+  "dist": 229,
+  "best": "results_pre_20260820/UHGG/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct_medium.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/health_taxon_drivers_VanishHplus_chimp_300kb_large.png",
+  "runner_dist": 297,
+  "margin": 68,
+  "equals": [
+   "results_pre_20260820/UHGG/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct_medium.png",
+   "results_pre_20260820/combined.pre_backfill_20260813/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct_medium.png",
+   "results_pre_20260826/UHGG/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct_medium.png",
+   "results_pre_20260826/combined/section2_differential/main/s2c_continent_lifestyle_heatmap_10pct_medium.png"
+  ],
+  "family": "s2c_continent_lifestyle_heatmap",
+  "settled": false,
+  "assigned": "s2c_continent_lifestyle_heatmap",
+  "assigned_dist": 229
+ },
+ {
+  "order": 22,
+  "dist": 175,
+  "best": "results_pre_20260826/UHGG/depth_audit/depth_by_health_group_medium.png",
+  "runner": "results_pre_20260820/combined/section1_diversity/supplement/depth_qc_ni_anchored_medium.png",
+  "runner_dist": 488,
+  "margin": 313,
+  "equals": [
+   "results_pre_20260820/lev/depth_audit_post_reinstatement/depth_by_health_group_medium.png",
+   "results_pre_20260826/UHGG/depth_audit/depth_by_health_group_medium.png",
+   "results_pre_20260826/UHGG/depth_audit_post_reinstatement/depth_by_health_group_medium.png"
+  ],
+  "family": "depth_by_health_group",
+  "settled": true,
+  "assigned": "depth_by_health_group",
+  "assigned_dist": 175
+ },
+ {
+  "order": 23,
+  "dist": 28,
+  "best": "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_NI_health_10pct_medium.png",
+  "runner": "results_pre_20260820/combined/section3_health/main/health_richness_gmw_combined_lifestyle3_10pct_medium.png",
+  "runner_dist": 272,
+  "margin": 244,
+  "equals": [
+   "results_pre_20260820/UHGG/section3_health/main/health_richness_gmw_UHGG_NI_health_10pct_medium.png"
+  ],
+  "family": "health_richness_gmw_NI_health",
+  "settled": true,
+  "assigned": "health_richness_gmw_NI_health",
+  "assigned_dist": 28
+ },
+ {
+  "order": 24,
+  "dist": 375,
+  "best": "results_pre_20260820/UHGG/section3_health/main/health_iw_diagnostics_10pct_large.png",
+  "runner": "results_pre_20260820/combined.pre_backfill_20260813/section3_health/main/health_iw_diagnostics_BloSSUM_300kb_medium.png",
+  "runner_dist": 547,
+  "margin": 172,
+  "equals": [
+   "results_pre_20260820/UHGG/section3_health/main/health_iw_diagnostics_10pct_large.png",
+   "results_pre_20260820/combined/section3_health/main/health_iw_diagnostics_10pct_large.png"
+  ],
+  "family": "health_iw_diagnostics",
+  "settled": true,
+  "assigned": "health_iw_diagnostics",
+  "assigned_dist": 375
+ },
+ {
+  "order": 25,
+  "dist": 440,
+  "best": "results_pre_20260820/combined/section3_health/main/health_prevmatched_combined_300kb_large.png",
+  "runner": "results_pre_20260820/chimp/volcano_prevalence_7col_medium.png",
+  "runner_dist": 555,
+  "margin": 115,
+  "equals": [
+   "results_pre_20260820/combined/section3_health/main/health_prevmatched_combined_300kb_large.png"
+  ],
+  "family": "health_prevmatched",
+  "settled": false,
+  "assigned": "health_prevmatched",
+  "assigned_dist": 440
+ },
+ {
+  "order": 26,
+  "dist": 410,
+  "best": "results_pre_20260826/UHGG/section3_health/supplement/health_prevdist_UHGG_300kb_medium.png",
+  "runner": "results_pre_20260820/chimp/volcano_prevalence_medium.png",
+  "runner_dist": 530,
+  "margin": 120,
+  "equals": [
+   "results_pre_20260826/UHGG/section3_health/supplement/health_prevdist_UHGG_300kb_medium.png"
+  ],
+  "family": "health_prevdist",
+  "settled": false,
+  "assigned": "health_prevdist",
+  "assigned_dist": 410
+ },
+ {
+  "order": 27,
+  "dist": 213,
+  "best": "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_300kb_large.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/health_taxon_drivers_BlossumHplus_chimp_300kb_medium.png",
+  "runner_dist": 232,
+  "margin": 19,
+  "equals": [
+   "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_300kb_large.png"
+  ],
+  "family": "health_taxon_drivers_VANISH",
+  "settled": false,
+  "assigned": "health_taxon_drivers_BlossumHplus",
+  "assigned_dist": 232
+ },
+ {
+  "order": 28,
+  "dist": 233,
+  "best": "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_300kb_large.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/health_taxon_drivers_BlossumHplus_chimp_300kb_medium.png",
+  "runner_dist": 284,
+  "margin": 51,
+  "equals": [
+   "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_300kb_large.png"
+  ],
+  "family": "health_taxon_drivers_VANISH",
+  "settled": false,
+  "assigned": "pcoa_gmw3",
+  "assigned_dist": 350
+ },
+ {
+  "order": 29,
+  "dist": 192,
+  "best": "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_300kb_large.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/health_taxon_drivers_BlossumHplus_chimp_300kb_medium.png",
+  "runner_dist": 227,
+  "margin": 35,
+  "equals": [
+   "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_300kb_large.png"
+  ],
+  "family": "health_taxon_drivers_VANISH",
+  "settled": false,
+  "assigned": "health_taxon_drivers_VANISH",
+  "assigned_dist": 192
+ },
+ {
+  "order": 30,
+  "dist": 256,
+  "best": "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_10pct_large.png",
+  "runner": "results_pre_20260820/chimp/section3_health/main/health_taxon_drivers_VanishHplus_chimp_300kb_medium.png",
+  "runner_dist": 278,
+  "margin": 22,
+  "equals": [
+   "results_pre_20260826/UHGG/section3_health/supplement/health_taxon_drivers_VANISH_UHGG_10pct_large.png"
+  ],
+  "family": "health_taxon_drivers_VANISH",
+  "settled": false,
+  "assigned": "health_taxon_drivers_VanishHplus",
+  "assigned_dist": 278
+ }
+]

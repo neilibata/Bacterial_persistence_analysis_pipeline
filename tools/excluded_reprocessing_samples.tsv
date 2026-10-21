@@ -1,0 +1,61 @@
+# Samples excluded from the reprocessing worklist after alignment QC.
+#
+# All 18 come from PRJNA217052 (Brito Fiji) and were the only samples in the
+# 466-sample reprocessing run to align below 50% against either catalogue
+# (cohort median 88.0% UHGG / 88.9% lev). Verified against ENA sample records
+# on 2026-08-17; see workflow/scripts/alignment_qc.py in the preprocessing repo
+# for the check that surfaced them.
+#
+# animal_stool (17)
+#   Livestock faecal samples deposited alongside the human ones. ENA reports
+#   scientific_name='gut metagenome', isolation_source='stool', host='missing'
+#   for these -- identical to the 224 human stool samples in the same project.
+#   The only distinguishing field is sample_alias: humans carry subject IDs
+#   (HUGE-05-12.ST, M1.1.SA), animals carry village.species.AST, where the
+#   species token repeats across the three villages M / NK / NV as C (2 per
+#   village), P (up to 3) and H. Median 19.1% alignment and 4 detected SGBs
+#   against 89.3% and 103 for the human samples in the same study.
+#
+# post_qc_depth (1)
+#   SAMN02334228 is human stool (alias HUGE-B-09-08.ST) but retains only
+#   323,658 read pairs after QC and host removal -- the minimum across all 466
+#   samples -- and detects 0 SGBs above 10% breadth. Excluded on depth, not
+#   host. Its pre-fetch base_count passed the 100 Mb screen, so only the
+#   post-alignment check could catch it.
+#
+# wrong_lifestyle (3)
+#   PRJEB11419 is the American Gut Project. These three carry ENA country
+#   'BR:ES' (Brazil, Espirito Santo) and aliases qiita_sid_10317:10317.DM*,
+#   and the candidate sweep labelled them H-G purely from geography -- every
+#   one of the 142 American Gut rows already in M1 is Industrial. Adding them
+#   as non-industrial would be plainly wrong, and adding three more
+#   self-selected citizen-science participants as Industrial adds nothing the
+#   cohort does not already have. Excluded on the label, not on the data;
+#   reinstating them is a one-line edit if that call is revisited.
+#
+# None of these 21 appear in metadata_M1.csv, metadata_Mar_16_2026.csv, or any
+# existing coverage matrix (UHGG / lev / combined / chimp), so no published
+# result is affected. They entered only through the 2026 candidate sweep.
+#
+# sample	reason	alias	align_pct_UHGG	align_pct_lev
+SAMN02333929	animal_stool	NV.PA.AST	.	.
+SAMN02333937	animal_stool	M.C2.AST	19.11	18.46
+SAMN02333938	animal_stool	M.P3.AST	.	.
+SAMN02333950	animal_stool	NK.C1.AST	17.74	17.25
+SAMN02333951	animal_stool	NV.CA.AST	18.23	17.72
+SAMN02333952	animal_stool	NV.CB.AST	18.98	18.34
+SAMN02333953	animal_stool	NV.HA.AST	15.49	13.54
+SAMN02333959	animal_stool	M.C1.AST	19.04	18.53
+SAMN02333972	animal_stool	NK.C2.AST	18.63	18.22
+SAMN02333973	animal_stool	NK.P1.AST	.	25.61
+SAMN02333976	animal_stool	M.P.AST	4.59	4.79
+SAMN02333995	animal_stool	M.P2.AST	.	.
+SAMN02334008	animal_stool	NV.HB.AST	15.99	14.01
+SAMN02334020	animal_stool	M.P1.AST	23.72	22.82
+SAMN02334029	animal_stool	NK.H.AST	15.05	12.02
+SAMN02334033	animal_stool	NK.P2.AST	.	.
+SAMN02334061	animal_stool	NV.PB.AST	.	.
+SAMN02334228	post_qc_depth	HUGE-B-09-08.ST	21.64	.
+SAMEA123192841	wrong_lifestyle	qiita_sid_10317:10317.DM2686434	.	.
+SAMEA123245476	wrong_lifestyle	qiita_sid_10317:10317.DM2936484	.	.
+SAMEA123245530	wrong_lifestyle	qiita_sid_10317:10317.DM2998689	.	.

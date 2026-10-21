@@ -1,0 +1,3117 @@
+slot,phase,role,axes,text,pt,printed_pt,bold,lines
+S1,authored,suptitle,,Read accounting and reference recovery across the dataset,8.0,8.06,1,1
+S1,authored,xlabel,0,sequenced bases retained after mapping (%),7.0,7.05,0,1
+S1,authored,annotation,0,41.4%,6.0,6.04,1,1
+S1,authored,annotation,0,"42.9 of 103.8 Tb   $n$ = 18,075",5.0,5.03,0,1
+S1,authored,annotation,0,46.0%,6.0,6.04,1,1
+S1,authored,annotation,0,"27.8 of 60.4 Tb   $n$ = 13,977",5.0,5.03,0,1
+S1,authored,annotation,0,34.7%,6.0,6.04,1,1
+S1,authored,annotation,0,"12.2 of 35.3 Tb   $n$ = 3,697",5.0,5.03,0,1
+S1,authored,annotation,0,35.7%,6.0,6.04,1,1
+S1,authored,annotation,0,2.9 of 8.0 Tb   $n$ = 401,5.0,5.03,0,1
+S1,authored,annotation,0,A,9.93,10.0,1,1
+S1,authored,xtick,0,0 | 20 | 40 | 60 | 80 | 100,5.0,5.03,0,1
+S1,authored,ytick,0,All samples | Industrial | Agro-pastoralist | Hunter-gatherer,6.5,6.55,0,1
+S1,authored,ylabel,1,bases mapped (%),7.0,7.05,0,1
+S1,authored,annotation,1,31.4,5.0,5.03,1,1
+S1,authored,annotation,1,30.7,5.0,5.03,1,1
+S1,authored,annotation,1,38.9,5.0,5.03,1,1
+S1,authored,annotation,1,29.7,5.0,5.03,1,1
+S1,authored,annotation,1,31.3,5.0,5.03,1,1
+S1,authored,annotation,1,38.3,5.0,5.03,1,1
+S1,authored,annotation,1,35.7,5.0,5.03,1,1
+S1,authored,annotation,1,34.7,5.0,5.03,1,1
+S1,authored,annotation,1,46.0,5.0,5.03,1,1
+S1,authored,annotation,1,B,9.93,10.0,1,1
+S1,authored,legend_entry,1,Carter,5.5,5.54,0,1
+S1,authored,legend_entry,1,Leviatan,5.5,5.54,0,1
+S1,authored,legend_entry,1,Combined,5.5,5.54,0,1
+S1,authored,legend_entry,1,Chimpanzee (8.4%),5.5,5.54,0,1
+S1,authored,xtick,1,Hunter-gatherer | Agro-pastoralist | Industrial,6.5,6.55,0,1
+S1,authored,ytick,1,0 | 10 | 20 | 30 | 40 | 50 | 60,5.0,5.03,0,1
+S1,authored,ylabel,2,mapped fraction of sequenced bases,7.0,7.05,0,1
+S1,authored,annotation,2,points: study medians,5.0,5.03,0,1
+S1,authored,annotation,2,C,9.93,10.0,1,1
+S1,authored,xtick,2,Hunter-gatherer | Agro-pastoralist | Industrial,6.5,6.55,0,1
+S1,authored,ytick,2,0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0,5.0,5.03,0,1
+S1,authored,xlabel,3,"sequenced bases per sample (Gb, decile midpoint)",7.0,7.05,0,1
+S1,authored,ylabel,3,median mapped fraction,7.0,7.05,0,1
+S1,authored,annotation,3,D,9.93,10.0,1,1
+S1,authored,legend_entry,3,Non-industrial,5.5,5.54,0,1
+S1,authored,legend_entry,3,Industrial,5.5,5.54,0,1
+S1,authored,xtick,3,0.3 | 1 | 3 | 10 | 30,5.0,5.03,0,1
+S1,authored,ytick,3,0.20 | 0.25 | 0.30 | 0.35 | 0.40 | 0.45 | 0.50 | 0.55,5.0,5.03,0,1
+S1,authored,marker,2,line marker 'o',3.4,3.42,0,1
+S1,authored,marker,2,"scatter (1 sizes, smallest)",2.65,2.66,0,1
+S1,authored,marker,3,line marker 's',3.6,3.63,0,1
+S1,authored,marker,3,line marker 'o',3.6,3.63,0,1
+S1,final,xlabel,0,sequenced bases retained after mapping (%),8.53,8.51,0,1
+S1,final,annotation,0,41.4%,8.53,8.51,1,1
+S1,final,annotation,0,"42.9 of 103.8 Tb   $n$ = 18,075",8.53,8.51,0,1
+S1,final,annotation,0,46.0%,8.53,8.51,1,1
+S1,final,annotation,0,"27.8 of 60.4 Tb   $n$ = 13,977",8.53,8.51,0,1
+S1,final,annotation,0,34.7%,8.53,8.51,1,1
+S1,final,annotation,0,"12.2 of 35.3 Tb   $n$ = 3,697",8.53,8.51,0,1
+S1,final,annotation,0,35.7%,8.53,8.51,1,1
+S1,final,annotation,0,2.9 of 8.0 Tb   $n$ = 401,8.53,8.51,0,1
+S1,final,annotation,0,A,8.53,8.51,1,1
+S1,final,xtick,0,0 | 20 | 40 | 60 | 80 | 100,7.6,7.59,0,1
+S1,final,ytick,0,All samples | Industrial | Agro-pastoralist | Hunter-gatherer,7.6,7.59,0,1
+S1,final,ylabel,1,bases mapped (%),6.0,5.99,0,1
+S1,final,annotation,1,31.4,8.53,8.51,1,1
+S1,final,annotation,1,30.7,8.53,8.51,1,1
+S1,final,annotation,1,38.9,8.53,8.51,1,1
+S1,final,annotation,1,29.7,8.53,8.51,1,1
+S1,final,annotation,1,31.3,8.53,8.51,1,1
+S1,final,annotation,1,38.3,8.53,8.51,1,1
+S1,final,annotation,1,35.7,8.53,8.51,1,1
+S1,final,annotation,1,34.7,8.53,8.51,1,1
+S1,final,annotation,1,46.0,8.53,8.51,1,1
+S1,final,annotation,1,B,8.53,8.51,1,1
+S1,final,legend_entry,1,Carter,7.6,7.59,0,1
+S1,final,legend_entry,1,Leviatan,7.6,7.59,0,1
+S1,final,legend_entry,1,Combined,7.6,7.59,0,1
+S1,final,xtick,1,Hunter-gatherer | Agro-pastoralist | Industrial,7.6,7.59,0,1
+S1,final,ytick,1,0 | 15 | 30 | 45 | 60,7.6,7.59,0,1
+S1,final,ylabel,2,mapped fraction of sequenced bases,6.0,5.99,0,1
+S1,final,annotation,2,points: study medians,8.53,8.51,0,1
+S1,final,annotation,2,C,8.53,8.51,1,1
+S1,final,xtick,2,Hunter-gatherer | Agro-pastoralist | Industrial,7.6,7.59,0,1
+S1,final,ytick,2,0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0,7.6,7.59,0,1
+S1,final,xlabel,3,"sequenced bases per sample (Gb, decile midpoint)",8.53,8.51,0,1
+S1,final,ylabel,3,median mapped fraction,8.53,8.51,0,1
+S1,final,annotation,3,D,8.53,8.51,1,1
+S1,final,legend_entry,3,Non-industrial,7.6,7.59,0,1
+S1,final,legend_entry,3,Industrial,7.6,7.59,0,1
+S1,final,xtick,3,0.3 | 1 | 3 | 10 | 30,7.6,7.59,0,1
+S1,final,ytick,3,0.16 | 0.24 | 0.32 | 0.40 | 0.48 | 0.56,7.6,7.59,0,1
+S1,final,marker,2,line marker 'o',3.4,3.39,0,1
+S1,final,marker,2,"scatter (1 sizes, smallest)",2.65,2.64,0,1
+S1,final,marker,3,line marker 's',3.6,3.59,0,1
+S1,final,marker,3,line marker 'o',3.6,3.59,0,1
+S2,authored,suptitle,,Technical replicates: richness concordance \n (>=10% breadth coverage),9.0,9.33,1,2
+S2,authored,figure_text,,Primary run richness,13.2,13.68,0,1
+S2,authored,figure_text,,Secondary run richness,13.2,13.68,0,1
+S2,authored,axes_title,0,Hunter-gatherer,7.0,7.25,0,1
+S2,authored,annotation,0,n = 16 \n ICC = -0.106,5.0,5.18,0,2
+S2,authored,xtick,0,200 | 400 | 600 | 800 | 1000 | 1200,5.0,5.18,0,1
+S2,authored,ytick,0,200 | 400 | 600 | 800 | 1000 | 1200,5.0,5.18,0,1
+S2,authored,axes_title,1,Agro-pastoralist,7.0,7.25,0,1
+S2,authored,annotation,1,n = 575 \n ICC = 0.358,5.0,5.18,0,2
+S2,authored,xtick,1,0 | 100 | 200 | 300 | 400 | 500,5.0,5.18,0,1
+S2,authored,ytick,1,0 | 100 | 200 | 300 | 400 | 500,5.0,5.18,0,1
+S2,authored,axes_title,2,Industrial,7.0,7.25,0,1
+S2,authored,annotation,2,"n = 2,761 \n ICC = 0.775",5.0,5.18,0,2
+S2,authored,xtick,2,0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,5.18,0,1
+S2,authored,ytick,2,0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,5.18,0,1
+S2,authored,marker,0,"scatter (1 sizes, smallest)",4.24,4.4,0,1
+S2,authored,marker,1,"scatter (1 sizes, smallest)",4.24,4.4,0,1
+S2,authored,marker,2,"scatter (1 sizes, smallest)",4.24,4.4,0,1
+S2,final,axes_title,0,Hunter-gatherer,8.29,8.4,0,1
+S2,final,annotation,0,n = 16 \n ICC = -0.106,7.69,7.8,0,2
+S2,final,xtick,0,0 | 250 | 500 | 750 | 1000 | 1250,6.75,6.85,0,1
+S2,final,ytick,0,0 | 250 | 500 | 750 | 1000 | 1250,6.75,6.85,0,1
+S2,final,axes_title,1,Agro-pastoralist,8.29,8.4,0,1
+S2,final,annotation,1,n = 575 \n ICC = 0.358,7.69,7.8,0,2
+S2,final,xtick,1,0 | 150 | 300 | 450 | 600,6.75,6.85,0,1
+S2,final,ytick,1,0 | 150 | 300 | 450 | 600,6.75,6.85,0,1
+S2,final,axes_title,2,Industrial,8.29,8.4,0,1
+S2,final,annotation,2,"n = 2,761 \n ICC = 0.775",7.69,7.8,0,2
+S2,final,xtick,2,0 | 150 | 300 | 450 | 600,6.75,6.85,0,1
+S2,final,ytick,2,0 | 150 | 300 | 450 | 600,6.75,6.85,0,1
+S2,final,marker,0,"scatter (1 sizes, smallest)",4.24,4.3,0,1
+S2,final,marker,1,"scatter (1 sizes, smallest)",4.24,4.3,0,1
+S2,final,marker,2,"scatter (1 sizes, smallest)",4.24,4.3,0,1
+S3,authored,xlabel,0,log$_{10}$(primary total_bp),6.0,6.4,0,1
+S3,authored,ylabel,0,Bray-Curtis (primary vs secondary),6.0,6.4,0,1
+S3,authored,legend_entry,0,"Industrial (n=2,761)",6.0,6.4,0,1
+S3,authored,legend_entry,0,Agro-pastoralist (n=575),6.0,6.4,0,1
+S3,authored,legend_entry,0,Hunter-gatherer (n=16),6.0,6.4,0,1
+S3,authored,xtick,0,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.33,0,1
+S3,authored,ytick,0,−0.1 | 0.0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6,5.0,5.33,0,1
+S3,authored,marker,0,"scatter (1 sizes, smallest)",3.74,3.99,0,1
+S3,final,xlabel,0,log$_{10}$(primary total_bp),8.34,8.39,0,1
+S3,final,ylabel,0,Bray-Curtis (primary vs secondary),8.34,8.39,0,1
+S3,final,legend_entry,0,"Industrial (n=2,761)",7.18,7.22,0,1
+S3,final,legend_entry,0,Agro-pastoralist (n=575),7.18,7.22,0,1
+S3,final,legend_entry,0,Hunter-gatherer (n=16),7.18,7.22,0,1
+S3,final,xtick,0,7.2 | 8.0 | 8.8 | 9.6 | 10.4 | 11.2,7.18,7.22,0,1
+S3,final,ytick,0,−0.25 | 0.00 | 0.25 | 0.50 | 0.75 | 1.00,7.18,7.22,0,1
+S3,final,marker,0,"scatter (1 sizes, smallest)",3.74,3.76,0,1
+S4,authored,suptitle,,Sequencing depth by lifestyle (before matching),8.0,8.29,1,1
+S4,authored,figure_text,,log$_{10}$(Total mapped bp),14.4,14.92,0,1
+S4,authored,figure_text,,Count,14.4,14.92,0,1
+S4,authored,axes_title,0,Hunter-gatherer,7.0,7.25,1,1
+S4,authored,annotation,0,n = 401 \n median = 6.1e+09 bp,4.0,4.15,0,2
+S4,authored,xtick,0,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.18,0,1
+S4,authored,ytick,0,0 | 100 | 200 | 300 | 400 | 500 | 600 | 700,5.0,5.18,0,1
+S4,authored,axes_title,1,Agro-pastoralist,7.0,7.25,1,1
+S4,authored,annotation,1,"n = 3,697 \n median = 3.3e+09 bp",4.0,4.15,0,2
+S4,authored,xtick,1,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.18,0,1
+S4,authored,axes_title,2,Industrial,7.0,7.25,1,1
+S4,authored,annotation,2,"n = 13,977 \n median = 1.7e+09 bp",4.0,4.15,0,2
+S4,authored,xtick,2,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.18,0,1
+S4,final,axes_title,0,Hunter-gatherer,8.29,8.4,0,1
+S4,final,annotation,0,n = 401 \n median = 6.1e+09 bp,7.69,7.8,0,2
+S4,final,xtick,0,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.75,6.85,0,1
+S4,final,ytick,0,0 | 250 | 500 | 750 | 1000,6.75,6.85,0,1
+S4,final,axes_title,1,Agro-pastoralist,8.29,8.4,0,1
+S4,final,annotation,1,"n = 3,697 \n median = 3.3e+09 bp",7.69,7.8,0,2
+S4,final,xtick,1,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.75,6.85,0,1
+S4,final,axes_title,2,Industrial,8.29,8.4,0,1
+S4,final,annotation,2,"n = 13,977 \n median = 1.7e+09 bp",7.69,7.8,0,2
+S4,final,xtick,2,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.75,6.85,0,1
+S5,authored,suptitle,,SGB richness: raw vs depth-corrected,10.0,11.07,1,1
+S5,authored,axes_title,0,>=10% breadth coverage,8.0,8.86,1,1
+S5,authored,xlabel,0,Sequencing depth (Gb),8.0,8.86,0,1
+S5,authored,ylabel,0,Density,7.0,7.75,0,1
+S5,authored,legend_entry,0,Industrial,7.0,7.75,0,1
+S5,authored,legend_entry,0,Non-Industrial,7.0,7.75,0,1
+S5,authored,legend_entry,0,$\sqrt{\hat{f}_{Ind}{\cdot}\hat{f}_{NI}}$ (target),7.0,7.75,0,1
+S5,authored,xtick,0,1 | 3 | 10 | 30 | 100,7.0,7.75,0,1
+S5,authored,axes_title,2,Raw richness,8.0,8.86,0,1
+S5,authored,ylabel,2,SGBs per sample,8.0,8.86,0,1
+S5,authored,annotation,2,  209±2,7.0,7.75,1,1
+S5,authored,annotation,2,  355±7,7.0,7.75,1,1
+S5,authored,annotation,2,***,5.0,5.54,0,1
+S5,authored,xtick,2,"Industrial
+(n=900) | Non-Industrial
+(n=830)",6.0,6.64,0,1
+S5,authored,ytick,2,0 | 200 | 400 | 600 | 800 | 1000 | 1200 | 1400,6.0,6.64,0,1
+S5,authored,axes_title,3,Depth-corrected richness,8.0,8.86,0,1
+S5,authored,ylabel,3,SGBs per sample,8.0,8.86,0,1
+S5,authored,annotation,3,  217±4,7.0,7.75,1,1
+S5,authored,annotation,3,  294±5,7.0,7.75,1,1
+S5,authored,annotation,3,**,5.0,5.54,0,1
+S5,authored,annotation,3,*,7.0,7.75,0,1
+S5,authored,annotation,3,***,7.0,7.75,0,1
+S5,authored,xtick,3,"Industrial
+(ESS=584) | Non-Industrial
+(ESS=527)",6.0,6.64,0,1
+S5,authored,ytick,3,0 | 200 | 400 | 600 | 800 | 1000 | 1200 | 1400,6.0,6.64,0,1
+S5,authored,axes_title,4,>=300 kb mapped bases,8.0,8.86,1,1
+S5,authored,xlabel,4,Sequencing depth (Gb),8.0,8.86,0,1
+S5,authored,ylabel,4,Density,7.0,7.75,0,1
+S5,authored,legend_entry,4,Industrial,7.0,7.75,0,1
+S5,authored,legend_entry,4,Non-Industrial,7.0,7.75,0,1
+S5,authored,legend_entry,4,$\sqrt{\hat{f}_{Ind}{\cdot}\hat{f}_{NI}}$ (target),7.0,7.75,0,1
+S5,authored,xtick,4,1 | 3 | 10 | 30 | 100,7.0,7.75,0,1
+S5,authored,axes_title,6,Raw richness,8.0,8.86,0,1
+S5,authored,ylabel,6,SGBs per sample,8.0,8.86,0,1
+S5,authored,annotation,6,  203±2,7.0,7.75,1,1
+S5,authored,annotation,6,  324±6,7.0,7.75,1,1
+S5,authored,annotation,6,***,5.0,5.54,0,1
+S5,authored,xtick,6,"Industrial
+(n=900) | Non-Industrial
+(n=830)",6.0,6.64,0,1
+S5,authored,ytick,6,0 | 200 | 400 | 600 | 800 | 1000 | 1200,6.0,6.64,0,1
+S5,authored,axes_title,7,Depth-corrected richness,8.0,8.86,0,1
+S5,authored,ylabel,7,SGBs per sample,8.0,8.86,0,1
+S5,authored,annotation,7,  211±4,7.0,7.75,1,1
+S5,authored,annotation,7,  266±4,7.0,7.75,1,1
+S5,authored,annotation,7,**,5.0,5.54,0,1
+S5,authored,annotation,7,*,7.0,7.75,0,1
+S5,authored,annotation,7,***,7.0,7.75,0,1
+S5,authored,xtick,7,"Industrial
+(ESS=584) | Non-Industrial
+(ESS=527)",6.0,6.64,0,1
+S5,authored,ytick,7,0 | 200 | 400 | 600 | 800 | 1000 | 1200,6.0,6.64,0,1
+S5,authored,marker,2,line marker '_',3.0,3.32,0,1
+S5,authored,marker,3,line marker '_',3.0,3.32,0,1
+S5,authored,marker,3,line marker 'D',5.0,5.54,0,1
+S5,authored,marker,3,line marker '_',8.0,8.86,0,1
+S5,authored,marker,6,line marker '_',3.0,3.32,0,1
+S5,authored,marker,7,line marker '_',3.0,3.32,0,1
+S5,authored,marker,7,line marker 'D',5.0,5.54,0,1
+S5,authored,marker,7,line marker '_',8.0,8.86,0,1
+S5,final,axes_title,0,>=10% breadth coverage,7.92,8.39,0,1
+S5,final,xlabel,0,Sequencing depth (Gb),6.94,7.36,0,1
+S5,final,ylabel,0,Density,6.94,7.36,0,1
+S5,final,legend_entry,0,Industrial,5.97,6.33,0,1
+S5,final,legend_entry,0,Non-industrial,5.97,6.33,0,1
+S5,final,xtick,0,1 | 3 | 10 | 30 | 100,5.97,6.33,0,1
+S5,final,axes_title,2,Raw richness,7.92,8.39,0,1
+S5,final,ylabel,2,SGBs per sample,7.92,8.39,0,1
+S5,final,annotation,2,  209±2,6.8,7.21,1,1
+S5,final,annotation,2,  355±7,6.8,7.21,1,1
+S5,final,annotation,2,***,6.8,7.21,0,1
+S5,final,xtick,2,"Industrial
+(n=900) | Non-industrial
+(n=830)",5.97,6.33,0,1
+S5,final,ytick,2,0 | 400 | 800 | 1200 | 1600,5.97,6.33,0,1
+S5,final,axes_title,3,Depth-corrected richness,7.92,8.39,0,1
+S5,final,ylabel,3,SGBs per sample,7.92,8.39,0,1
+S5,final,annotation,3,  217±4,6.8,7.21,1,1
+S5,final,annotation,3,  294±5,6.8,7.21,1,1
+S5,final,annotation,3,**,6.8,7.21,0,1
+S5,final,annotation,3,*,6.8,7.21,0,1
+S5,final,annotation,3,***,6.8,7.21,0,1
+S5,final,xtick,3,"Industrial
+(ESS=584) | Non-industrial
+(ESS=527)",5.97,6.33,0,1
+S5,final,ytick,3,0 | 400 | 800 | 1200 | 1600,5.97,6.33,0,1
+S5,final,axes_title,4,>=300 kb mapped bases,7.92,8.39,0,1
+S5,final,xlabel,4,Sequencing depth (Gb),6.94,7.36,0,1
+S5,final,ylabel,4,Density,6.94,7.36,0,1
+S5,final,legend_entry,4,Industrial,5.97,6.33,0,1
+S5,final,legend_entry,4,Non-industrial,5.97,6.33,0,1
+S5,final,xtick,4,1 | 3 | 10 | 30 | 100,5.97,6.33,0,1
+S5,final,axes_title,6,Raw richness,7.92,8.39,0,1
+S5,final,ylabel,6,SGBs per sample,7.92,8.39,0,1
+S5,final,annotation,6,  203±2,6.8,7.21,1,1
+S5,final,annotation,6,  324±6,6.8,7.21,1,1
+S5,final,annotation,6,***,6.8,7.21,0,1
+S5,final,xtick,6,"Industrial
+(n=900) | Non-industrial
+(n=830)",5.97,6.33,0,1
+S5,final,ytick,6,0 | 300 | 600 | 900 | 1200,5.97,6.33,0,1
+S5,final,axes_title,7,Depth-corrected richness,7.92,8.39,0,1
+S5,final,ylabel,7,SGBs per sample,7.92,8.39,0,1
+S5,final,annotation,7,  211±4,6.8,7.21,1,1
+S5,final,annotation,7,  266±4,6.8,7.21,1,1
+S5,final,annotation,7,**,6.8,7.21,0,1
+S5,final,annotation,7,*,6.8,7.21,0,1
+S5,final,annotation,7,***,6.8,7.21,0,1
+S5,final,xtick,7,"Industrial
+(ESS=584) | Non-industrial
+(ESS=527)",5.97,6.33,0,1
+S5,final,ytick,7,0 | 300 | 600 | 900 | 1200,5.97,6.33,0,1
+S5,final,marker,2,line marker '_',3.0,3.18,0,1
+S5,final,marker,3,line marker '_',3.0,3.18,0,1
+S5,final,marker,3,line marker 'D',5.0,5.3,0,1
+S5,final,marker,3,line marker '_',8.0,8.48,0,1
+S5,final,marker,6,line marker '_',3.0,3.18,0,1
+S5,final,marker,7,line marker '_',3.0,3.18,0,1
+S5,final,marker,7,line marker 'D',5.0,5.3,0,1
+S5,final,marker,7,line marker '_',8.0,8.48,0,1
+S6,authored,suptitle,,SGB richness: pairwise depth-corrected comparisons,9.5,10.35,1,1
+S6,authored,axes_title,0,Sequencing depth,7.5,8.17,0,1
+S6,authored,xlabel,0,Sequencing depth (Gb),6.5,7.08,0,1
+S6,authored,ylabel,0,I vs A-P \n Density,6.5,7.08,0,2
+S6,authored,annotation,0,A,9.18,10.0,1,1
+S6,authored,legend_entry,0,Industrial,6.5,7.08,0,1
+S6,authored,legend_entry,0,Agro-pastoralist,6.5,7.08,0,1
+S6,authored,legend_entry,0,$\sqrt{\hat{f}_A{\cdot}\hat{f}_B}$ target,6.5,7.08,0,1
+S6,authored,xtick,0,1 | 3 | 10 | 30,6.5,7.08,0,1
+S6,authored,axes_title,2,≥10% breadth,6.5,7.08,0,1
+S6,authored,ylabel,2,SGBs per sample,6.5,7.08,0,1
+S6,authored,annotation,2,209±2  ,6.5,7.08,0,1
+S6,authored,annotation,2,  214,6.5,7.08,1,1
+S6,authored,annotation,2,284±4  ,6.5,7.08,0,1
+S6,authored,annotation,2,  261,6.5,7.08,1,1
+S6,authored,annotation,2,**,5.0,5.45,0,1
+S6,authored,annotation,2,ns,6.5,7.08,0,1
+S6,authored,annotation,2,***,6.5,7.08,0,1
+S6,authored,annotation,2,B,9.18,10.0,1,1
+S6,authored,xtick,2,"Industrial
+n=900  ESS=621 | Transitional
+n=646  ESS=431",6.5,7.08,0,1
+S6,authored,ytick,2,0 | 100 | 200 | 300 | 400 | 500 | 600 | 700,5.5,5.99,0,1
+S6,authored,axes_title,3,≥300 kb mapped,6.5,7.08,0,1
+S6,authored,ylabel,3,SGBs per sample,6.5,7.08,0,1
+S6,authored,annotation,3,203±2  ,6.5,7.08,0,1
+S6,authored,annotation,3,  208,6.5,7.08,1,1
+S6,authored,annotation,3,262±4  ,6.5,7.08,0,1
+S6,authored,annotation,3,  239,6.5,7.08,1,1
+S6,authored,annotation,3,**,5.0,5.45,0,1
+S6,authored,annotation,3,ns,6.5,7.08,0,1
+S6,authored,annotation,3,***,6.5,7.08,0,1
+S6,authored,annotation,3,C,9.18,10.0,1,1
+S6,authored,xtick,3,"Industrial
+n=900  ESS=621 | Transitional
+n=646  ESS=431",6.5,7.08,0,1
+S6,authored,ytick,3,0 | 100 | 200 | 300 | 400 | 500 | 600 | 700,5.5,5.99,0,1
+S6,authored,xlabel,4,Sequencing depth (Gb),6.5,7.08,0,1
+S6,authored,ylabel,4,I vs H-G \n Density,6.5,7.08,0,2
+S6,authored,annotation,4,D,9.18,10.0,1,1
+S6,authored,legend_entry,4,Industrial,6.5,7.08,0,1
+S6,authored,legend_entry,4,Hunter-gatherer,6.5,7.08,0,1
+S6,authored,legend_entry,4,$\sqrt{\hat{f}_A{\cdot}\hat{f}_B}$ target,6.5,7.08,0,1
+S6,authored,xtick,4,1 | 3 | 10 | 30 | 100,6.5,7.08,0,1
+S6,authored,ylabel,6,SGBs per sample,6.5,7.08,0,1
+S6,authored,annotation,6,209±2  ,6.5,7.08,0,1
+S6,authored,annotation,6,  224,6.5,7.08,1,1
+S6,authored,annotation,6,606±18  ,6.5,7.08,0,1
+S6,authored,annotation,6,  416,6.5,7.08,1,1
+S6,authored,annotation,6,**,5.0,5.45,0,1
+S6,authored,annotation,6,**,6.5,7.08,0,1
+S6,authored,annotation,6,***,6.5,7.08,0,1
+S6,authored,annotation,6,E,9.18,10.0,1,1
+S6,authored,xtick,6,"Industrial
+n=900  ESS=418 | H-G
+n=184  ESS=73",6.5,7.08,0,1
+S6,authored,ytick,6,0 | 200 | 400 | 600 | 800 | 1000 | 1200 | 1400,5.5,5.99,0,1
+S6,authored,ylabel,7,SGBs per sample,6.5,7.08,0,1
+S6,authored,annotation,7,203±2  ,6.5,7.08,0,1
+S6,authored,annotation,7,  218,6.5,7.08,1,1
+S6,authored,annotation,7,539±17  ,6.5,7.08,0,1
+S6,authored,annotation,7,  362,6.5,7.08,1,1
+S6,authored,annotation,7,**,5.0,5.45,0,1
+S6,authored,annotation,7,**,6.5,7.08,0,1
+S6,authored,annotation,7,***,6.5,7.08,0,1
+S6,authored,annotation,7,F,9.18,10.0,1,1
+S6,authored,xtick,7,"Industrial
+n=900  ESS=418 | H-G
+n=184  ESS=73",6.5,7.08,0,1
+S6,authored,ytick,7,0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.5,5.99,0,1
+S6,authored,xlabel,8,Sequencing depth (Gb),6.5,7.08,0,1
+S6,authored,ylabel,8,A-P vs H-G \n Density,6.5,7.08,0,2
+S6,authored,annotation,8,G,9.18,10.0,1,1
+S6,authored,legend_entry,8,Agro-pastoralist,6.5,7.08,0,1
+S6,authored,legend_entry,8,Hunter-gatherer,6.5,7.08,0,1
+S6,authored,legend_entry,8,$\sqrt{\hat{f}_A{\cdot}\hat{f}_B}$ target,6.5,7.08,0,1
+S6,authored,xtick,8,1 | 3 | 10 | 30 | 100,6.5,7.08,0,1
+S6,authored,ylabel,10,SGBs per sample,6.5,7.08,0,1
+S6,authored,annotation,10,284±4  ,6.5,7.08,0,1
+S6,authored,annotation,10,  301,6.5,7.08,1,1
+S6,authored,annotation,10,606±18  ,6.5,7.08,0,1
+S6,authored,annotation,10,  495,6.5,7.08,1,1
+S6,authored,annotation,10,**,5.0,5.45,0,1
+S6,authored,annotation,10,*,6.5,7.08,0,1
+S6,authored,annotation,10,***,6.5,7.08,0,1
+S6,authored,annotation,10,H,9.18,10.0,1,1
+S6,authored,xtick,10,"Transitional
+n=646  ESS=443 | H-G
+n=184  ESS=122",6.5,7.08,0,1
+S6,authored,ytick,10,0 | 200 | 400 | 600 | 800 | 1000 | 1200 | 1400,5.5,5.99,0,1
+S6,authored,ylabel,11,SGBs per sample,6.5,7.08,0,1
+S6,authored,annotation,11,262±4  ,6.5,7.08,0,1
+S6,authored,annotation,11,  278,6.5,7.08,1,1
+S6,authored,annotation,11,539±17  ,6.5,7.08,0,1
+S6,authored,annotation,11,  435,6.5,7.08,1,1
+S6,authored,annotation,11,**,5.0,5.45,0,1
+S6,authored,annotation,11,**,6.5,7.08,0,1
+S6,authored,annotation,11,***,6.5,7.08,0,1
+S6,authored,annotation,11,I,9.18,10.0,1,1
+S6,authored,xtick,11,"Transitional
+n=646  ESS=443 | H-G
+n=184  ESS=122",6.5,7.08,0,1
+S6,authored,ytick,11,0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.5,5.99,0,1
+S6,authored,marker,2,line marker '_',2.25,2.45,0,1
+S6,authored,marker,2,line marker 'D',5.0,5.45,0,1
+S6,authored,marker,2,line marker '_',8.0,8.72,0,1
+S6,authored,marker,3,line marker '_',2.25,2.45,0,1
+S6,authored,marker,3,line marker 'D',5.0,5.45,0,1
+S6,authored,marker,3,line marker '_',8.0,8.72,0,1
+S6,authored,marker,6,line marker '_',2.25,2.45,0,1
+S6,authored,marker,6,line marker 'D',5.0,5.45,0,1
+S6,authored,marker,6,line marker '_',8.0,8.72,0,1
+S6,authored,marker,7,line marker '_',2.25,2.45,0,1
+S6,authored,marker,7,line marker 'D',5.0,5.45,0,1
+S6,authored,marker,7,line marker '_',8.0,8.72,0,1
+S6,authored,marker,10,line marker '_',2.25,2.45,0,1
+S6,authored,marker,10,line marker 'D',5.0,5.45,0,1
+S6,authored,marker,10,line marker '_',8.0,8.72,0,1
+S6,authored,marker,11,line marker '_',2.25,2.45,0,1
+S6,authored,marker,11,line marker 'D',5.0,5.45,0,1
+S6,authored,marker,11,line marker '_',8.0,8.72,0,1
+S6,final,axes_title,0,Sequencing depth,7.99,8.34,0,1
+S6,final,xlabel,0,Sequencing depth (Gb),6.94,7.25,0,1
+S6,final,ylabel,0,I vs A-P \n Density,6.94,7.25,0,2
+S6,final,annotation,0,A,8.04,8.4,1,1
+S6,final,legend_entry,0,Industrial,5.97,6.24,0,1
+S6,final,legend_entry,0,Agro-pastoralist,5.97,6.24,0,1
+S6,final,xtick,0,1 | 3 | 10 | 30,5.97,6.24,0,1
+S6,final,axes_title,2,≥10% breadth,7.99,8.34,0,1
+S6,final,ylabel,2,SGBs per sample,7.5,7.84,0,1
+S6,final,annotation,2,209±2  ,6.8,7.11,0,1
+S6,final,annotation,2,  214,6.8,7.11,1,1
+S6,final,annotation,2,284±4  ,6.8,7.11,0,1
+S6,final,annotation,2,  261,6.8,7.11,1,1
+S6,final,annotation,2,**,6.8,7.11,0,1
+S6,final,annotation,2,ns,6.8,7.11,0,1
+S6,final,annotation,2,***,6.8,7.11,0,1
+S6,final,annotation,2,B,8.04,8.4,1,1
+S6,final,xtick,2,"Industrial
+n=900  ESS=621 | Agro-pastoralist
+n=646  ESS=431",5.97,6.24,0,1
+S6,final,ytick,2,0 | 250 | 500 | 750 | 1000,5.97,6.24,0,1
+S6,final,axes_title,3,≥300 kb mapped,7.99,8.34,0,1
+S6,final,ylabel,3,SGBs per sample,7.5,7.84,0,1
+S6,final,annotation,3,203±2  ,6.8,7.11,0,1
+S6,final,annotation,3,  208,6.8,7.11,1,1
+S6,final,annotation,3,262±4  ,6.8,7.11,0,1
+S6,final,annotation,3,  239,6.8,7.11,1,1
+S6,final,annotation,3,**,6.8,7.11,0,1
+S6,final,annotation,3,ns,6.8,7.11,0,1
+S6,final,annotation,3,***,6.8,7.11,0,1
+S6,final,annotation,3,C,8.04,8.4,1,1
+S6,final,xtick,3,"Industrial
+n=900  ESS=621 | Agro-pastoralist
+n=646  ESS=431",5.97,6.24,0,1
+S6,final,ytick,3,0 | 200 | 400 | 600 | 800,5.97,6.24,0,1
+S6,final,xlabel,4,Sequencing depth (Gb),6.94,7.25,0,1
+S6,final,ylabel,4,I vs H-G \n Density,6.94,7.25,0,2
+S6,final,annotation,4,D,8.04,8.4,1,1
+S6,final,legend_entry,4,Industrial,5.97,6.24,0,1
+S6,final,legend_entry,4,Hunter-gatherer,5.97,6.24,0,1
+S6,final,xtick,4,1 | 3 | 10 | 30 | 100,5.97,6.24,0,1
+S6,final,ylabel,6,SGBs per sample,7.5,7.84,0,1
+S6,final,annotation,6,209±2  ,6.8,7.11,0,1
+S6,final,annotation,6,  224,6.8,7.11,1,1
+S6,final,annotation,6,606±18  ,6.8,7.11,0,1
+S6,final,annotation,6,  416,6.8,7.11,1,1
+S6,final,annotation,6,**,6.8,7.11,0,1
+S6,final,annotation,6,***,6.8,7.11,0,1
+S6,final,annotation,6,E,8.04,8.4,1,1
+S6,final,xtick,6,"Industrial
+n=900  ESS=418 | Hunter-gatherer
+n=184  ESS=73",5.97,6.24,0,1
+S6,final,ytick,6,0 | 400 | 800 | 1200 | 1600,5.97,6.24,0,1
+S6,final,ylabel,7,SGBs per sample,7.5,7.84,0,1
+S6,final,annotation,7,203±2  ,6.8,7.11,0,1
+S6,final,annotation,7,  218,6.8,7.11,1,1
+S6,final,annotation,7,539±17  ,6.8,7.11,0,1
+S6,final,annotation,7,  362,6.8,7.11,1,1
+S6,final,annotation,7,**,6.8,7.11,0,1
+S6,final,annotation,7,***,6.8,7.11,0,1
+S6,final,annotation,7,F,8.04,8.4,1,1
+S6,final,xtick,7,"Industrial
+n=900  ESS=418 | Hunter-gatherer
+n=184  ESS=73",5.97,6.24,0,1
+S6,final,ytick,7,0 | 300 | 600 | 900 | 1200,5.97,6.24,0,1
+S6,final,xlabel,8,Sequencing depth (Gb),6.94,7.25,0,1
+S6,final,ylabel,8,A-P vs H-G \n Density,6.94,7.25,0,2
+S6,final,annotation,8,G,8.04,8.4,1,1
+S6,final,legend_entry,8,Agro-pastoralist,5.97,6.24,0,1
+S6,final,legend_entry,8,Hunter-gatherer,5.97,6.24,0,1
+S6,final,xtick,8,1 | 3 | 10 | 30 | 100,5.97,6.24,0,1
+S6,final,ylabel,10,SGBs per sample,7.5,7.84,0,1
+S6,final,annotation,10,284±4  ,6.8,7.11,0,1
+S6,final,annotation,10,  301,6.8,7.11,1,1
+S6,final,annotation,10,606±18  ,6.8,7.11,0,1
+S6,final,annotation,10,  495,6.8,7.11,1,1
+S6,final,annotation,10,**,6.8,7.11,0,1
+S6,final,annotation,10,*,6.8,7.11,0,1
+S6,final,annotation,10,***,6.8,7.11,0,1
+S6,final,annotation,10,H,8.04,8.4,1,1
+S6,final,xtick,10,"Agro-pastoralist
+n=646  ESS=443 | Hunter-gatherer
+n=184  ESS=122",5.97,6.24,0,1
+S6,final,ytick,10,0 | 300 | 600 | 900 | 1200 | 1500,5.97,6.24,0,1
+S6,final,ylabel,11,SGBs per sample,7.5,7.84,0,1
+S6,final,annotation,11,262±4  ,6.8,7.11,0,1
+S6,final,annotation,11,  278,6.8,7.11,1,1
+S6,final,annotation,11,539±17  ,6.8,7.11,0,1
+S6,final,annotation,11,  435,6.8,7.11,1,1
+S6,final,annotation,11,**,6.8,7.11,0,1
+S6,final,annotation,11,***,6.8,7.11,0,1
+S6,final,annotation,11,I,8.04,8.4,1,1
+S6,final,xtick,11,"Agro-pastoralist
+n=646  ESS=443 | Hunter-gatherer
+n=184  ESS=122",5.97,6.24,0,1
+S6,final,ytick,11,0 | 300 | 600 | 900 | 1200,5.97,6.24,0,1
+S6,final,marker,2,line marker '_',2.25,2.35,0,1
+S6,final,marker,2,line marker 'D',5.0,5.22,0,1
+S6,final,marker,2,line marker '_',8.0,8.36,0,1
+S6,final,marker,3,line marker '_',2.25,2.35,0,1
+S6,final,marker,3,line marker 'D',5.0,5.22,0,1
+S6,final,marker,3,line marker '_',8.0,8.36,0,1
+S6,final,marker,6,line marker '_',2.25,2.35,0,1
+S6,final,marker,6,line marker 'D',5.0,5.22,0,1
+S6,final,marker,6,line marker '_',8.0,8.36,0,1
+S6,final,marker,7,line marker '_',2.25,2.35,0,1
+S6,final,marker,7,line marker 'D',5.0,5.22,0,1
+S6,final,marker,7,line marker '_',8.0,8.36,0,1
+S6,final,marker,10,line marker '_',2.25,2.35,0,1
+S6,final,marker,10,line marker 'D',5.0,5.22,0,1
+S6,final,marker,10,line marker '_',8.0,8.36,0,1
+S6,final,marker,11,line marker '_',2.25,2.35,0,1
+S6,final,marker,11,line marker 'D',5.0,5.22,0,1
+S6,final,marker,11,line marker '_',8.0,8.36,0,1
+S7,authored,suptitle,,GMW depth-corrected richness — threshold robustness,9.0,9.39,1,1
+S7,authored,axes_title,0,Absolute richness difference,7.0,7.3,1,1
+S7,authored,xlabel,0,"Δ richness  (Ind − NI, # SGBs)",7.0,7.3,0,1
+S7,authored,legend_entry,0,Raw (unweighted),6.0,6.26,0,1
+S7,authored,legend_entry,0,GMW-corrected + 95%CI,6.0,6.26,0,1
+S7,authored,xtick,0,−350 | −300 | −250 | −200 | −150 | −100 | −50 | 0,5.0,5.22,0,1
+S7,authored,ytick,0,>=1% | >=3% | >=10% | >=30% | >=50% | >=90% | >=10 kb | >=30 kb,6.0,6.26,0,1
+S7,authored,axes_title,1,Percentage richness difference,7.0,7.3,1,1
+S7,authored,xlabel,1,Ind richness relative to NI (% difference),7.0,7.3,0,1
+S7,authored,legend_entry,1,Raw %,6.0,6.26,0,1
+S7,authored,legend_entry,1,GMW-corrected % + 95%CI,6.0,6.26,0,1
+S7,authored,xtick,1,-70% | -60% | -50% | -40% | -30% | -20% | -10% | +0%,5.0,5.22,0,1
+S7,authored,marker,0,"scatter (1 sizes, smallest)",5.48,5.71,0,1
+S7,authored,marker,0,"scatter (1 sizes, smallest)",7.42,7.74,0,1
+S7,authored,marker,1,"scatter (1 sizes, smallest)",5.48,5.71,0,1
+S7,authored,marker,1,"scatter (1 sizes, smallest)",7.42,7.74,0,1
+S7,final,axes_title,0,Absolute richness difference,8.37,8.4,0,1
+S7,final,xlabel,0,"Δ richness  (Ind − NI, # SGBs)",8.37,8.4,0,1
+S7,final,legend_entry,0,Raw (unweighted),7.34,7.36,0,1
+S7,final,xtick,0,−400 | −300 | −200 | −100 | 0 | 100,7.34,7.36,0,1
+S7,final,ytick,0,>=1% | >=3% | >=10% | >=30% | >=50% | >=90% | >=10 kb | >=30 kb,7.34,7.36,0,1
+S7,final,axes_title,1,Percentage richness difference,8.37,8.4,0,1
+S7,final,xlabel,1,Ind richness relative to NI (% difference),8.37,8.4,0,1
+S7,final,legend_entry,1,Raw %,7.34,7.36,0,1
+S7,final,xtick,1,-80% | -60% | -40% | -20% | +0% | +20%,7.34,7.36,0,1
+S7,final,marker,0,"scatter (1 sizes, smallest)",5.48,5.49,0,1
+S7,final,marker,0,"scatter (1 sizes, smallest)",7.42,7.44,0,1
+S7,final,marker,1,"scatter (1 sizes, smallest)",5.48,5.49,0,1
+S7,final,marker,1,"scatter (1 sizes, smallest)",7.42,7.44,0,1
+S8,authored,suptitle,,"Carter cohort, >=10% breadth coverage",9.5,9.99,0,1
+S8,authored,axes_title,0,Weights per sample,10.5,11.04,1,1
+S8,authored,xlabel,0,log$_{10}$(total mapped bases),10.5,11.04,0,1
+S8,authored,ylabel,0,GMW importance weight,10.5,11.04,0,1
+S8,authored,legend_entry,0,Industrial (ESS 584/900),8.5,8.94,0,1
+S8,authored,legend_entry,0,Non-Industrial (ESS 527/830),8.5,8.94,0,1
+S8,authored,xtick,0,8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5 | 11.0 | 11.5,5.0,5.26,0,1
+S8,authored,ytick,0,$\mathdefault{10^{-2}}$ | $\mathdefault{10^{-1}}$ | $\mathdefault{10^{0}}$ | $\mathdefault{10^{1}}$ | $\mathdefault{10^{2}}$,5.0,5.26,0,1
+S8,authored,axes_title,1,Depth densities and target,10.5,11.04,1,1
+S8,authored,xlabel,1,log$_{10}$(total mapped bases),10.5,11.04,0,1
+S8,authored,ylabel,1,Normalised density,10.5,11.04,0,1
+S8,authored,legend_entry,1,Industrial,8.5,8.94,0,1
+S8,authored,legend_entry,1,Non-Industrial,8.5,8.94,0,1
+S8,authored,legend_entry,1,GMW target,8.5,8.94,0,1
+S8,authored,xtick,1,8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5 | 11.0 | 11.5,5.0,5.26,0,1
+S8,authored,ytick,1,−0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0 | 1.2,5.0,5.26,0,1
+S8,authored,marker,0,"scatter (1 sizes, smallest)",2.65,2.78,0,1
+S8,final,axes_title,0,Weights per sample,8.22,8.41,0,1
+S8,final,xlabel,0,log$_{10}$(total mapped bases),8.22,8.41,0,1
+S8,final,ylabel,0,GMW importance weight,8.22,8.41,0,1
+S8,final,legend_entry,0,Industrial,7.28,7.44,0,1
+S8,final,legend_entry,0,Non-industrial,7.28,7.44,0,1
+S8,final,xtick,0,8.4 | 9.0 | 9.6 | 10.2 | 10.8 | 11.4,7.28,7.44,0,1
+S8,final,ytick,0,$\mathdefault{10^{-2}}$ | $\mathdefault{10^{-1}}$ | $\mathdefault{10^{0}}$ | $\mathdefault{10^{1}}$ | $\mathdefault{10^{2}}$,7.28,7.44,0,1
+S8,final,axes_title,1,Depth densities and target,8.22,8.41,0,1
+S8,final,xlabel,1,log$_{10}$(total mapped bases),8.22,8.41,0,1
+S8,final,ylabel,1,Normalised density,8.22,8.41,0,1
+S8,final,legend_entry,1,Industrial,7.28,7.44,0,1
+S8,final,legend_entry,1,Non-industrial,7.28,7.44,0,1
+S8,final,legend_entry,1,GMW target,7.28,7.44,0,1
+S8,final,xtick,1,8.0 | 8.8 | 9.6 | 10.4 | 11.2 | 12.0,7.28,7.44,0,1
+S8,final,ytick,1,−0.3 | 0.0 | 0.3 | 0.6 | 0.9 | 1.2,7.28,7.44,0,1
+S8,final,marker,0,"scatter (1 sizes, smallest)",2.65,2.71,0,1
+S9,authored,suptitle,,Robustness of the industrial richness deficit [combined] \n Uncorrected vs depth-matched vs geom-mean-target ($w = \sqrt{\hat{f}_{other}/\hat{f}_{own}}$) x two detection thresholds,9.0,8.48,1,2
+S9,authored,figure_text,,Richness (SGBs),5.0,4.71,0,1
+S9,authored,axes_title,0,Uncorrected,2.0,1.88,0,1
+S9,authored,xlabel,0,log₁₀(Total mapped bp),6.0,5.65,0,1
+S9,authored,ylabel,0,Density,6.0,5.65,0,1
+S9,authored,annotation,0,Δ median ~ 1.8 Gb,6.0,5.65,0,1
+S9,authored,annotation,0,A,13.0,12.25,1,1
+S9,authored,legend_entry,0,"Industrial (n=13,977)",5.0,4.71,0,1
+S9,authored,legend_entry,0,"Non-Industrial (n=4,098)",5.0,4.71,0,1
+S9,authored,xtick,0,7.5 | 9.0 | 10.5,5.0,4.71,0,1
+S9,authored,ytick,0,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25 | 1.50 | 1.75,5.0,4.71,0,1
+S9,authored,axes_title,1,Depth-matched,2.0,1.88,0,1
+S9,authored,xlabel,1,log₁₀(Total mapped bp),6.0,5.65,0,1
+S9,authored,ylabel,1,Richness (SGBs),6.0,5.65,0,1
+S9,authored,annotation,1,B,13.0,12.25,1,1
+S9,authored,legend_entry,1,Industrial,5.0,4.71,0,1
+S9,authored,legend_entry,1,Non-Industrial,5.0,4.71,0,1
+S9,authored,xtick,1,8.0 | 8.8 | 9.6,5.0,4.71,0,1
+S9,authored,ytick,1,0 | 100 | 200 | 300 | 400 | 500 | 600 | 700,5.0,4.71,0,1
+S9,authored,axes_title,2,Geometric-mean target,2.0,1.88,0,1
+S9,authored,xlabel,2,$\log_{10}$(Total mapped bp),6.0,5.65,0,1
+S9,authored,ylabel,2,Density,6.0,5.65,0,1
+S9,authored,annotation,2,C,13.0,12.25,1,1
+S9,authored,legend_entry,2,"Industrial (n=13,977)",5.0,4.71,0,1
+S9,authored,legend_entry,2,"Non-Industrial (n=4,098)",5.0,4.71,0,1
+S9,authored,legend_entry,2,$\sqrt{\hat{f}_i{\cdot}\hat{f}_n}$ target [scaled] \n peak at log₁₀ = 9.53,5.0,4.71,0,2
+S9,authored,xtick,2,7.5 | 9.0 | 10.5,5.0,4.71,0,1
+S9,authored,annotation,3,0.54x,5.0,4.71,0,1
+S9,authored,annotation,3,D,13.0,12.25,1,1
+S9,authored,xtick,3,"Ind
+(n=13,977) | NI
+(n=4,098)",5.0,4.71,0,1
+S9,authored,ytick,3,0 | 250 | 500 | 750 | 1000,5.0,4.71,0,1
+S9,authored,annotation,4,0.69x,5.0,4.71,0,1
+S9,authored,annotation,4,E,13.0,12.25,1,1
+S9,authored,xtick,4,"Ind
+(n=3,727) | NI
+(n=3,727)",5.0,4.71,0,1
+S9,authored,ytick,4,0 | 250 | 500 | 750 | 1000,5.0,4.71,0,1
+S9,authored,annotation,5,0.67x,5.0,4.71,0,1
+S9,authored,annotation,5,F,13.0,12.25,1,1
+S9,authored,annotation,5,300 kb,3.0,2.83,1,1
+S9,authored,xtick,5,"Ind
+(n=13,977) | NI
+(n=4,098)",5.0,4.71,0,1
+S9,authored,ytick,5,0 | 200 | 400 | 600 | 800,5.0,4.71,0,1
+S9,authored,annotation,6,0.49x,5.0,4.71,0,1
+S9,authored,annotation,6,G,13.0,12.25,1,1
+S9,authored,xtick,6,"Ind
+(n=13,977) | NI
+(n=4,098)",5.0,4.71,0,1
+S9,authored,ytick,6,0 | 250 | 500 | 750 | 1000,5.0,4.71,0,1
+S9,authored,annotation,7,0.62x,5.0,4.71,0,1
+S9,authored,annotation,7,H,13.0,12.25,1,1
+S9,authored,xtick,7,"Ind
+(n=3,727) | NI
+(n=3,727)",5.0,4.71,0,1
+S9,authored,ytick,7,0 | 250 | 500 | 750 | 1000,5.0,4.71,0,1
+S9,authored,annotation,8,0.61x,5.0,4.71,0,1
+S9,authored,annotation,8,I,13.0,12.25,1,1
+S9,authored,annotation,8,10% breadth,3.0,2.83,1,1
+S9,authored,xtick,8,"Ind
+(n=13,977) | NI
+(n=4,098)",5.0,4.71,0,1
+S9,authored,ytick,8,0 | 200 | 400 | 600 | 800,5.0,4.71,0,1
+S9,authored,axes_title,9,Robustness summary,3.0,2.83,0,1
+S9,authored,xlabel,9,Richness ratio (Industrial / Non-Industrial),6.0,5.65,0,1
+S9,authored,annotation,9,"  0.54 [0.52, 0.55]",5.0,4.71,0,1
+S9,authored,annotation,9,"  0.69 [0.67, 0.72]",5.0,4.71,0,1
+S9,authored,annotation,9,"  0.67 [0.66, 0.69]",5.0,4.71,0,1
+S9,authored,annotation,9,"  0.49 [0.47, 0.50]",5.0,4.71,0,1
+S9,authored,annotation,9,"  0.62 [0.61, 0.65]",5.0,4.71,0,1
+S9,authored,annotation,9,"  0.61 [0.60, 0.63]",5.0,4.71,0,1
+S9,authored,annotation,9,J,13.0,12.25,1,1
+S9,authored,legend_entry,9,Corrected range: 0.61–0.69x,5.0,4.71,0,1
+S9,authored,legend_entry,9,Uncorrected range: 0.49–0.54x,5.0,4.71,0,1
+S9,authored,xtick,9,0.30 | 0.45 | 0.60 | 0.75 | 0.90 | 1.05,5.0,4.71,0,1
+S9,authored,ytick,9,"Uncorrected, 300 kb | Depth-matched, 300 kb | Geom-mean-target, 300 kb | Uncorrected, 10% breadth | Depth-matched, 10% breadth | Geom-mean-target, 10% breadth",5.0,4.71,0,1
+S9,authored,marker,1,line marker 'o',6.0,5.65,0,1
+S9,authored,marker,3,"scatter (1 sizes, smallest)",6.0,5.65,0,1
+S9,authored,marker,4,"scatter (1 sizes, smallest)",6.0,5.65,0,1
+S9,authored,marker,5,"scatter (1 sizes, smallest)",6.0,5.65,0,1
+S9,authored,marker,6,"scatter (1 sizes, smallest)",6.0,5.65,0,1
+S9,authored,marker,7,"scatter (1 sizes, smallest)",6.0,5.65,0,1
+S9,authored,marker,8,"scatter (1 sizes, smallest)",6.0,5.65,0,1
+S9,authored,marker,9,line marker '|',8.0,7.54,0,1
+S9,authored,marker,9,"scatter (1 sizes, smallest)",7.07,6.66,0,1
+S9,final,axes_title,0,Uncorrected,8.5,8.5,0,1
+S9,final,xlabel,0,log₁₀(Total mapped bp),7.49,7.49,0,1
+S9,final,ylabel,0,Density,7.49,7.49,0,1
+S9,final,annotation,0,Δ median ~ 1.8 Gb,7.34,7.34,0,1
+S9,final,annotation,0,A,7.34,7.34,1,1
+S9,final,legend_entry,0,"Industrial (n=13,977)",5.67,5.67,0,1
+S9,final,legend_entry,0,"Non-industrial (n=4,098)",5.67,5.67,0,1
+S9,final,xtick,0,6.0 | 7.5 | 9.0 | 10.5 | 12.0,6.44,6.44,0,1
+S9,final,ytick,0,0.0 | 0.5 | 1.0 | 1.5 | 2.0,6.44,6.44,0,1
+S9,final,axes_title,1,Depth-matched,8.5,8.5,0,1
+S9,final,xlabel,1,log₁₀(Total mapped bp),7.49,7.49,0,1
+S9,final,ylabel,1,Richness (SGBs),7.49,7.49,0,1
+S9,final,annotation,1,B,7.34,7.34,1,1
+S9,final,legend_entry,1,Industrial,5.67,5.67,0,1
+S9,final,legend_entry,1,Non-industrial,5.67,5.67,0,1
+S9,final,xtick,1,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.44,6.44,0,1
+S9,final,ytick,1,0 | 200 | 400 | 600 | 800,6.44,6.44,0,1
+S9,final,axes_title,2,Geometric-mean target,8.5,8.5,0,1
+S9,final,xlabel,2,$\log_{10}$(Total mapped bp),7.49,7.49,0,1
+S9,final,ylabel,2,Density,7.49,7.49,0,1
+S9,final,annotation,2,C,7.34,7.34,1,1
+S9,final,legend_entry,2,"Industrial (n=13,977)",5.67,5.67,0,1
+S9,final,legend_entry,2,"Non-industrial (n=4,098)",5.67,5.67,0,1
+S9,final,legend_entry,2,$\sqrt{\hat{f}_i{\cdot}\hat{f}_n}$ target [scaled] \n peak at log₁₀ = 9.53,5.67,5.67,0,2
+S9,final,xtick,2,6.0 | 7.5 | 9.0 | 10.5 | 12.0,6.44,6.44,0,1
+S9,final,annotation,3,0.54x,7.34,7.34,0,1
+S9,final,annotation,3,D,7.34,7.34,1,1
+S9,final,xtick,3,"Ind
+(n=13,977) | NI
+(n=4,098)",6.44,6.44,0,1
+S9,final,ytick,3,0 | 250 | 500 | 750 | 1000,6.44,6.44,0,1
+S9,final,annotation,4,0.69x,7.34,7.34,0,1
+S9,final,annotation,4,E,7.34,7.34,1,1
+S9,final,xtick,4,"Ind
+(n=3,727) | NI
+(n=3,727)",6.44,6.44,0,1
+S9,final,ytick,4,0 | 250 | 500 | 750 | 1000,6.44,6.44,0,1
+S9,final,annotation,5,0.67x,7.34,7.34,0,1
+S9,final,annotation,5,F,7.34,7.34,1,1
+S9,final,annotation,5,300 kb,7.34,7.34,1,1
+S9,final,xtick,5,"Ind
+(n=13,977) | NI
+(n=4,098)",6.44,6.44,0,1
+S9,final,ytick,5,0 | 200 | 400 | 600 | 800,6.44,6.44,0,1
+S9,final,annotation,6,0.49x,7.34,7.34,0,1
+S9,final,annotation,6,G,7.34,7.34,1,1
+S9,final,xtick,6,"Ind
+(n=13,977) | NI
+(n=4,098)",6.44,6.44,0,1
+S9,final,ytick,6,0 | 250 | 500 | 750 | 1000,6.44,6.44,0,1
+S9,final,annotation,7,0.62x,7.34,7.34,0,1
+S9,final,annotation,7,H,7.34,7.34,1,1
+S9,final,xtick,7,"Ind
+(n=3,727) | NI
+(n=3,727)",6.44,6.44,0,1
+S9,final,ytick,7,0 | 250 | 500 | 750 | 1000,6.44,6.44,0,1
+S9,final,annotation,8,0.61x,7.34,7.34,0,1
+S9,final,annotation,8,I,7.34,7.34,1,1
+S9,final,annotation,8,10% breadth,7.34,7.34,1,1
+S9,final,xtick,8,"Ind
+(n=13,977) | NI
+(n=4,098)",6.44,6.44,0,1
+S9,final,ytick,8,0 | 200 | 400 | 600 | 800,6.44,6.44,0,1
+S9,final,axes_title,9,Robustness summary,8.5,8.5,0,1
+S9,final,xlabel,9,Richness ratio (Industrial / Non-industrial),7.49,7.49,0,1
+S9,final,annotation,9,"  0.54 [0.52, 0.55]",7.34,7.34,0,1
+S9,final,annotation,9,"  0.69 [0.67, 0.72]",7.34,7.34,0,1
+S9,final,annotation,9,"  0.67 [0.66, 0.69]",7.34,7.34,0,1
+S9,final,annotation,9,"  0.49 [0.47, 0.50]",7.34,7.34,0,1
+S9,final,annotation,9,"  0.62 [0.61, 0.65]",7.34,7.34,0,1
+S9,final,annotation,9,"  0.61 [0.60, 0.63]",7.34,7.34,0,1
+S9,final,annotation,9,J,7.34,7.34,1,1
+S9,final,legend_entry,9,Corrected range: 0.61–0.69x,6.44,6.44,0,1
+S9,final,legend_entry,9,Uncorrected range: 0.49–0.54x,6.44,6.44,0,1
+S9,final,xtick,9,0.30 | 0.45 | 0.60 | 0.75 | 0.90 | 1.05,6.44,6.44,0,1
+S9,final,ytick,9,"Uncorrected, 300 kb | Depth-matched, 300 kb | Geom-mean-target, 300 kb | Uncorrected, 10% breadth | Depth-matched, 10% breadth | Geom-mean-target, 10% breadth",6.44,6.44,0,1
+S9,final,marker,1,line marker 'o',6.0,6.0,0,1
+S9,final,marker,3,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S9,final,marker,4,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S9,final,marker,5,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S9,final,marker,6,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S9,final,marker,7,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S9,final,marker,8,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S9,final,marker,9,line marker '|',8.0,8.0,0,1
+S9,final,marker,9,"scatter (1 sizes, smallest)",7.07,7.07,0,1
+S10,authored,suptitle,,SGB richness: raw vs depth-corrected,10.0,11.07,1,1
+S10,authored,axes_title,0,>=10% breadth coverage,8.0,8.86,1,1
+S10,authored,xlabel,0,Sequencing depth (Gb),8.0,8.86,0,1
+S10,authored,ylabel,0,Density,7.0,7.75,0,1
+S10,authored,legend_entry,0,Industrial,7.0,7.75,0,1
+S10,authored,legend_entry,0,Non-Industrial,7.0,7.75,0,1
+S10,authored,legend_entry,0,$\sqrt{\hat{f}_{Ind}{\cdot}\hat{f}_{NI}}$ (target),7.0,7.75,0,1
+S10,authored,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,7.0,7.75,0,1
+S10,authored,axes_title,2,Raw richness,8.0,8.86,0,1
+S10,authored,ylabel,2,SGBs per sample,8.0,8.86,0,1
+S10,authored,annotation,2,  146±1,7.0,7.75,1,1
+S10,authored,annotation,2,  317±3,7.0,7.75,1,1
+S10,authored,annotation,2,***,5.0,5.54,0,1
+S10,authored,xtick,2,"Industrial
+(n=13,977) | Non-Industrial
+(n=4,098)",6.0,6.64,0,1
+S10,authored,ytick,2,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,6.0,6.64,0,1
+S10,authored,axes_title,3,Depth-corrected richness,8.0,8.86,0,1
+S10,authored,ylabel,3,SGBs per sample,8.0,8.86,0,1
+S10,authored,annotation,3,  164±1,7.0,7.75,1,1
+S10,authored,annotation,3,  267±2,7.0,7.75,1,1
+S10,authored,annotation,3,**,5.0,5.54,0,1
+S10,authored,annotation,3,***,7.0,7.75,0,1
+S10,authored,xtick,3,"Industrial
+(ESS=11615) | Non-Industrial
+(ESS=3404)",6.0,6.64,0,1
+S10,authored,ytick,3,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,6.0,6.64,0,1
+S10,authored,axes_title,4,>=300 kb mapped bases,8.0,8.86,1,1
+S10,authored,xlabel,4,Sequencing depth (Gb),8.0,8.86,0,1
+S10,authored,ylabel,4,Density,7.0,7.75,0,1
+S10,authored,legend_entry,4,Industrial,7.0,7.75,0,1
+S10,authored,legend_entry,4,Non-Industrial,7.0,7.75,0,1
+S10,authored,legend_entry,4,$\sqrt{\hat{f}_{Ind}{\cdot}\hat{f}_{NI}}$ (target),7.0,7.75,0,1
+S10,authored,xtick,4,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,7.0,7.75,0,1
+S10,authored,axes_title,6,Raw richness,8.0,8.86,0,1
+S10,authored,ylabel,6,SGBs per sample,8.0,8.86,0,1
+S10,authored,annotation,6,  144±1,7.0,7.75,1,1
+S10,authored,annotation,6,  285±3,7.0,7.75,1,1
+S10,authored,annotation,6,***,5.0,5.54,0,1
+S10,authored,xtick,6,"Industrial
+(n=13,977) | Non-Industrial
+(n=4,098)",6.0,6.64,0,1
+S10,authored,ytick,6,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,6.0,6.64,0,1
+S10,authored,axes_title,7,Depth-corrected richness,8.0,8.86,0,1
+S10,authored,ylabel,7,SGBs per sample,8.0,8.86,0,1
+S10,authored,annotation,7,  162±1,7.0,7.75,1,1
+S10,authored,annotation,7,  240±2,7.0,7.75,1,1
+S10,authored,annotation,7,**,5.0,5.54,0,1
+S10,authored,annotation,7,***,7.0,7.75,0,1
+S10,authored,xtick,7,"Industrial
+(ESS=11615) | Non-Industrial
+(ESS=3404)",6.0,6.64,0,1
+S10,authored,ytick,7,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,6.0,6.64,0,1
+S10,authored,marker,2,line marker '_',3.0,3.32,0,1
+S10,authored,marker,3,line marker '_',3.0,3.32,0,1
+S10,authored,marker,3,line marker 'D',5.0,5.54,0,1
+S10,authored,marker,3,line marker '_',8.0,8.86,0,1
+S10,authored,marker,6,line marker '_',3.0,3.32,0,1
+S10,authored,marker,7,line marker '_',3.0,3.32,0,1
+S10,authored,marker,7,line marker 'D',5.0,5.54,0,1
+S10,authored,marker,7,line marker '_',8.0,8.86,0,1
+S10,final,axes_title,0,>=10% breadth coverage,7.92,8.39,0,1
+S10,final,xlabel,0,Sequencing depth (Gb),6.94,7.36,0,1
+S10,final,ylabel,0,Density,6.94,7.36,0,1
+S10,final,legend_entry,0,Industrial,5.97,6.33,0,1
+S10,final,legend_entry,0,Non-industrial,5.97,6.33,0,1
+S10,final,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,5.97,6.33,0,1
+S10,final,axes_title,2,Raw richness,7.92,8.39,0,1
+S10,final,ylabel,2,SGBs per sample,7.92,8.39,0,1
+S10,final,annotation,2,  146±1,6.8,7.21,1,1
+S10,final,annotation,2,  317±3,6.8,7.21,1,1
+S10,final,annotation,2,***,6.8,7.21,0,1
+S10,final,xtick,2,"Industrial
+(n=13,977) | Non-industrial
+(n=4,098)",5.97,6.33,0,1
+S10,final,ytick,2,−400 | 0 | 400 | 800 | 1200 | 1600,5.97,6.33,0,1
+S10,final,axes_title,3,Depth-corrected richness,7.92,8.39,0,1
+S10,final,ylabel,3,SGBs per sample,7.92,8.39,0,1
+S10,final,annotation,3,  164±1,6.8,7.21,1,1
+S10,final,annotation,3,  267±2,6.8,7.21,1,1
+S10,final,annotation,3,**,6.8,7.21,0,1
+S10,final,annotation,3,***,6.8,7.21,0,1
+S10,final,xtick,3,"Industrial
+(ESS=11615) | Non-industrial
+(ESS=3404)",5.97,6.33,0,1
+S10,final,ytick,3,−300 | 0 | 300 | 600 | 900 | 1200,5.97,6.33,0,1
+S10,final,axes_title,4,>=300 kb mapped bases,7.92,8.39,0,1
+S10,final,xlabel,4,Sequencing depth (Gb),6.94,7.36,0,1
+S10,final,ylabel,4,Density,6.94,7.36,0,1
+S10,final,legend_entry,4,Industrial,5.97,6.33,0,1
+S10,final,legend_entry,4,Non-industrial,5.97,6.33,0,1
+S10,final,xtick,4,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,5.97,6.33,0,1
+S10,final,axes_title,6,Raw richness,7.92,8.39,0,1
+S10,final,ylabel,6,SGBs per sample,7.92,8.39,0,1
+S10,final,annotation,6,  144±1,6.8,7.21,1,1
+S10,final,annotation,6,  285±3,6.8,7.21,1,1
+S10,final,annotation,6,***,6.8,7.21,0,1
+S10,final,xtick,6,"Industrial
+(n=13,977) | Non-industrial
+(n=4,098)",5.97,6.33,0,1
+S10,final,ytick,6,−300 | 0 | 300 | 600 | 900 | 1200,5.97,6.33,0,1
+S10,final,axes_title,7,Depth-corrected richness,7.92,8.39,0,1
+S10,final,ylabel,7,SGBs per sample,7.92,8.39,0,1
+S10,final,annotation,7,  162±1,6.8,7.21,1,1
+S10,final,annotation,7,  240±2,6.8,7.21,1,1
+S10,final,annotation,7,**,6.8,7.21,0,1
+S10,final,annotation,7,***,6.8,7.21,0,1
+S10,final,xtick,7,"Industrial
+(ESS=11615) | Non-industrial
+(ESS=3404)",5.97,6.33,0,1
+S10,final,ytick,7,−300 | 0 | 300 | 600 | 900 | 1200,5.97,6.33,0,1
+S10,final,marker,2,line marker '_',3.0,3.18,0,1
+S10,final,marker,3,line marker '_',3.0,3.18,0,1
+S10,final,marker,3,line marker 'D',5.0,5.3,0,1
+S10,final,marker,3,line marker '_',8.0,8.48,0,1
+S10,final,marker,6,line marker '_',3.0,3.18,0,1
+S10,final,marker,7,line marker '_',3.0,3.18,0,1
+S10,final,marker,7,line marker 'D',5.0,5.3,0,1
+S10,final,marker,7,line marker '_',8.0,8.48,0,1
+S11,authored,axes_title,0,Sequencing depth,14.0,13.82,1,1
+S11,authored,xlabel,0,Sequencing depth (Gb),13.0,12.84,0,1
+S11,authored,ylabel,0,H-G vs A-P \n Normalised density,13.0,12.84,0,2
+S11,authored,annotation,0,A,10.13,10.0,1,1
+S11,authored,legend_entry,0,Hunter-gatherer,12.0,11.85,0,1
+S11,authored,legend_entry,0,Agro-pastoralist,12.0,11.85,0,1
+S11,authored,legend_entry,0,GMW target,12.0,11.85,0,1
+S11,authored,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,12.0,11.85,0,1
+S11,authored,ytick,0,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S11,authored,axes_title,1,≥10% breadth,7.0,6.91,0,1
+S11,authored,ylabel,1,SGBs per sample,6.0,5.92,0,1
+S11,authored,annotation,1,562±13  ,7.0,6.91,0,1
+S11,authored,annotation,1,  458±12,7.0,6.91,1,1
+S11,authored,annotation,1,290±2  ,7.0,6.91,0,1
+S11,authored,annotation,1,  307±4,7.0,6.91,1,1
+S11,authored,annotation,1,**,5.0,4.94,0,1
+S11,authored,annotation,1,B,10.13,10.0,1,1
+S11,authored,xtick,1,"H-G
+n=401 | A-P
+n=3,697",5.0,4.94,0,1
+S11,authored,ytick,1,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S11,authored,axes_title,2,≥300 kb mapped,7.0,6.91,0,1
+S11,authored,ylabel,2,SGBs per sample,6.0,5.92,0,1
+S11,authored,annotation,2,498±12  ,7.0,6.91,0,1
+S11,authored,annotation,2,  402±11,7.0,6.91,1,1
+S11,authored,annotation,2,262±2  ,7.0,6.91,0,1
+S11,authored,annotation,2,  278±3,7.0,6.91,1,1
+S11,authored,annotation,2,**,5.0,4.94,0,1
+S11,authored,annotation,2,C,10.13,10.0,1,1
+S11,authored,xtick,2,"H-G
+n=401 | A-P
+n=3,697",5.0,4.94,0,1
+S11,authored,ytick,2,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S11,authored,xlabel,3,Sequencing depth (Gb),13.0,12.84,0,1
+S11,authored,ylabel,3,H-G vs I (all) \n Normalised density,13.0,12.84,0,2
+S11,authored,annotation,3,D,10.13,10.0,1,1
+S11,authored,legend_entry,3,Hunter-gatherer,12.0,11.85,0,1
+S11,authored,legend_entry,3,Industrial (all),12.0,11.85,0,1
+S11,authored,legend_entry,3,GMW target,12.0,11.85,0,1
+S11,authored,xtick,3,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,12.0,11.85,0,1
+S11,authored,ytick,3,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S11,authored,ylabel,4,SGBs per sample,6.0,5.92,0,1
+S11,authored,annotation,4,562±13  ,7.0,6.91,0,1
+S11,authored,annotation,4,  383±14,7.0,6.91,1,1
+S11,authored,annotation,4,146±1  ,7.0,6.91,0,1
+S11,authored,annotation,4,  161±1,7.0,6.91,1,1
+S11,authored,annotation,4,**,5.0,4.94,0,1
+S11,authored,annotation,4,E,10.13,10.0,1,1
+S11,authored,xtick,4,"H-G
+n=401 | I (all)
+n=13,977",5.0,4.94,0,1
+S11,authored,ytick,4,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S11,authored,ylabel,5,SGBs per sample,6.0,5.92,0,1
+S11,authored,annotation,5,498±12  ,7.0,6.91,0,1
+S11,authored,annotation,5,  334±12,7.0,6.91,1,1
+S11,authored,annotation,5,144±1  ,7.0,6.91,0,1
+S11,authored,annotation,5,  159±1,7.0,6.91,1,1
+S11,authored,annotation,5,**,5.0,4.94,0,1
+S11,authored,annotation,5,F,10.13,10.0,1,1
+S11,authored,xtick,5,"H-G
+n=401 | I (all)
+n=13,977",5.0,4.94,0,1
+S11,authored,ytick,5,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S11,authored,xlabel,6,Sequencing depth (Gb),13.0,12.84,0,1
+S11,authored,ylabel,6,A-P vs I (all) \n Normalised density,13.0,12.84,0,2
+S11,authored,annotation,6,G,10.13,10.0,1,1
+S11,authored,legend_entry,6,Agro-pastoralist,12.0,11.85,0,1
+S11,authored,legend_entry,6,Industrial (all),12.0,11.85,0,1
+S11,authored,legend_entry,6,GMW target,12.0,11.85,0,1
+S11,authored,xtick,6,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,12.0,11.85,0,1
+S11,authored,ytick,6,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S11,authored,ylabel,7,SGBs per sample,6.0,5.92,0,1
+S11,authored,annotation,7,290±2  ,7.0,6.91,0,1
+S11,authored,annotation,7,  255±2,7.0,6.91,1,1
+S11,authored,annotation,7,146±1  ,7.0,6.91,0,1
+S11,authored,annotation,7,  164±1,7.0,6.91,1,1
+S11,authored,annotation,7,**,5.0,4.94,0,1
+S11,authored,annotation,7,H,10.13,10.0,1,1
+S11,authored,xtick,7,"A-P
+n=3,697 | I (all)
+n=13,977",5.0,4.94,0,1
+S11,authored,ytick,7,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S11,authored,ylabel,8,SGBs per sample,6.0,5.92,0,1
+S11,authored,annotation,8,262±2  ,7.0,6.91,0,1
+S11,authored,annotation,8,  230±2,7.0,6.91,1,1
+S11,authored,annotation,8,144±1  ,7.0,6.91,0,1
+S11,authored,annotation,8,  162±1,7.0,6.91,1,1
+S11,authored,annotation,8,**,5.0,4.94,0,1
+S11,authored,annotation,8,I,10.13,10.0,1,1
+S11,authored,xtick,8,"A-P
+n=3,697 | I (all)
+n=13,977",5.0,4.94,0,1
+S11,authored,ytick,8,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S11,authored,marker,1,line marker '_',2.62,2.59,0,1
+S11,authored,marker,1,line marker 'D',4.0,3.95,0,1
+S11,authored,marker,1,line marker '_',6.0,5.92,0,1
+S11,authored,marker,2,line marker '_',2.62,2.59,0,1
+S11,authored,marker,2,line marker 'D',4.0,3.95,0,1
+S11,authored,marker,2,line marker '_',6.0,5.92,0,1
+S11,authored,marker,4,line marker '_',2.62,2.59,0,1
+S11,authored,marker,4,line marker 'D',4.0,3.95,0,1
+S11,authored,marker,4,line marker '_',6.0,5.92,0,1
+S11,authored,marker,5,line marker '_',2.62,2.59,0,1
+S11,authored,marker,5,line marker 'D',4.0,3.95,0,1
+S11,authored,marker,5,line marker '_',6.0,5.92,0,1
+S11,authored,marker,7,line marker '_',2.62,2.59,0,1
+S11,authored,marker,7,line marker 'D',4.0,3.95,0,1
+S11,authored,marker,7,line marker '_',6.0,5.92,0,1
+S11,authored,marker,8,line marker '_',2.62,2.59,0,1
+S11,authored,marker,8,line marker 'D',4.0,3.95,0,1
+S11,authored,marker,8,line marker '_',6.0,5.92,0,1
+S11,final,axes_title,0,Sequencing depth,8.31,8.41,0,1
+S11,final,xlabel,0,Sequencing depth (Gb),7.58,7.67,0,1
+S11,final,ylabel,0,H-G vs A-P \n Normalised density,7.58,7.67,0,2
+S11,final,annotation,0,A,8.31,8.41,1,1
+S11,final,legend_entry,0,Hunter-gatherer,5.73,5.8,0,1
+S11,final,legend_entry,0,Agro-pastoralist,5.73,5.8,0,1
+S11,final,legend_entry,0,GMW target,5.73,5.8,0,1
+S11,final,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,6.52,6.59,0,1
+S11,final,ytick,0,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S11,final,axes_title,1,≥10% breadth,8.31,8.41,0,1
+S11,final,ylabel,1,SGBs per sample,6.0,6.07,0,1
+S11,final,annotation,1,562±13  ,7.43,7.52,0,1
+S11,final,annotation,1,  458±12,7.43,7.52,1,1
+S11,final,annotation,1,290±2  ,7.43,7.52,0,1
+S11,final,annotation,1,  307±4,7.43,7.52,1,1
+S11,final,annotation,1,**,7.43,7.52,0,1
+S11,final,annotation,1,B,8.31,8.41,1,1
+S11,final,xtick,1,"H-G
+n=401 | A-P
+n=3,697",6.52,6.59,0,1
+S11,final,ytick,1,−400 | 0 | 400 | 800 | 1200 | 1600,6.52,6.59,0,1
+S11,final,axes_title,2,≥300 kb mapped,8.31,8.41,0,1
+S11,final,ylabel,2,SGBs per sample,6.0,6.07,0,1
+S11,final,annotation,2,498±12  ,7.43,7.52,0,1
+S11,final,annotation,2,  402±11,7.43,7.52,1,1
+S11,final,annotation,2,262±2  ,7.43,7.52,0,1
+S11,final,annotation,2,  278±3,7.43,7.52,1,1
+S11,final,annotation,2,**,7.43,7.52,0,1
+S11,final,annotation,2,C,8.31,8.41,1,1
+S11,final,xtick,2,"H-G
+n=401 | A-P
+n=3,697",6.52,6.59,0,1
+S11,final,ytick,2,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S11,final,xlabel,3,Sequencing depth (Gb),7.58,7.67,0,1
+S11,final,ylabel,3,H-G vs I (all) \n Normalised density,7.58,7.67,0,2
+S11,final,annotation,3,D,8.31,8.41,1,1
+S11,final,legend_entry,3,Hunter-gatherer,5.73,5.8,0,1
+S11,final,legend_entry,3,Industrial (all),5.73,5.8,0,1
+S11,final,legend_entry,3,GMW target,5.73,5.8,0,1
+S11,final,xtick,3,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,6.52,6.59,0,1
+S11,final,ytick,3,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S11,final,ylabel,4,SGBs per sample,6.0,6.07,0,1
+S11,final,annotation,4,562±13  ,7.43,7.52,0,1
+S11,final,annotation,4,  383±14,7.43,7.52,1,1
+S11,final,annotation,4,146±1  ,7.43,7.52,0,1
+S11,final,annotation,4,  161±1,7.43,7.52,1,1
+S11,final,annotation,4,**,7.43,7.52,0,1
+S11,final,annotation,4,E,8.31,8.41,1,1
+S11,final,xtick,4,"H-G
+n=401 | I (all)
+n=13,977",6.52,6.59,0,1
+S11,final,ytick,4,−400 | 0 | 400 | 800 | 1200 | 1600,6.52,6.59,0,1
+S11,final,ylabel,5,SGBs per sample,6.0,6.07,0,1
+S11,final,annotation,5,498±12  ,7.43,7.52,0,1
+S11,final,annotation,5,  334±12,7.43,7.52,1,1
+S11,final,annotation,5,144±1  ,7.43,7.52,0,1
+S11,final,annotation,5,  159±1,7.43,7.52,1,1
+S11,final,annotation,5,**,7.43,7.52,0,1
+S11,final,annotation,5,F,8.31,8.41,1,1
+S11,final,xtick,5,"H-G
+n=401 | I (all)
+n=13,977",6.52,6.59,0,1
+S11,final,ytick,5,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S11,final,xlabel,6,Sequencing depth (Gb),7.58,7.67,0,1
+S11,final,ylabel,6,A-P vs I (all) \n Normalised density,7.58,7.67,0,2
+S11,final,annotation,6,G,8.31,8.41,1,1
+S11,final,legend_entry,6,Agro-pastoralist,5.73,5.8,0,1
+S11,final,legend_entry,6,Industrial (all),5.73,5.8,0,1
+S11,final,legend_entry,6,GMW target,5.73,5.8,0,1
+S11,final,xtick,6,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,6.52,6.59,0,1
+S11,final,ytick,6,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S11,final,ylabel,7,SGBs per sample,6.0,6.07,0,1
+S11,final,annotation,7,290±2  ,7.43,7.52,0,1
+S11,final,annotation,7,  255±2,7.43,7.52,1,1
+S11,final,annotation,7,146±1  ,7.43,7.52,0,1
+S11,final,annotation,7,  164±1,7.43,7.52,1,1
+S11,final,annotation,7,**,7.43,7.52,0,1
+S11,final,annotation,7,H,8.31,8.41,1,1
+S11,final,xtick,7,"A-P
+n=3,697 | I (all)
+n=13,977",6.52,6.59,0,1
+S11,final,ytick,7,−400 | 0 | 400 | 800 | 1200,6.52,6.59,0,1
+S11,final,ylabel,8,SGBs per sample,6.0,6.07,0,1
+S11,final,annotation,8,262±2  ,7.43,7.52,0,1
+S11,final,annotation,8,  230±2,7.43,7.52,1,1
+S11,final,annotation,8,144±1  ,7.43,7.52,0,1
+S11,final,annotation,8,  162±1,7.43,7.52,1,1
+S11,final,annotation,8,**,7.43,7.52,0,1
+S11,final,annotation,8,I,8.31,8.41,1,1
+S11,final,xtick,8,"A-P
+n=3,697 | I (all)
+n=13,977",6.52,6.59,0,1
+S11,final,ytick,8,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S11,final,marker,1,line marker '_',2.62,2.66,0,1
+S11,final,marker,1,line marker 'D',4.0,4.05,0,1
+S11,final,marker,1,line marker '_',6.0,6.07,0,1
+S11,final,marker,2,line marker '_',2.62,2.66,0,1
+S11,final,marker,2,line marker 'D',4.0,4.05,0,1
+S11,final,marker,2,line marker '_',6.0,6.07,0,1
+S11,final,marker,4,line marker '_',2.62,2.66,0,1
+S11,final,marker,4,line marker 'D',4.0,4.05,0,1
+S11,final,marker,4,line marker '_',6.0,6.07,0,1
+S11,final,marker,5,line marker '_',2.62,2.66,0,1
+S11,final,marker,5,line marker 'D',4.0,4.05,0,1
+S11,final,marker,5,line marker '_',6.0,6.07,0,1
+S11,final,marker,7,line marker '_',2.62,2.66,0,1
+S11,final,marker,7,line marker 'D',4.0,4.05,0,1
+S11,final,marker,7,line marker '_',6.0,6.07,0,1
+S11,final,marker,8,line marker '_',2.62,2.66,0,1
+S11,final,marker,8,line marker 'D',4.0,4.05,0,1
+S11,final,marker,8,line marker '_',6.0,6.07,0,1
+S12,authored,axes_title,0,Sequencing depth,14.0,13.82,1,1
+S12,authored,xlabel,0,Sequencing depth (Gb),13.0,12.84,0,1
+S12,authored,ylabel,0,H-G vs A-P \n Normalised density,13.0,12.84,0,2
+S12,authored,annotation,0,A,10.13,10.0,1,1
+S12,authored,legend_entry,0,Hunter-gatherer,12.0,11.85,0,1
+S12,authored,legend_entry,0,Agro-pastoralist,12.0,11.85,0,1
+S12,authored,legend_entry,0,GMW target,12.0,11.85,0,1
+S12,authored,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,12.0,11.85,0,1
+S12,authored,ytick,0,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S12,authored,axes_title,1,≥10% breadth,7.0,6.91,0,1
+S12,authored,ylabel,1,SGBs per sample,6.0,5.92,0,1
+S12,authored,annotation,1,562±13  ,7.0,6.91,0,1
+S12,authored,annotation,1,  458±12,7.0,6.91,1,1
+S12,authored,annotation,1,290±2  ,7.0,6.91,0,1
+S12,authored,annotation,1,  307±4,7.0,6.91,1,1
+S12,authored,annotation,1,**,5.0,4.94,0,1
+S12,authored,annotation,1,B,10.13,10.0,1,1
+S12,authored,xtick,1,"H-G
+n=401 | A-P
+n=3,697",5.0,4.94,0,1
+S12,authored,ytick,1,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S12,authored,axes_title,2,≥300 kb mapped,7.0,6.91,0,1
+S12,authored,ylabel,2,SGBs per sample,6.0,5.92,0,1
+S12,authored,annotation,2,498±12  ,7.0,6.91,0,1
+S12,authored,annotation,2,  402±11,7.0,6.91,1,1
+S12,authored,annotation,2,262±2  ,7.0,6.91,0,1
+S12,authored,annotation,2,  278±3,7.0,6.91,1,1
+S12,authored,annotation,2,**,5.0,4.94,0,1
+S12,authored,annotation,2,C,10.13,10.0,1,1
+S12,authored,xtick,2,"H-G
+n=401 | A-P
+n=3,697",5.0,4.94,0,1
+S12,authored,ytick,2,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S12,authored,xlabel,3,Sequencing depth (Gb),13.0,12.84,0,1
+S12,authored,ylabel,3,H-G vs I healthy \n Normalised density,13.0,12.84,0,2
+S12,authored,annotation,3,D,10.13,10.0,1,1
+S12,authored,legend_entry,3,Hunter-gatherer,12.0,11.85,0,1
+S12,authored,legend_entry,3,"Industrial, healthy",12.0,11.85,0,1
+S12,authored,legend_entry,3,GMW target,12.0,11.85,0,1
+S12,authored,xtick,3,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,12.0,11.85,0,1
+S12,authored,ytick,3,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S12,authored,ylabel,4,SGBs per sample,6.0,5.92,0,1
+S12,authored,annotation,4,562±13  ,7.0,6.91,0,1
+S12,authored,annotation,4,  387±13,7.0,6.91,1,1
+S12,authored,annotation,4,158±1  ,7.0,6.91,0,1
+S12,authored,annotation,4,  174±2,7.0,6.91,1,1
+S12,authored,annotation,4,**,5.0,4.94,0,1
+S12,authored,annotation,4,E,10.13,10.0,1,1
+S12,authored,xtick,4,"H-G
+n=401 | I healthy
+n=7,788",5.0,4.94,0,1
+S12,authored,ytick,4,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S12,authored,ylabel,5,SGBs per sample,6.0,5.92,0,1
+S12,authored,annotation,5,498±12  ,7.0,6.91,0,1
+S12,authored,annotation,5,  337±12,7.0,6.91,1,1
+S12,authored,annotation,5,155±1  ,7.0,6.91,0,1
+S12,authored,annotation,5,  171±1,7.0,6.91,1,1
+S12,authored,annotation,5,**,5.0,4.94,0,1
+S12,authored,annotation,5,F,10.13,10.0,1,1
+S12,authored,xtick,5,"H-G
+n=401 | I healthy
+n=7,788",5.0,4.94,0,1
+S12,authored,ytick,5,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S12,authored,xlabel,6,Sequencing depth (Gb),13.0,12.84,0,1
+S12,authored,ylabel,6,A-P vs I healthy \n Normalised density,13.0,12.84,0,2
+S12,authored,annotation,6,G,10.13,10.0,1,1
+S12,authored,legend_entry,6,Agro-pastoralist,12.0,11.85,0,1
+S12,authored,legend_entry,6,"Industrial, healthy",12.0,11.85,0,1
+S12,authored,legend_entry,6,GMW target,12.0,11.85,0,1
+S12,authored,xtick,6,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,12.0,11.85,0,1
+S12,authored,ytick,6,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S12,authored,ylabel,7,SGBs per sample,6.0,5.92,0,1
+S12,authored,annotation,7,290±2  ,7.0,6.91,0,1
+S12,authored,annotation,7,  256±2,7.0,6.91,1,1
+S12,authored,annotation,7,158±1  ,7.0,6.91,0,1
+S12,authored,annotation,7,  177±1,7.0,6.91,1,1
+S12,authored,annotation,7,**,5.0,4.94,0,1
+S12,authored,annotation,7,H,10.13,10.0,1,1
+S12,authored,xtick,7,"A-P
+n=3,697 | I healthy
+n=7,788",5.0,4.94,0,1
+S12,authored,ytick,7,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S12,authored,ylabel,8,SGBs per sample,6.0,5.92,0,1
+S12,authored,annotation,8,262±2  ,7.0,6.91,0,1
+S12,authored,annotation,8,  231±2,7.0,6.91,1,1
+S12,authored,annotation,8,155±1  ,7.0,6.91,0,1
+S12,authored,annotation,8,  174±1,7.0,6.91,1,1
+S12,authored,annotation,8,**,5.0,4.94,0,1
+S12,authored,annotation,8,I,10.13,10.0,1,1
+S12,authored,xtick,8,"A-P
+n=3,697 | I healthy
+n=7,788",5.0,4.94,0,1
+S12,authored,ytick,8,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S12,authored,marker,1,line marker '_',2.62,2.59,0,1
+S12,authored,marker,1,line marker 'D',4.0,3.95,0,1
+S12,authored,marker,1,line marker '_',6.0,5.92,0,1
+S12,authored,marker,2,line marker '_',2.62,2.59,0,1
+S12,authored,marker,2,line marker 'D',4.0,3.95,0,1
+S12,authored,marker,2,line marker '_',6.0,5.92,0,1
+S12,authored,marker,4,line marker '_',2.62,2.59,0,1
+S12,authored,marker,4,line marker 'D',4.0,3.95,0,1
+S12,authored,marker,4,line marker '_',6.0,5.92,0,1
+S12,authored,marker,5,line marker '_',2.62,2.59,0,1
+S12,authored,marker,5,line marker 'D',4.0,3.95,0,1
+S12,authored,marker,5,line marker '_',6.0,5.92,0,1
+S12,authored,marker,7,line marker '_',2.62,2.59,0,1
+S12,authored,marker,7,line marker 'D',4.0,3.95,0,1
+S12,authored,marker,7,line marker '_',6.0,5.92,0,1
+S12,authored,marker,8,line marker '_',2.62,2.59,0,1
+S12,authored,marker,8,line marker 'D',4.0,3.95,0,1
+S12,authored,marker,8,line marker '_',6.0,5.92,0,1
+S12,final,axes_title,0,Sequencing depth,8.31,8.41,0,1
+S12,final,xlabel,0,Sequencing depth (Gb),7.58,7.67,0,1
+S12,final,ylabel,0,H-G vs A-P \n Normalised density,7.58,7.67,0,2
+S12,final,annotation,0,A,8.31,8.41,1,1
+S12,final,legend_entry,0,Hunter-gatherer,5.73,5.8,0,1
+S12,final,legend_entry,0,Agro-pastoralist,5.73,5.8,0,1
+S12,final,legend_entry,0,GMW target,5.73,5.8,0,1
+S12,final,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,6.52,6.59,0,1
+S12,final,ytick,0,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S12,final,axes_title,1,≥10% breadth,8.31,8.41,0,1
+S12,final,ylabel,1,SGBs per sample,6.0,6.07,0,1
+S12,final,annotation,1,562±13  ,7.43,7.52,0,1
+S12,final,annotation,1,  458±12,7.43,7.52,1,1
+S12,final,annotation,1,290±2  ,7.43,7.52,0,1
+S12,final,annotation,1,  307±4,7.43,7.52,1,1
+S12,final,annotation,1,**,7.43,7.52,0,1
+S12,final,annotation,1,B,8.31,8.41,1,1
+S12,final,xtick,1,"H-G
+n=401 | A-P
+n=3,697",6.52,6.59,0,1
+S12,final,ytick,1,−400 | 0 | 400 | 800 | 1200 | 1600,6.52,6.59,0,1
+S12,final,axes_title,2,≥300 kb mapped,8.31,8.41,0,1
+S12,final,ylabel,2,SGBs per sample,6.0,6.07,0,1
+S12,final,annotation,2,498±12  ,7.43,7.52,0,1
+S12,final,annotation,2,  402±11,7.43,7.52,1,1
+S12,final,annotation,2,262±2  ,7.43,7.52,0,1
+S12,final,annotation,2,  278±3,7.43,7.52,1,1
+S12,final,annotation,2,**,7.43,7.52,0,1
+S12,final,annotation,2,C,8.31,8.41,1,1
+S12,final,xtick,2,"H-G
+n=401 | A-P
+n=3,697",6.52,6.59,0,1
+S12,final,ytick,2,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S12,final,xlabel,3,Sequencing depth (Gb),7.58,7.67,0,1
+S12,final,ylabel,3,H-G vs I healthy \n Normalised density,7.58,7.67,0,2
+S12,final,annotation,3,D,8.31,8.41,1,1
+S12,final,legend_entry,3,Hunter-gatherer,5.73,5.8,0,1
+S12,final,legend_entry,3,"Industrial, healthy",5.73,5.8,0,1
+S12,final,legend_entry,3,GMW target,5.73,5.8,0,1
+S12,final,xtick,3,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,6.52,6.59,0,1
+S12,final,ytick,3,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S12,final,ylabel,4,SGBs per sample,6.0,6.07,0,1
+S12,final,annotation,4,562±13  ,7.43,7.52,0,1
+S12,final,annotation,4,  387±13,7.43,7.52,1,1
+S12,final,annotation,4,158±1  ,7.43,7.52,0,1
+S12,final,annotation,4,  174±2,7.43,7.52,1,1
+S12,final,annotation,4,**,7.43,7.52,0,1
+S12,final,annotation,4,E,8.31,8.41,1,1
+S12,final,xtick,4,"H-G
+n=401 | I healthy
+n=7,788",6.52,6.59,0,1
+S12,final,ytick,4,−400 | 0 | 400 | 800 | 1200 | 1600,6.52,6.59,0,1
+S12,final,ylabel,5,SGBs per sample,6.0,6.07,0,1
+S12,final,annotation,5,498±12  ,7.43,7.52,0,1
+S12,final,annotation,5,  337±12,7.43,7.52,1,1
+S12,final,annotation,5,155±1  ,7.43,7.52,0,1
+S12,final,annotation,5,  171±1,7.43,7.52,1,1
+S12,final,annotation,5,**,7.43,7.52,0,1
+S12,final,annotation,5,F,8.31,8.41,1,1
+S12,final,xtick,5,"H-G
+n=401 | I healthy
+n=7,788",6.52,6.59,0,1
+S12,final,ytick,5,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S12,final,xlabel,6,Sequencing depth (Gb),7.58,7.67,0,1
+S12,final,ylabel,6,A-P vs I healthy \n Normalised density,7.58,7.67,0,2
+S12,final,annotation,6,G,8.31,8.41,1,1
+S12,final,legend_entry,6,Agro-pastoralist,5.73,5.8,0,1
+S12,final,legend_entry,6,"Industrial, healthy",5.73,5.8,0,1
+S12,final,legend_entry,6,GMW target,5.73,5.8,0,1
+S12,final,xtick,6,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,6.52,6.59,0,1
+S12,final,ytick,6,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S12,final,ylabel,7,SGBs per sample,6.0,6.07,0,1
+S12,final,annotation,7,290±2  ,7.43,7.52,0,1
+S12,final,annotation,7,  256±2,7.43,7.52,1,1
+S12,final,annotation,7,158±1  ,7.43,7.52,0,1
+S12,final,annotation,7,  177±1,7.43,7.52,1,1
+S12,final,annotation,7,**,7.43,7.52,0,1
+S12,final,annotation,7,H,8.31,8.41,1,1
+S12,final,xtick,7,"A-P
+n=3,697 | I healthy
+n=7,788",6.52,6.59,0,1
+S12,final,ytick,7,−400 | 0 | 400 | 800 | 1200,6.52,6.59,0,1
+S12,final,ylabel,8,SGBs per sample,6.0,6.07,0,1
+S12,final,annotation,8,262±2  ,7.43,7.52,0,1
+S12,final,annotation,8,  231±2,7.43,7.52,1,1
+S12,final,annotation,8,155±1  ,7.43,7.52,0,1
+S12,final,annotation,8,  174±1,7.43,7.52,1,1
+S12,final,annotation,8,**,7.43,7.52,0,1
+S12,final,annotation,8,I,8.31,8.41,1,1
+S12,final,xtick,8,"A-P
+n=3,697 | I healthy
+n=7,788",6.52,6.59,0,1
+S12,final,ytick,8,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S12,final,marker,1,line marker '_',2.62,2.66,0,1
+S12,final,marker,1,line marker 'D',4.0,4.05,0,1
+S12,final,marker,1,line marker '_',6.0,6.07,0,1
+S12,final,marker,2,line marker '_',2.62,2.66,0,1
+S12,final,marker,2,line marker 'D',4.0,4.05,0,1
+S12,final,marker,2,line marker '_',6.0,6.07,0,1
+S12,final,marker,4,line marker '_',2.62,2.66,0,1
+S12,final,marker,4,line marker 'D',4.0,4.05,0,1
+S12,final,marker,4,line marker '_',6.0,6.07,0,1
+S12,final,marker,5,line marker '_',2.62,2.66,0,1
+S12,final,marker,5,line marker 'D',4.0,4.05,0,1
+S12,final,marker,5,line marker '_',6.0,6.07,0,1
+S12,final,marker,7,line marker '_',2.62,2.66,0,1
+S12,final,marker,7,line marker 'D',4.0,4.05,0,1
+S12,final,marker,7,line marker '_',6.0,6.07,0,1
+S12,final,marker,8,line marker '_',2.62,2.66,0,1
+S12,final,marker,8,line marker 'D',4.0,4.05,0,1
+S12,final,marker,8,line marker '_',6.0,6.07,0,1
+S13,authored,suptitle,,GMW depth-corrected richness — threshold robustness,9.0,9.39,1,1
+S13,authored,axes_title,0,Absolute richness difference,7.0,7.3,1,1
+S13,authored,xlabel,0,"Δ richness  (Ind − NI, # SGBs)",7.0,7.3,0,1
+S13,authored,legend_entry,0,Raw (unweighted),6.0,6.26,0,1
+S13,authored,legend_entry,0,GMW-corrected + 95%CI,6.0,6.26,0,1
+S13,authored,xtick,0,−600 | −500 | −400 | −300 | −200 | −100 | 0 | 100,5.0,5.22,0,1
+S13,authored,ytick,0,>=1% | >=3% | >=10% | >=30% | >=50% | >=90% | >=10 kb | >=30 kb,6.0,6.26,0,1
+S13,authored,axes_title,1,Percentage richness difference,7.0,7.3,1,1
+S13,authored,xlabel,1,Ind richness relative to NI (% difference),7.0,7.3,0,1
+S13,authored,legend_entry,1,Raw %,6.0,6.26,0,1
+S13,authored,legend_entry,1,GMW-corrected % + 95%CI,6.0,6.26,0,1
+S13,authored,xtick,1,-80% | -70% | -60% | -50% | -40% | -30% | -20% | -10%,5.0,5.22,0,1
+S13,authored,marker,0,"scatter (1 sizes, smallest)",5.48,5.71,0,1
+S13,authored,marker,0,"scatter (1 sizes, smallest)",7.42,7.74,0,1
+S13,authored,marker,1,"scatter (1 sizes, smallest)",5.48,5.71,0,1
+S13,authored,marker,1,"scatter (1 sizes, smallest)",7.42,7.74,0,1
+S13,final,axes_title,0,Absolute richness difference,8.37,8.4,0,1
+S13,final,xlabel,0,"Δ richness  (Ind − NI, # SGBs)",8.37,8.4,0,1
+S13,final,legend_entry,0,Raw (unweighted),7.34,7.36,0,1
+S13,final,xtick,0,−600 | −450 | −300 | −150 | 0 | 150,7.34,7.36,0,1
+S13,final,ytick,0,>=1% | >=3% | >=10% | >=30% | >=50% | >=90% | >=10 kb | >=30 kb,7.34,7.36,0,1
+S13,final,axes_title,1,Percentage richness difference,8.37,8.4,0,1
+S13,final,xlabel,1,Ind richness relative to NI (% difference),8.37,8.4,0,1
+S13,final,legend_entry,1,Raw %,7.34,7.36,0,1
+S13,final,xtick,1,-80% | -60% | -40% | -20% | +0% | +20%,7.34,7.36,0,1
+S13,final,marker,0,"scatter (1 sizes, smallest)",5.48,5.49,0,1
+S13,final,marker,0,"scatter (1 sizes, smallest)",7.42,7.44,0,1
+S13,final,marker,1,"scatter (1 sizes, smallest)",5.48,5.49,0,1
+S13,final,marker,1,"scatter (1 sizes, smallest)",7.42,7.44,0,1
+S14,authored,suptitle,,"Read length effect on observed richness [combined] \n Terciles: Short <= 100 bp, Medium 100-145 bp, Long > 145 bp",9.0,9.47,1,2
+S14,authored,axes_title,0,All samples (300kb),6.0,6.31,0,1
+S14,authored,xlabel,0,log10(Total mapped bp),6.0,6.31,0,1
+S14,authored,ylabel,0,Richness (SGBs),6.0,6.31,0,1
+S14,authored,annotation,0,A,13.0,13.68,1,1
+S14,authored,legend_entry,0,"Short (n=6,505)",5.0,5.26,0,1
+S14,authored,legend_entry,0,"Medium (n=5,513)",5.0,5.26,0,1
+S14,authored,legend_entry,0,"Long (n=6,000)",5.0,5.26,0,1
+S14,authored,xtick,0,7.0 | 7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.26,0,1
+S14,authored,ytick,0,−100 | 0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,5.26,0,1
+S14,authored,axes_title,1,Industrial (300kb),6.0,6.31,0,1
+S14,authored,xlabel,1,log10(Total mapped bp),6.0,6.31,0,1
+S14,authored,ylabel,1,Richness (SGBs),6.0,6.31,0,1
+S14,authored,annotation,1,B,13.0,13.68,1,1
+S14,authored,legend_entry,1,"Short (n=5,747)",5.0,5.26,0,1
+S14,authored,legend_entry,1,"Medium (n=4,593)",5.0,5.26,0,1
+S14,authored,legend_entry,1,"Long (n=3,592)",5.0,5.26,0,1
+S14,authored,xtick,1,7.0 | 7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.26,0,1
+S14,authored,ytick,1,−50 | 0 | 50 | 100 | 150 | 200 | 250 | 300,5.0,5.26,0,1
+S14,authored,axes_title,2,Non-Industrial (300kb),6.0,6.31,0,1
+S14,authored,xlabel,2,log10(Total mapped bp),6.0,6.31,0,1
+S14,authored,ylabel,2,Richness (SGBs),6.0,6.31,0,1
+S14,authored,annotation,2,C,13.0,13.68,1,1
+S14,authored,legend_entry,2,Short (n=758),5.0,5.26,0,1
+S14,authored,legend_entry,2,Medium (n=920),5.0,5.26,0,1
+S14,authored,legend_entry,2,"Long (n=2,408)",5.0,5.26,0,1
+S14,authored,xtick,2,7.0 | 7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.26,0,1
+S14,authored,ytick,2,0 | 100 | 200 | 300 | 400 | 500 | 600 | 700,5.0,5.26,0,1
+S14,authored,axes_title,3,All samples (10%),6.0,6.31,0,1
+S14,authored,xlabel,3,log10(Total mapped bp),6.0,6.31,0,1
+S14,authored,ylabel,3,Richness (SGBs),6.0,6.31,0,1
+S14,authored,annotation,3,D,13.0,13.68,1,1
+S14,authored,legend_entry,3,"Short (n=6,505)",5.0,5.26,0,1
+S14,authored,legend_entry,3,"Medium (n=5,513)",5.0,5.26,0,1
+S14,authored,legend_entry,3,"Long (n=6,000)",5.0,5.26,0,1
+S14,authored,xtick,3,7.0 | 7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.26,0,1
+S14,authored,ytick,3,−100 | 0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,5.26,0,1
+S14,authored,axes_title,4,Industrial (10%),6.0,6.31,0,1
+S14,authored,xlabel,4,log10(Total mapped bp),6.0,6.31,0,1
+S14,authored,ylabel,4,Richness (SGBs),6.0,6.31,0,1
+S14,authored,annotation,4,E,13.0,13.68,1,1
+S14,authored,legend_entry,4,"Short (n=5,747)",5.0,5.26,0,1
+S14,authored,legend_entry,4,"Medium (n=4,593)",5.0,5.26,0,1
+S14,authored,legend_entry,4,"Long (n=3,592)",5.0,5.26,0,1
+S14,authored,xtick,4,7.0 | 7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.26,0,1
+S14,authored,ytick,4,−50 | 0 | 50 | 100 | 150 | 200 | 250 | 300,5.0,5.26,0,1
+S14,authored,axes_title,5,Non-Industrial (10%),6.0,6.31,0,1
+S14,authored,xlabel,5,log10(Total mapped bp),6.0,6.31,0,1
+S14,authored,ylabel,5,Richness (SGBs),6.0,6.31,0,1
+S14,authored,annotation,5,F,13.0,13.68,1,1
+S14,authored,legend_entry,5,Short (n=758),5.0,5.26,0,1
+S14,authored,legend_entry,5,Medium (n=920),5.0,5.26,0,1
+S14,authored,legend_entry,5,"Long (n=2,408)",5.0,5.26,0,1
+S14,authored,xtick,5,7.0 | 7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.26,0,1
+S14,authored,ytick,5,0 | 100 | 200 | 300 | 400 | 500 | 600 | 700,5.0,5.26,0,1
+S14,authored,axes_title,6,Read length distributions by lifestyle,6.0,6.31,0,1
+S14,authored,xlabel,6,Mean read length (bp),6.0,6.31,0,1
+S14,authored,ylabel,6,Density,6.0,6.31,0,1
+S14,authored,annotation,6,G,13.0,13.68,1,1
+S14,authored,legend_entry,6,"Hunter-gatherer (n=389, med=280bp)",5.0,5.26,0,1
+S14,authored,legend_entry,6,"Agro-pastoralist (n=3,697, med=150bp)",5.0,5.26,0,1
+S14,authored,legend_entry,6,"Industrial (n=13,932, med=101bp)",5.0,5.26,0,1
+S14,authored,xtick,6,0 | 50 | 100 | 150 | 200 | 250 | 300 | 350,5.0,5.26,0,1
+S14,authored,ytick,6,0.00 | 0.02 | 0.04 | 0.06 | 0.08 | 0.10 | 0.12,5.0,5.26,0,1
+S14,authored,axes_title,7,"Read length vs richness residual (10%) \n Spearman ρ = +0.017, p = 0.025",6.0,6.31,0,2
+S14,authored,xlabel,7,Mean read length (bp),6.0,6.31,0,1
+S14,authored,ylabel,7,Richness residual (obs − depth-predicted),6.0,6.31,0,1
+S14,authored,annotation,7,H,13.0,13.68,1,1
+S14,authored,legend_entry,7,Industrial,5.0,5.26,0,1
+S14,authored,legend_entry,7,Hunter-gatherer,5.0,5.26,0,1
+S14,authored,legend_entry,7,Agro-pastoralist,5.0,5.26,0,1
+S14,authored,xtick,7,−100 | 0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,5.26,0,1
+S14,authored,ytick,7,−600 | −400 | −200 | 0 | 200 | 400 | 600 | 800,5.0,5.26,0,1
+S14,authored,axes_title,8,Summary,6.0,6.31,0,1
+S14,authored,annotation,8,Predicted richness at 3 Gb \n  \n 300kb       S     M     L \n All       190   149   221 \n Ind       174   138   214 \n NonInd    234   218   230 \n  \n 10%         S     M     L \n All       190   148   227 \n Ind       172   138   216 \n NonInd    263   237   253 \n ,5.0,5.26,0,12
+S14,authored,annotation,8,I,13.0,13.68,1,1
+S14,authored,xtick,8,0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0,5.0,5.26,0,1
+S14,authored,ytick,8,0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0,5.0,5.26,0,1
+S14,authored,marker,0,line marker 'o',6.0,6.31,0,1
+S14,authored,marker,1,line marker 'o',6.0,6.31,0,1
+S14,authored,marker,2,line marker 'o',6.0,6.31,0,1
+S14,authored,marker,3,line marker 'o',6.0,6.31,0,1
+S14,authored,marker,4,line marker 'o',6.0,6.31,0,1
+S14,authored,marker,5,line marker 'o',6.0,6.31,0,1
+S14,authored,marker,7,"scatter (1 sizes, smallest)",6.0,6.31,0,1
+S14,final,axes_title,0,All samples (300kb),8.49,8.48,0,1
+S14,final,xlabel,0,log10(Total mapped bp),7.58,7.57,0,1
+S14,final,ylabel,0,Richness (SGBs),7.58,7.57,0,1
+S14,final,annotation,0,A,7.43,7.42,1,1
+S14,final,legend_entry,0,"Short (n=6,505)",6.52,6.51,0,1
+S14,final,legend_entry,0,"Medium (n=5,513)",6.52,6.51,0,1
+S14,final,legend_entry,0,"Long (n=6,000)",6.52,6.51,0,1
+S14,final,xtick,0,8.0 | 8.8 | 9.6 | 10.4 | 11.2,6.52,6.51,0,1
+S14,final,ytick,0,0 | 200 | 400 | 600 | 800,6.52,6.51,0,1
+S14,final,axes_title,1,Industrial (300kb),8.49,8.48,0,1
+S14,final,xlabel,1,log10(Total mapped bp),7.58,7.57,0,1
+S14,final,ylabel,1,Richness (SGBs),7.58,7.57,0,1
+S14,final,annotation,1,B,7.43,7.42,1,1
+S14,final,legend_entry,1,"Short (n=5,747)",6.52,6.51,0,1
+S14,final,legend_entry,1,"Medium (n=4,593)",6.52,6.51,0,1
+S14,final,legend_entry,1,"Long (n=3,592)",6.52,6.51,0,1
+S14,final,xtick,1,8.0 | 8.8 | 9.6 | 10.4,6.52,6.51,0,1
+S14,final,ytick,1,0 | 80 | 160 | 240 | 320,6.52,6.51,0,1
+S14,final,axes_title,2,Non-industrial (300kb),8.49,8.48,0,1
+S14,final,xlabel,2,log10(Total mapped bp),7.58,7.57,0,1
+S14,final,ylabel,2,Richness (SGBs),7.58,7.57,0,1
+S14,final,annotation,2,C,7.43,7.42,1,1
+S14,final,legend_entry,2,Short (n=758),6.52,6.51,0,1
+S14,final,legend_entry,2,Medium (n=920),6.52,6.51,0,1
+S14,final,legend_entry,2,"Long (n=2,408)",6.52,6.51,0,1
+S14,final,xtick,2,8.0 | 8.8 | 9.6 | 10.4 | 11.2,6.52,6.51,0,1
+S14,final,ytick,2,200 | 400 | 600 | 800,6.52,6.51,0,1
+S14,final,axes_title,3,All samples (10%),8.49,8.48,0,1
+S14,final,xlabel,3,log10(Total mapped bp),7.58,7.57,0,1
+S14,final,ylabel,3,Richness (SGBs),7.58,7.57,0,1
+S14,final,annotation,3,D,7.43,7.42,1,1
+S14,final,legend_entry,3,"Short (n=6,505)",6.52,6.51,0,1
+S14,final,legend_entry,3,"Medium (n=5,513)",6.52,6.51,0,1
+S14,final,legend_entry,3,"Long (n=6,000)",6.52,6.51,0,1
+S14,final,xtick,3,8.0 | 8.8 | 9.6 | 10.4 | 11.2,6.52,6.51,0,1
+S14,final,ytick,3,0 | 200 | 400 | 600 | 800,6.52,6.51,0,1
+S14,final,axes_title,4,Industrial (10%),8.49,8.48,0,1
+S14,final,xlabel,4,log10(Total mapped bp),7.58,7.57,0,1
+S14,final,ylabel,4,Richness (SGBs),7.58,7.57,0,1
+S14,final,annotation,4,E,7.43,7.42,1,1
+S14,final,legend_entry,4,"Short (n=5,747)",6.52,6.51,0,1
+S14,final,legend_entry,4,"Medium (n=4,593)",6.52,6.51,0,1
+S14,final,legend_entry,4,"Long (n=3,592)",6.52,6.51,0,1
+S14,final,xtick,4,8.0 | 8.8 | 9.6 | 10.4,6.52,6.51,0,1
+S14,final,ytick,4,0 | 100 | 200 | 300 | 400,6.52,6.51,0,1
+S14,final,axes_title,5,Non-industrial (10%),8.49,8.48,0,1
+S14,final,xlabel,5,log10(Total mapped bp),7.58,7.57,0,1
+S14,final,ylabel,5,Richness (SGBs),7.58,7.57,0,1
+S14,final,annotation,5,F,7.43,7.42,1,1
+S14,final,legend_entry,5,Short (n=758),6.52,6.51,0,1
+S14,final,legend_entry,5,Medium (n=920),6.52,6.51,0,1
+S14,final,legend_entry,5,"Long (n=2,408)",6.52,6.51,0,1
+S14,final,xtick,5,8.0 | 8.8 | 9.6 | 10.4 | 11.2,6.52,6.51,0,1
+S14,final,ytick,5,250 | 500 | 750 | 1000,6.52,6.51,0,1
+S14,final,axes_title,6,Read length distributions by lifestyle,8.49,8.48,0,1
+S14,final,xlabel,6,Mean read length (bp),7.58,7.57,0,1
+S14,final,ylabel,6,Density,7.58,7.57,0,1
+S14,final,annotation,6,G,7.43,7.42,1,1
+S14,final,legend_entry,6,"Hunter-gatherer (n=389, med=280bp)",6.52,6.51,0,1
+S14,final,legend_entry,6,"Agro-pastoralist (n=3,697, med=150bp)",6.52,6.51,0,1
+S14,final,legend_entry,6,"Industrial (n=13,932, med=101bp)",6.52,6.51,0,1
+S14,final,xtick,6,80 | 160 | 240 | 320,6.52,6.51,0,1
+S14,final,ytick,6,0.03 | 0.06 | 0.09 | 0.12,6.52,6.51,0,1
+S14,final,axes_title,7,"Read length vs richness residual (10%) \n Spearman ρ = +0.017, p = 0.025",8.49,8.48,0,2
+S14,final,xlabel,7,Mean read length (bp),7.58,7.57,0,1
+S14,final,ylabel,7,Richness residual (obs − depth-predicted),7.58,7.57,0,1
+S14,final,annotation,7,H,7.43,7.42,1,1
+S14,final,legend_entry,7,Industrial,6.52,6.51,0,1
+S14,final,legend_entry,7,Hunter-gatherer,6.52,6.51,0,1
+S14,final,legend_entry,7,Agro-pastoralist,6.52,6.51,0,1
+S14,final,xtick,7,0 | 150 | 300 | 450 | 600,6.52,6.51,0,1
+S14,final,ytick,7,−300 | 0 | 300 | 600 | 900,6.52,6.51,0,1
+S14,final,axes_title,8,Summary,8.49,8.48,0,1
+S14,final,annotation,8,Predicted richness at 3 Gb \n  \n 300kb       S     M     L \n All       190   149   221 \n Ind       174   138   214 \n NonInd    234   218   230 \n  \n 10%         S     M     L \n All       190   148   227 \n Ind       172   138   216 \n NonInd    263   237   253 \n ,7.43,7.42,0,12
+S14,final,annotation,8,I,7.43,7.42,1,1
+S14,final,xtick,8,0.25 | 0.50 | 0.75 | 1.00,6.52,6.51,0,1
+S14,final,ytick,8,0.25 | 0.50 | 0.75 | 1.00,6.52,6.51,0,1
+S14,final,marker,0,line marker 'o',6.0,6.0,0,1
+S14,final,marker,1,line marker 'o',6.0,6.0,0,1
+S14,final,marker,2,line marker 'o',6.0,6.0,0,1
+S14,final,marker,3,line marker 'o',6.0,6.0,0,1
+S14,final,marker,4,line marker 'o',6.0,6.0,0,1
+S14,final,marker,5,line marker 'o',6.0,6.0,0,1
+S14,final,marker,7,"scatter (1 sizes, smallest)",6.0,6.0,0,1
+S15,final,figure_text,,Samples,7.76,8.56,1,1
+S15,final,figure_text,,Studies,7.76,8.56,1,1
+S15,final,figure_text,,$\bf{Carter}$ (Hadza + UHGG),7.02,7.75,0,1
+S15,final,figure_text,,$\bf{Leviatan}$,7.02,7.75,0,1
+S15,final,figure_text,,$\bf{Combined}$ (Carter + Leviatan),7.02,7.75,0,1
+S15,final,ylabel,0,SGBs detected,5.91,6.53,0,1
+S15,final,annotation,0,Industrial: 3798 [3679-3951],5.0,5.52,0,1
+S15,final,annotation,0,Non-industrial: 3970 [3928-3970],5.0,5.52,0,1
+S15,final,annotation,0,A,8.5,9.38,1,1
+S15,final,ytick,0,0 | 900 | 1800 | 2700 | 3600,5.17,5.71,0,1
+S15,final,annotation,1,Industrial: 3655 [3361-3970],5.0,5.52,0,1
+S15,final,annotation,1,Non-industrial: 3970 [3751-3970],5.0,5.52,0,1
+S15,final,annotation,1,B,8.5,9.38,1,1
+S15,final,ylabel,2,SGBs detected,5.91,6.53,0,1
+S15,final,annotation,2,Industrial: 3593 [3593-3593],5.0,5.52,0,1
+S15,final,annotation,2,Non-industrial: 3593 [3323-3593],5.0,5.52,0,1
+S15,final,annotation,2,C,8.5,9.38,1,1
+S15,final,ytick,2,0 | 900 | 1800 | 2700 | 3600,5.17,5.71,0,1
+S15,final,annotation,3,Industrial: 3593 [3476-3593],5.0,5.52,0,1
+S15,final,annotation,3,Non-industrial: 3379 [2780-3593],5.0,5.52,0,1
+S15,final,annotation,3,D,8.5,9.38,1,1
+S15,final,xlabel,4,Number of samples (linear scale),5.91,6.53,0,1
+S15,final,ylabel,4,SGBs detected,5.91,6.53,0,1
+S15,final,annotation,4,Industrial: 5042 [4915-5079],5.0,5.52,0,1
+S15,final,annotation,4,Non-industrial: 4917 [4701-5079],5.0,5.52,0,1
+S15,final,annotation,4,E,8.5,9.38,1,1
+S15,final,xtick,4,−4000 | 0 | 4000 | 8000 | 12000 | 16000,5.17,5.71,0,1
+S15,final,ytick,4,0 | 1200 | 2400 | 3600 | 4800,5.17,5.71,0,1
+S15,final,xlabel,5,Number of studies (linear scale),5.91,6.53,0,1
+S15,final,annotation,5,Industrial: 4929 [4425-5079],5.0,5.52,0,1
+S15,final,annotation,5,Non-industrial: 4705 [4254-5079],5.0,5.52,0,1
+S15,final,annotation,5,F,8.5,9.38,1,1
+S15,final,xtick,5,−20 | 0 | 20 | 40 | 60 | 80,5.17,5.71,0,1
+S15,final,marker,0,line marker 'o',1.15,1.26,0,1
+S15,final,marker,1,line marker 'o',1.15,1.26,0,1
+S15,final,marker,2,line marker 'o',1.15,1.26,0,1
+S15,final,marker,3,line marker 'o',1.15,1.26,0,1
+S15,final,marker,4,line marker 'o',1.15,1.26,0,1
+S15,final,marker,5,line marker 'o',1.15,1.26,0,1
+S16,final,figure_text,,Accumulated SGBs,7.09,7.19,0,1
+S16,final,figure_text,,"Relative support, $\Delta$",7.09,7.19,0,1
+S16,final,figure_text,,Bootstrap replicates,7.09,7.19,0,1
+S16,final,axes_title,0,Accumulation curve,8.15,8.27,1,1
+S16,final,annotation,0,A,9.58,9.71,1,1
+S16,final,legend_entry,0,Industrial  $R^2$=0.9996,6.1,6.18,0,1
+S16,final,legend_entry,0,Non-industrial  $R^2$=0.9988,6.1,6.18,0,1
+S16,final,ytick,0,−1500 | 0 | 1500 | 3000 | 4500,6.1,6.18,0,1
+S16,final,axes_title,1,Support for $S_\infty$,8.15,8.27,1,1
+S16,final,annotation,1,B,9.58,9.71,1,1
+S16,final,ytick,1,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S16,final,axes_title,2,Bootstrap $S_\infty$,8.15,8.27,1,1
+S16,final,annotation,2,>=1 sample,6.95,7.04,1,1
+S16,final,annotation,2,C,9.58,9.71,1,1
+S16,final,legend_entry,2,Industrial med=5079,6.1,6.18,0,1
+S16,final,legend_entry,2,Non-industrial med=5055,6.1,6.18,0,1
+S16,final,legend_entry,2,M,6.1,6.18,0,1
+S16,final,ytick,2,0 | 20 | 40 | 60 | 80,6.1,6.18,0,1
+S16,final,annotation,3,D,9.58,9.71,1,1
+S16,final,legend_entry,3,Industrial  $R^2$=1.0000,6.1,6.18,0,1
+S16,final,legend_entry,3,Non-industrial  $R^2$=0.9999,6.1,6.18,0,1
+S16,final,ytick,3,−1500 | 0 | 1500 | 3000 | 4500,6.1,6.18,0,1
+S16,final,annotation,4,E,9.58,9.71,1,1
+S16,final,ytick,4,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S16,final,annotation,5,>=2 samples,6.95,7.04,1,1
+S16,final,annotation,5,F,9.58,9.71,1,1
+S16,final,legend_entry,5,Industrial med=5077,6.1,6.18,0,1
+S16,final,legend_entry,5,Non-industrial med=4982,6.1,6.18,0,1
+S16,final,legend_entry,5,M,6.1,6.18,0,1
+S16,final,ytick,5,0 | 15 | 30 | 45 | 60,6.1,6.18,0,1
+S16,final,annotation,6,G,9.58,9.71,1,1
+S16,final,legend_entry,6,Industrial  $R^2$=0.9999,6.1,6.18,0,1
+S16,final,legend_entry,6,Non-industrial  $R^2$=0.9999,6.1,6.18,0,1
+S16,final,ytick,6,−1500 | 0 | 1500 | 3000 | 4500,6.1,6.18,0,1
+S16,final,annotation,7,H,9.58,9.71,1,1
+S16,final,ytick,7,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S16,final,annotation,8,>=3 samples,6.95,7.04,1,1
+S16,final,annotation,8,I,9.58,9.71,1,1
+S16,final,legend_entry,8,Industrial med=5007,6.1,6.18,0,1
+S16,final,legend_entry,8,Non-industrial med=5049,6.1,6.18,0,1
+S16,final,legend_entry,8,M,6.1,6.18,0,1
+S16,final,ytick,8,0 | 15 | 30 | 45,6.1,6.18,0,1
+S16,final,xlabel,9,Number of samples,7.09,7.19,0,1
+S16,final,annotation,9,J,9.58,9.71,1,1
+S16,final,legend_entry,9,Industrial  $R^2$=1.0000,6.1,6.18,0,1
+S16,final,legend_entry,9,Non-industrial  $R^2$=0.9999,6.1,6.18,0,1
+S16,final,xtick,9,−4000 | 0 | 4000 | 8000 | 12000 | 16000,6.1,6.18,0,1
+S16,final,ytick,9,−1000 | 0 | 1000 | 2000 | 3000 | 4000,6.1,6.18,0,1
+S16,final,xlabel,10,$S_\infty$ (SGBs),7.09,7.19,0,1
+S16,final,annotation,10,K,9.58,9.71,1,1
+S16,final,legend_entry,10,Industrial boot,6.1,6.18,0,1
+S16,final,legend_entry,10,Non-industrial boot,6.1,6.18,0,1
+S16,final,legend_entry,10,$M$,6.1,6.18,0,1
+S16,final,legend_entry,10,$\chi^2_1$ 95% cutoff,6.1,6.18,0,1
+S16,final,xtick,10,3000 | 3500 | 4000 | 4500 | 5000 | 5500,6.1,6.18,0,1
+S16,final,ytick,10,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S16,final,xlabel,11,Bootstrap estimate of $S_\infty$ (SGBs),7.09,7.19,0,1
+S16,final,annotation,11,>=5 samples,6.95,7.04,1,1
+S16,final,annotation,11,L,9.58,9.71,1,1
+S16,final,legend_entry,11,Industrial med=5035,6.1,6.18,0,1
+S16,final,legend_entry,11,Non-industrial med=5081,6.1,6.18,0,1
+S16,final,legend_entry,11,M,6.1,6.18,0,1
+S16,final,xtick,11,4900 | 4950 | 5000 | 5050 | 5100,6.1,6.18,0,1
+S16,final,ytick,11,0 | 20 | 40 | 60 | 80,6.1,6.18,0,1
+S16,final,marker,0,line marker 'o',1.24,1.26,0,1
+S16,final,marker,3,line marker 'o',1.24,1.26,0,1
+S16,final,marker,6,line marker 'o',1.24,1.26,0,1
+S16,final,marker,9,line marker 'o',1.24,1.26,0,1
+S17,final,figure_text,,Accumulated SGBs,7.09,7.19,0,1
+S17,final,figure_text,,"Relative support, $\Delta$",7.09,7.19,0,1
+S17,final,figure_text,,Bootstrap replicates,7.09,7.19,0,1
+S17,final,axes_title,0,Accumulation curve,8.15,8.27,1,1
+S17,final,annotation,0,A,9.58,9.71,1,1
+S17,final,legend_entry,0,Industrial  $R^2$=0.9996,6.1,6.18,0,1
+S17,final,legend_entry,0,Non-industrial  $R^2$=0.9988,6.1,6.18,0,1
+S17,final,ytick,0,−1500 | 0 | 1500 | 3000 | 4500,6.1,6.18,0,1
+S17,final,axes_title,1,Support for $S_\infty$,8.15,8.27,1,1
+S17,final,annotation,1,B,9.58,9.71,1,1
+S17,final,ytick,1,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S17,final,axes_title,2,Bootstrap $S_\infty$,8.15,8.27,1,1
+S17,final,annotation,2,>=10% breadth,6.95,7.04,1,1
+S17,final,annotation,2,C,9.58,9.71,1,1
+S17,final,legend_entry,2,Industrial med=5079,6.1,6.18,0,1
+S17,final,legend_entry,2,Non-industrial med=5055,6.1,6.18,0,1
+S17,final,legend_entry,2,M,6.1,6.18,0,1
+S17,final,ytick,2,0 | 20 | 40 | 60 | 80,6.1,6.18,0,1
+S17,final,annotation,3,D,9.58,9.71,1,1
+S17,final,legend_entry,3,Industrial  $R^2$=0.9994,6.1,6.18,0,1
+S17,final,legend_entry,3,Non-industrial  $R^2$=0.9992,6.1,6.18,0,1
+S17,final,ytick,3,−1500 | 0 | 1500 | 3000 | 4500,6.1,6.18,0,1
+S17,final,annotation,4,E,9.58,9.71,1,1
+S17,final,ytick,4,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S17,final,annotation,5,>=30% breadth,6.95,7.04,1,1
+S17,final,annotation,5,F,9.58,9.71,1,1
+S17,final,legend_entry,5,Industrial med=5081,6.1,6.18,0,1
+S17,final,legend_entry,5,Non-industrial med=5020,6.1,6.18,0,1
+S17,final,legend_entry,5,M,6.1,6.18,0,1
+S17,final,ytick,5,0 | 25 | 50 | 75 | 100,6.1,6.18,0,1
+S17,final,xlabel,6,Number of samples,7.09,7.19,0,1
+S17,final,annotation,6,G,9.58,9.71,1,1
+S17,final,legend_entry,6,Industrial  $R^2$=0.9998,6.1,6.18,0,1
+S17,final,legend_entry,6,Non-industrial  $R^2$=0.9996,6.1,6.18,0,1
+S17,final,xtick,6,−4000 | 0 | 4000 | 8000 | 12000 | 16000,6.1,6.18,0,1
+S17,final,ytick,6,−1000 | 0 | 1000 | 2000 | 3000 | 4000,6.1,6.18,0,1
+S17,final,xlabel,7,$S_\infty$ (SGBs),7.09,7.19,0,1
+S17,final,annotation,7,H,9.58,9.71,1,1
+S17,final,legend_entry,7,Industrial boot,6.1,6.18,0,1
+S17,final,legend_entry,7,Non-industrial boot,6.1,6.18,0,1
+S17,final,legend_entry,7,$M$,6.1,6.18,0,1
+S17,final,legend_entry,7,$\chi^2_1$ 95% cutoff,6.1,6.18,0,1
+S17,final,xtick,7,3000 | 3500 | 4000 | 4500 | 5000 | 5500,6.1,6.18,0,1
+S17,final,ytick,7,0 | 5 | 10 | 15 | 20,6.1,6.18,0,1
+S17,final,xlabel,8,Bootstrap estimate of $S_\infty$ (SGBs),7.09,7.19,0,1
+S17,final,annotation,8,>=50% breadth,6.95,7.04,1,1
+S17,final,annotation,8,I,9.58,9.71,1,1
+S17,final,legend_entry,8,Industrial med=5075,6.1,6.18,0,1
+S17,final,legend_entry,8,Non-industrial med=5029,6.1,6.18,0,1
+S17,final,legend_entry,8,M,6.1,6.18,0,1
+S17,final,xtick,8,3900 | 4200 | 4500 | 4800 | 5100 | 5400,6.1,6.18,0,1
+S17,final,ytick,8,0 | 15 | 30 | 45 | 60,6.1,6.18,0,1
+S17,final,marker,0,line marker 'o',1.24,1.26,0,1
+S17,final,marker,3,line marker 'o',1.24,1.26,0,1
+S17,final,marker,6,line marker 'o',1.24,1.26,0,1
+S18,authored,suptitle,,Depth-binned extinction-axis analysis - combined  [10pct],8.0,8.23,1,1
+S18,authored,axes_title,0,Transitional centroid per depth bin,7.0,7.2,1,1
+S18,authored,xlabel,0,Position along Hunter-Gatherer to Industrial axis,6.0,6.17,0,1
+S18,authored,ylabel,0,Off-axis displacement (normalised),6.0,6.17,0,1
+S18,authored,legend_entry,0,Hunter-gatherer anchor,1.0,1.03,0,1
+S18,authored,legend_entry,0,Industrial anchor,1.0,1.03,0,1
+S18,authored,legend_entry,0,Agro-pastoralist grand centroid,1.0,1.03,0,1
+S18,authored,legend_entry,0,Hunter-Gatherer to Industrial (VANISH / BloSSUM),1.0,1.03,0,1
+S18,authored,legend_entry,0,Agriculturalization axis,1.0,1.03,0,1
+S18,authored,legend_entry,0,Industrialisation axis (VANISH+ / BloSSUM+),1.0,1.03,0,1
+S18,authored,xtick,0,−0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0 | 1.2,5.0,5.14,0,1
+S18,authored,ytick,0,−0.3 | 0.0 | 0.3 | 0.6 | 0.9 | 1.2,5.0,5.14,0,1
+S18,authored,axes_title,1,Transitional to Industrial vs Hunter-Gatherer to Industrial,7.0,7.2,1,1
+S18,authored,xlabel,1,Depth bin midpoint (Gbp),6.0,6.17,0,1
+S18,authored,ylabel,1,theta (degrees),6.0,6.17,0,1
+S18,authored,legend_entry,1,Bootstrap 95% CI,6.0,6.17,0,1
+S18,authored,legend_entry,1,θ per bin (n=17),6.0,6.17,0,1
+S18,authored,legend_entry,1,Mean = 35.4° ± 13.3°,6.0,6.17,0,1
+S18,authored,legend_entry,1,θ = 0° (parallel / collinear),6.0,6.17,0,1
+S18,authored,legend_entry,1,θ = 90° (orthogonal),6.0,6.17,0,1
+S18,authored,xtick,1,$\mathdefault{10^{-3}}$ | $\mathdefault{10^{-2}}$ | $\mathdefault{10^{-1}}$ | $\mathdefault{10^{0}}$ | $\mathdefault{10^{1}}$ | $\mathdefault{10^{2}}$ | $\mathdefault{10^{3}}$,5.0,5.14,0,1
+S18,authored,ytick,1,−25 | 0 | 25 | 50 | 75 | 100,5.0,5.14,0,1
+S18,authored,ylabel,2,Depth bin midpoint (Gbp),4.0,4.11,0,1
+S18,authored,ytick,2,0.0 | 2.5 | 5.0 | 7.5 | 10.0 | 12.5 | 15.0 | 17.5,3.0,3.08,0,1
+S18,authored,marker,0,"scatter (1 sizes, smallest)",6.32,6.5,0,1
+S18,authored,marker,0,"scatter (1 sizes, smallest)",8.37,8.6,0,1
+S18,authored,marker,0,"scatter (1 sizes, smallest)",10.49,10.78,0,1
+S18,authored,marker,1,"scatter (1 sizes, smallest)",7.42,7.63,0,1
+S18,final,axes_title,0,Agro-pastoralist centroid per depth bin,8.66,8.65,0,1
+S18,final,xlabel,0,Position along Hunter-gatherer to Industrial axis,8.66,8.65,0,1
+S18,final,ylabel,0,Off-axis displacement (normalised),8.66,8.65,0,1
+S18,final,legend_entry,0,Hunter-gatherer anchor,6.55,6.55,0,1
+S18,final,legend_entry,0,Industrial anchor,6.55,6.55,0,1
+S18,final,legend_entry,0,Agro-pastoralist grand centroid,6.55,6.55,0,1
+S18,final,xtick,0,−0.3 | 0.0 | 0.3 | 0.6 | 0.9 | 1.2,7.44,7.44,0,1
+S18,final,ytick,0,−0.3 | 0.0 | 0.3 | 0.6 | 0.9 | 1.2,7.44,7.44,0,1
+S18,final,axes_title,1,Agro-pastoralist to Industrial vs Hunter-gatherer to Industrial,8.66,8.65,0,1
+S18,final,xlabel,1,Depth bin midpoint (Gbp),8.66,8.65,0,1
+S18,final,ylabel,1,theta (degrees),8.66,8.65,0,1
+S18,final,legend_entry,1,Bootstrap 95% CI,6.55,6.55,0,1
+S18,final,legend_entry,1,θ per bin (n=17),6.55,6.55,0,1
+S18,final,legend_entry,1,Mean = 35.4° ± 13.3°,6.55,6.55,0,1
+S18,final,legend_entry,1,θ = 0° (parallel / collinear),6.55,6.55,0,1
+S18,final,legend_entry,1,θ = 90° (orthogonal),6.55,6.55,0,1
+S18,final,xtick,1,$\mathdefault{10^{-3}}$ | $\mathdefault{10^{-2}}$ | $\mathdefault{10^{-1}}$ | $\mathdefault{10^{0}}$ | $\mathdefault{10^{1}}$ | $\mathdefault{10^{2}}$ | $\mathdefault{10^{3}}$,7.44,7.44,0,1
+S18,final,ytick,1,−25 | 0 | 25 | 50 | 75 | 100,7.44,7.44,0,1
+S18,final,ylabel,2,Depth bin midpoint (Gbp),6.0,6.0,0,1
+S18,final,ytick,2,0 | 6 | 12 | 18 | 24,7.44,7.44,0,1
+S18,final,marker,0,"scatter (1 sizes, smallest)",6.32,6.32,0,1
+S18,final,marker,0,"scatter (1 sizes, smallest)",8.37,8.36,0,1
+S18,final,marker,0,"scatter (1 sizes, smallest)",10.49,10.48,0,1
+S18,final,marker,1,"scatter (1 sizes, smallest)",7.42,7.41,0,1
+S19,authored,xlabel,0,Position along Hunter-Gatherer to Industrial axis,11.0,11.26,0,1
+S19,authored,ylabel,0,Off-axis displacement,11.0,11.26,0,1
+S19,authored,annotation,0,BeghiniF (HND),9.0,9.21,0,1
+S19,authored,annotation,0,CarterM (TZA),9.0,9.21,0,1
+S19,authored,annotation,0,Valles-Colom (GNB),9.0,9.21,0,1
+S19,authored,annotation,0,BritoIL (FJI),9.0,9.21,0,1
+S19,authored,annotation,0,BrambleMS (COD),9.0,9.21,0,1
+S19,authored,annotation,0,CosteaPI (KAZ),9.0,9.21,0,1
+S19,authored,annotation,0,TettAJ (TZA),9.0,9.21,0,1
+S19,authored,annotation,0,TamburiniFB (ZAF),9.0,9.21,0,1
+S19,authored,annotation,0,LiuW (MNG),9.0,9.21,0,1
+S19,authored,annotation,0,PasolliE (MDG),9.0,9.21,0,1
+S19,authored,annotation,0,JacobsonDK (BFA),9.0,9.21,0,1
+S19,authored,annotation,0,RubelMA (CMR),9.0,9.21,0,1
+S19,authored,annotation,0,PehrssonEC (SLV),9.0,9.21,0,1
+S19,authored,annotation,0,CarterM (NPL),9.0,9.21,0,1
+S19,authored,annotation,0,LokmerA (CMR),9.0,9.21,0,1
+S19,authored,annotation,0,RampelliS (TZA),9.0,9.21,0,1
+S19,authored,annotation,0,RosaBA (IDN),9.0,9.21,0,1
+S19,authored,annotation,0,Obregon-Tito (PER),9.0,9.21,0,1
+S19,authored,annotation,0,VangayP (THA),9.0,9.21,0,1
+S19,authored,annotation,0,AsnicarF (GBR),9.0,9.21,0,1
+S19,authored,annotation,0,Lloyd-PriceJ (USA),9.0,9.21,0,1
+S19,authored,annotation,0,iMSMS (USA),9.0,9.21,0,1
+S19,authored,annotation,0,ZeeviD (ISR),9.0,9.21,0,1
+S19,authored,annotation,0,MehtaRS (USA),9.0,9.21,0,1
+S19,authored,annotation,0,YachidaS (JPN),9.0,9.21,0,1
+S19,authored,annotation,0,SchirmerM (NLD),9.0,9.21,0,1
+S19,authored,annotation,0,LiJ (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,NielsenHB (ESP),9.0,9.21,0,1
+S19,authored,annotation,0,HMP (USA),9.0,9.21,0,1
+S19,authored,annotation,0,WallenZD (USA),9.0,9.21,0,1
+S19,authored,annotation,0,QinJ (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,JieZ (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,XieH (GBR),9.0,9.21,0,1
+S19,authored,annotation,0,QinN (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,HallAB (USA),9.0,9.21,0,1
+S19,authored,annotation,0,XiongR (USA),9.0,9.21,0,1
+S19,authored,annotation,0,ZhangX (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,HansenLBS (DNK),9.0,9.21,0,1
+S19,authored,annotation,0,ChengpingW (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,ZhuF (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,LiuR (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,Valles-Colom (ITA),9.0,9.21,0,1
+S19,authored,annotation,0,LeeKA (GBR),9.0,9.21,0,1
+S19,authored,annotation,0,ZellerG (FRA),9.0,9.21,0,1
+S19,authored,annotation,0,KarlssonFH (SWE),9.0,9.21,0,1
+S19,authored,annotation,0,LeChatelierE (DNK),9.0,9.21,0,1
+S19,authored,annotation,0,ThomasAM (ITA),9.0,9.21,0,1
+S19,authored,annotation,0,YassourM (FIN),9.0,9.21,0,1
+S19,authored,annotation,0,FengQ (AUT),9.0,9.21,0,1
+S19,authored,annotation,0,McDonaldD (USA),9.0,9.21,0,1
+S19,authored,annotation,0,YuJ (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,IaniroG (ITA),9.0,9.21,0,1
+S19,authored,annotation,0,YeZ (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,Nagy-SzakalD (USA),9.0,9.21,0,1
+S19,authored,annotation,0,LouisS (DEU),9.0,9.21,0,1
+S19,authored,annotation,0,HeQ (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,WirbelJ (DEU),9.0,9.21,0,1
+S19,authored,annotation,0,IjazUZ (GBR),9.0,9.21,0,1
+S19,authored,annotation,0,CosteaPI (DEU),9.0,9.21,0,1
+S19,authored,annotation,0,RaymondF (CAN),9.0,9.21,0,1
+S19,authored,annotation,0,BackhedF (SWE),9.0,9.21,0,1
+S19,authored,annotation,0,LoombaR (USA),9.0,9.21,0,1
+S19,authored,annotation,0,RettedalAE (NZL),9.0,9.21,0,1
+S19,authored,annotation,0,Macdonaldo-G (USA),9.0,9.21,0,1
+S19,authored,annotation,0,VogtmannE (USA),9.0,9.21,0,1
+S19,authored,annotation,0,KimJ (KOR),9.0,9.21,0,1
+S19,authored,annotation,0,LiSS (NLD),9.0,9.21,0,1
+S19,authored,annotation,0,PehrssonEC (PER),9.0,9.21,0,1
+S19,authored,annotation,0,PetersenLM (USA),9.0,9.21,0,1
+S19,authored,annotation,0,MatsonV (USA),9.0,9.21,0,1
+S19,authored,annotation,0,FrankelAE (USA),9.0,9.21,0,1
+S19,authored,annotation,0,LomanNJ (DEU),9.0,9.21,0,1
+S19,authored,annotation,0,KuangYS (CHN),9.0,9.21,0,1
+S19,authored,annotation,0,HanniganGD (USA),9.0,9.21,0,1
+S19,authored,annotation,0,PetersBA (USA),9.0,9.21,0,1
+S19,authored,annotation,0,BedarfJR (DEU),9.0,9.21,0,1
+S19,authored,annotation,0,Obregon-Tito (USA),9.0,9.21,0,1
+S19,authored,annotation,0,DavidLA (BGD),9.0,9.21,0,1
+S19,authored,annotation,0,CarterM (USA),9.0,9.21,0,1
+S19,authored,annotation,0,Sankaranaray (USA),9.0,9.21,0,1
+S19,authored,annotation,0,RaethongN (THA),9.0,9.21,0,1
+S19,authored,annotation,0,Eloe-Fadrosh (USA),9.0,9.21,0,1
+S19,authored,annotation,0,BrownCT (FIN),9.0,9.21,0,1
+S19,authored,legend_title,0,Lifestyle  /  size sqrt(n),10.0,10.24,0,1
+S19,authored,legend_entry,0,Hunter-gatherer,10.0,10.24,0,1
+S19,authored,legend_entry,0,Agro-pastoralist,10.0,10.24,0,1
+S19,authored,legend_entry,0,Industrial,10.0,10.24,0,1
+S19,authored,legend_entry,0,n = 25,10.0,10.24,0,1
+S19,authored,legend_entry,0,n = 60,10.0,10.24,0,1
+S19,authored,legend_entry,0,n = 120,10.0,10.24,0,1
+S19,authored,legend_entry,0,n = 250,10.0,10.24,0,1
+S19,authored,xtick,0,−0.4 | −0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0,8.0,8.19,0,1
+S19,authored,ytick,0,−0.4 | −0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8,8.0,8.19,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",4.23,4.33,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",4.9,5.02,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",5.03,5.15,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",5.15,5.27,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",5.26,5.39,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",5.37,5.5,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",5.66,5.79,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",5.91,6.05,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.19,6.34,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.32,6.47,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.56,6.72,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.67,6.83,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.83,6.99,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.93,7.09,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",6.98,7.14,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.07,7.24,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.24,7.42,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.28,7.46,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.41,7.58,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.44,7.62,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.52,7.7,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.7,7.89,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.74,7.92,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.81,7.99,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",7.9,8.09,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.06,8.25,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.15,8.35,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.18,8.38,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.21,8.41,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.38,8.58,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.41,8.61,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.51,8.71,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.59,8.79,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.81,9.02,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.88,9.09,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",8.97,9.18,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.01,9.22,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.16,9.38,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.18,9.4,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.32,9.54,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.34,9.56,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.38,9.6,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.73,9.96,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.83,10.07,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.9,10.13,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",9.95,10.18,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.15,10.39,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.27,10.52,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.35,10.59,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.49,10.74,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.51,10.76,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.65,10.9,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.75,11.01,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",10.87,11.13,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",11.17,11.43,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",11.75,12.03,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",11.76,12.04,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",11.77,12.05,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",11.93,12.22,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",11.95,12.24,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",12.28,12.57,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",12.32,12.61,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",12.35,12.65,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",12.69,12.99,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",13.57,13.89,0,1
+S19,authored,marker,0,"scatter (1 sizes, smallest)",14.49,14.84,0,1
+S19,final,xlabel,0,Position along Hunter-gatherer to Industrial axis,8.29,8.42,0,1
+S19,final,ylabel,0,Off-axis displacement,8.29,8.42,0,1
+S19,final,annotation,0,YeZ (CHN),8.29,8.42,0,1
+S19,final,annotation,0,BeghiniF (HND),8.29,8.42,0,1
+S19,final,annotation,0,CarterM (TZA),8.29,8.42,0,1
+S19,final,annotation,0,Valles-Colom (GNB),8.29,8.42,0,1
+S19,final,annotation,0,BritoIL (FJI),8.29,8.42,0,1
+S19,final,annotation,0,BrambleMS (COD),8.29,8.42,0,1
+S19,final,annotation,0,CosteaPI (KAZ),8.29,8.42,0,1
+S19,final,annotation,0,TettAJ (TZA),8.29,8.42,0,1
+S19,final,annotation,0,TamburiniFB (ZAF),8.29,8.42,0,1
+S19,final,annotation,0,LiuW (MNG),8.29,8.42,0,1
+S19,final,annotation,0,PasolliE (MDG),8.29,8.42,0,1
+S19,final,annotation,0,JacobsonDK (BFA),8.29,8.42,0,1
+S19,final,annotation,0,RubelMA (CMR),8.29,8.42,0,1
+S19,final,annotation,0,PehrssonEC (SLV),8.29,8.42,0,1
+S19,final,annotation,0,CarterM (NPL),8.29,8.42,0,1
+S19,final,annotation,0,LokmerA (CMR),8.29,8.42,0,1
+S19,final,annotation,0,RampelliS (TZA),8.29,8.42,0,1
+S19,final,annotation,0,RosaBA (IDN),8.29,8.42,0,1
+S19,final,annotation,0,Obregon-Tito (PER),8.29,8.42,0,1
+S19,final,annotation,0,VangayP (THA),8.29,8.42,0,1
+S19,final,annotation,0,AsnicarF (GBR),8.29,8.42,0,1
+S19,final,annotation,0,Lloyd-PriceJ (USA),8.29,8.42,0,1
+S19,final,annotation,0,iMSMS (USA),8.29,8.42,0,1
+S19,final,annotation,0,ZeeviD (ISR),8.29,8.42,0,1
+S19,final,annotation,0,MehtaRS (USA),8.29,8.42,0,1
+S19,final,annotation,0,YachidaS (JPN),8.29,8.42,0,1
+S19,final,annotation,0,SchirmerM (NLD),8.29,8.42,0,1
+S19,final,annotation,0,LiJ (CHN),8.29,8.42,0,1
+S19,final,annotation,0,NielsenHB (ESP),8.29,8.42,0,1
+S19,final,annotation,0,HMP (USA),8.29,8.42,0,1
+S19,final,annotation,0,WallenZD (USA),8.29,8.42,0,1
+S19,final,annotation,0,QinJ (CHN),8.29,8.42,0,1
+S19,final,annotation,0,JieZ (CHN),8.29,8.42,0,1
+S19,final,annotation,0,XieH (GBR),8.29,8.42,0,1
+S19,final,annotation,0,QinN (CHN),8.29,8.42,0,1
+S19,final,annotation,0,HallAB (USA),8.29,8.42,0,1
+S19,final,annotation,0,XiongR (USA),8.29,8.42,0,1
+S19,final,annotation,0,ZhangX (CHN),8.29,8.42,0,1
+S19,final,annotation,0,HansenLBS (DNK),8.29,8.42,0,1
+S19,final,annotation,0,ChengpingW (CHN),8.29,8.42,0,1
+S19,final,annotation,0,ZhuF (CHN),8.29,8.42,0,1
+S19,final,annotation,0,LiuR (CHN),8.29,8.42,0,1
+S19,final,annotation,0,Valles-Colom (ITA),8.29,8.42,0,1
+S19,final,annotation,0,LeeKA (GBR),8.29,8.42,0,1
+S19,final,annotation,0,ZellerG (FRA),8.29,8.42,0,1
+S19,final,annotation,0,KarlssonFH (SWE),8.29,8.42,0,1
+S19,final,annotation,0,LeChatelierE (DNK),8.29,8.42,0,1
+S19,final,annotation,0,ThomasAM (ITA),8.29,8.42,0,1
+S19,final,annotation,0,YassourM (FIN),8.29,8.42,0,1
+S19,final,annotation,0,FengQ (AUT),8.29,8.42,0,1
+S19,final,annotation,0,McDonaldD (USA),8.29,8.42,0,1
+S19,final,annotation,0,YuJ (CHN),8.29,8.42,0,1
+S19,final,annotation,0,IaniroG (ITA),8.29,8.42,0,1
+S19,final,annotation,0,Nagy-SzakalD (USA),8.29,8.42,0,1
+S19,final,annotation,0,LouisS (DEU),8.29,8.42,0,1
+S19,final,annotation,0,HeQ (CHN),8.29,8.42,0,1
+S19,final,annotation,0,WirbelJ (DEU),8.29,8.42,0,1
+S19,final,annotation,0,IjazUZ (GBR),8.29,8.42,0,1
+S19,final,annotation,0,CosteaPI (DEU),8.29,8.42,0,1
+S19,final,annotation,0,RaymondF (CAN),8.29,8.42,0,1
+S19,final,annotation,0,BackhedF (SWE),8.29,8.42,0,1
+S19,final,annotation,0,LoombaR (USA),8.29,8.42,0,1
+S19,final,annotation,0,RettedalAE (NZL),8.29,8.42,0,1
+S19,final,annotation,0,Macdonaldo-G (USA),8.29,8.42,0,1
+S19,final,annotation,0,VogtmannE (USA),8.29,8.42,0,1
+S19,final,annotation,0,KimJ (KOR),8.29,8.42,0,1
+S19,final,annotation,0,LiSS (NLD),8.29,8.42,0,1
+S19,final,annotation,0,PehrssonEC (PER),8.29,8.42,0,1
+S19,final,annotation,0,PetersenLM (USA),8.29,8.42,0,1
+S19,final,annotation,0,MatsonV (USA),8.29,8.42,0,1
+S19,final,annotation,0,FrankelAE (USA),8.29,8.42,0,1
+S19,final,annotation,0,LomanNJ (DEU),8.29,8.42,0,1
+S19,final,annotation,0,KuangYS (CHN),8.29,8.42,0,1
+S19,final,annotation,0,HanniganGD (USA),8.29,8.42,0,1
+S19,final,annotation,0,PetersBA (USA),8.29,8.42,0,1
+S19,final,annotation,0,BedarfJR (DEU),8.29,8.42,0,1
+S19,final,annotation,0,Obregon-Tito (USA),8.29,8.42,0,1
+S19,final,annotation,0,DavidLA (BGD),8.29,8.42,0,1
+S19,final,annotation,0,CarterM (USA),8.29,8.42,0,1
+S19,final,annotation,0,Sankaranaray (USA),8.29,8.42,0,1
+S19,final,annotation,0,RaethongN (THA),8.29,8.42,0,1
+S19,final,annotation,0,Eloe-Fadrosh (USA),8.29,8.42,0,1
+S19,final,annotation,0,BrownCT (FIN),8.29,8.42,0,1
+S19,final,xtick,0,−0.4 | 0.0 | 0.4 | 0.8 | 1.2 | 1.6,7.48,7.6,0,1
+S19,final,ytick,0,−0.3 | 0.0 | 0.3 | 0.6 | 0.9,7.48,7.6,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",4.23,4.3,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",4.9,4.98,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",5.03,5.11,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",5.15,5.23,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",5.26,5.35,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",5.37,5.46,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",5.66,5.75,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",5.91,6.0,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.19,6.29,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.32,6.43,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.56,6.67,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.67,6.78,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.83,6.94,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.93,7.04,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",6.98,7.09,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.07,7.18,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.24,7.36,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.28,7.4,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.41,7.52,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.44,7.56,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.52,7.64,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.7,7.83,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.74,7.86,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.81,7.93,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",7.9,8.03,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.06,8.19,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.15,8.28,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.18,8.31,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.21,8.34,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.38,8.51,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.41,8.54,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.51,8.65,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.59,8.72,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.81,8.95,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.88,9.02,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",8.97,9.11,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.01,9.15,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.16,9.31,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.18,9.33,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.32,9.47,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.34,9.49,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.38,9.53,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.73,9.88,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.83,9.99,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.9,10.06,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",9.95,10.11,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.15,10.31,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.27,10.44,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.35,10.51,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.49,10.65,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.51,10.68,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.65,10.82,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.75,10.93,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",10.87,11.04,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",11.17,11.34,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",11.75,11.94,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",11.76,11.95,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",11.77,11.96,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",11.93,12.12,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",11.95,12.14,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",12.28,12.47,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",12.32,12.52,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",12.35,12.55,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",12.69,12.89,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",13.57,13.79,0,1
+S19,final,marker,0,"scatter (1 sizes, smallest)",14.49,14.72,0,1
+S20,authored,suptitle,,Depth-binned richness variability — combined  [breadth >= 10.0%] \n CV quantifies depth-independent richness spread within each lifestyle,9.0,9.27,1,2
+S20,authored,axes_title,0,Median richness per depth bin \n (ribbon = IQR),8.0,8.24,1,2
+S20,authored,xlabel,0,Sequencing depth (Gbp mapped),7.0,7.21,0,1
+S20,authored,ylabel,0,Richness (SGBs detected),7.0,7.21,0,1
+S20,authored,legend_entry,0,Hunter-gatherer (n=395),8.0,8.24,0,1
+S20,authored,legend_entry,0,"Agro-pastoralist (n=3,694)",8.0,8.24,0,1
+S20,authored,legend_entry,0,"Industrial (n=13,977)",8.0,8.24,0,1
+S20,authored,xtick,0,0.01 | 0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,5.0,5.15,0,1
+S20,authored,ytick,0,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,5.15,0,1
+S20,authored,axes_title,1,"Richness CV by lifestyle \n (1 point = 1 bin, n ≥ 10)",8.0,8.24,1,2
+S20,authored,xlabel,1,Sequencing depth (Gbp mapped),7.0,7.21,0,1
+S20,authored,ylabel,1,CV = SD / median richness (per bin),7.0,7.21,0,1
+S20,authored,legend_entry,1,Hunter-gatherer bins,8.0,8.24,0,1
+S20,authored,legend_entry,1,Hunter-gatherer mean CV = 0.277,8.0,8.24,0,1
+S20,authored,legend_entry,1,Agro-pastoralist bins,8.0,8.24,0,1
+S20,authored,legend_entry,1,Agro-pastoralist mean CV = 0.397,8.0,8.24,0,1
+S20,authored,legend_entry,1,Industrial bins,8.0,8.24,0,1
+S20,authored,legend_entry,1,Industrial mean CV = 0.422,8.0,8.24,0,1
+S20,authored,xtick,1,0.01 | 0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,5.0,5.15,0,1
+S20,authored,ytick,1,0.0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6,5.0,5.15,0,1
+S20,authored,marker,1,"scatter (1 sizes, smallest)",5.29,5.45,0,1
+S20,final,axes_title,0,Median richness per depth bin \n (ribbon = IQR),8.35,8.4,0,2
+S20,final,xlabel,0,Sequencing depth (Gbp mapped),8.35,8.4,0,1
+S20,final,ylabel,0,Richness (SGBs detected),8.35,8.4,0,1
+S20,final,legend_entry,0,Hunter-gatherer (n=395),8.0,8.04,0,1
+S20,final,legend_entry,0,"Agro-pastoralist (n=3,694)",8.0,8.04,0,1
+S20,final,legend_entry,0,"Industrial (n=13,977)",8.0,8.04,0,1
+S20,final,xtick,0,0.01 | 0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,7.43,7.47,0,1
+S20,final,ytick,0,−300 | 0 | 300 | 600 | 900 | 1200,7.43,7.47,0,1
+S20,final,axes_title,1,"Richness CV by lifestyle \n (1 point = 1 bin, n ≥ 10)",8.35,8.4,0,2
+S20,final,xlabel,1,Sequencing depth (Gbp mapped),8.35,8.4,0,1
+S20,final,ylabel,1,CV = SD / median richness (per bin),8.35,8.4,0,1
+S20,final,legend_entry,1,Hunter-gatherer bins,8.0,8.04,0,1
+S20,final,legend_entry,1,Hunter-gatherer mean CV = 0.277,8.0,8.04,0,1
+S20,final,legend_entry,1,Agro-pastoralist bins,8.0,8.04,0,1
+S20,final,legend_entry,1,Agro-pastoralist mean CV = 0.397,8.0,8.04,0,1
+S20,final,legend_entry,1,Industrial bins,8.0,8.04,0,1
+S20,final,legend_entry,1,Industrial mean CV = 0.422,8.0,8.04,0,1
+S20,final,xtick,1,0.01 | 0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,7.43,7.47,0,1
+S20,final,ytick,1,0.00 | 0.15 | 0.30 | 0.45 | 0.60,7.43,7.47,0,1
+S20,final,marker,1,"scatter (1 sizes, smallest)",5.29,5.32,0,1
+S21,authored,suptitle,,"Figure S5B — Overlap, directional consistency, and signal strength  [combined]",7.0,6.9,1,1
+S21,authored,xlabel,0,Fraction of union membership,8.0,7.88,0,1
+S21,authored,annotation,0,n=184,7.0,6.9,0,1
+S21,authored,annotation,0,46%,6.5,6.4,1,1
+S21,authored,annotation,0,22%,6.5,6.4,1,1
+S21,authored,annotation,0,33%,6.5,6.4,1,1
+S21,authored,annotation,0,n=104,7.0,6.9,0,1
+S21,authored,annotation,0,92%,6.5,6.4,1,1
+S21,authored,annotation,0,n=182,7.0,6.9,0,1
+S21,authored,annotation,0,45%,6.5,6.4,1,1
+S21,authored,annotation,0,23%,6.5,6.4,1,1
+S21,authored,annotation,0,32%,6.5,6.4,1,1
+S21,authored,annotation,0,n=125,7.0,6.9,0,1
+S21,authored,annotation,0,20%,6.5,6.4,1,1
+S21,authored,annotation,0,30%,6.5,6.4,1,1
+S21,authored,annotation,0,50%,6.5,6.4,1,1
+S21,authored,annotation,0,n=118,7.0,6.9,0,1
+S21,authored,annotation,0,15%,6.5,6.4,1,1
+S21,authored,annotation,0,69%,6.5,6.4,1,1
+S21,authored,annotation,0,n=124,7.0,6.9,0,1
+S21,authored,annotation,0,19%,6.5,6.4,1,1
+S21,authored,annotation,0,31%,6.5,6.4,1,1
+S21,authored,annotation,0,49%,6.5,6.4,1,1
+S21,authored,xtick,0,−0.5 | 0.0 | 0.5 | 1.0 | 1.5,7.0,6.9,0,1
+S21,authored,ytick,0,"Orig VANISH
+vs VANISH+ | VANISH+
+vs VanishH+ | Orig VANISH
+vs VanishH+ | Orig BloSSUM
+vs BloSSUM+ | BloSSUM+
+vs BlossumH+ | Orig BloSSUM
+vs BlossumH+",8.0,7.88,0,1
+S21,authored,xlabel,1,Prevalence in Industrial  (GMW-weighted),8.0,7.88,0,1
+S21,authored,ylabel,1,Prevalence in Non-Industrial  (GMW-weighted),8.0,7.88,0,1
+S21,authored,xtick,1,−0.25 | 0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,7.0,6.9,0,1
+S21,authored,ytick,1,−0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0 | 1.2,7.0,6.9,0,1
+S21,authored,xlabel,2,Median GMW-weighted prevalence in NI,8.0,7.88,0,1
+S21,authored,annotation,2,0.09,7.0,6.9,0,1
+S21,authored,annotation,2,0.49,7.0,6.9,0,1
+S21,authored,annotation,2,0.48,7.0,6.9,0,1
+S21,authored,annotation,2,0.53,7.0,6.9,0,1
+S21,authored,annotation,2,0.05,7.0,6.9,0,1
+S21,authored,annotation,2,0.11,7.0,6.9,0,1
+S21,authored,annotation,2,0.03,7.0,6.9,0,1
+S21,authored,annotation,2,0.14,7.0,6.9,0,1
+S21,authored,annotation,2,n=84,6.8,6.7,0,1
+S21,authored,annotation,2,n=40,6.8,6.7,0,1
+S21,authored,annotation,2,n=60,6.8,6.7,0,1
+S21,authored,annotation,2,n=2,6.8,6.7,0,1
+S21,authored,annotation,2,n=25,6.8,6.7,0,1
+S21,authored,annotation,2,n=38,6.8,6.7,0,1
+S21,authored,annotation,2,n=62,6.8,6.7,0,1
+S21,authored,annotation,2,n=17,6.8,6.7,0,1
+S21,authored,annotation,2,VANISH family,7.0,6.9,1,1
+S21,authored,annotation,2,BloSSUM family,7.0,6.9,1,1
+S21,authored,xtick,2,−0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8,7.0,6.9,0,1
+S21,authored,ytick,2,Orig VANISH only | Orig ∩ VANISH+ | VANISH+ only | VanishH+ only | Orig BloSSUM only | Orig ∩ BloSSUM+ | BloSSUM+ only | BlossumH+ only,7.0,6.9,0,1
+S21,authored,legend_entry,fig,Original VANISH,5.0,4.93,0,1
+S21,authored,legend_entry,fig,VANISH+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,VanishH+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,Original BloSSUM,5.0,4.93,0,1
+S21,authored,legend_entry,fig,BloSSUM+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,BlossumH+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,Orig VANISH only,5.0,4.93,0,1
+S21,authored,legend_entry,fig,Orig ∩ VANISH+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,VANISH+ only,5.0,4.93,0,1
+S21,authored,legend_entry,fig,VANISH+ ∩ H+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,VanishH+ only,5.0,4.93,0,1
+S21,authored,legend_entry,fig,Orig BloSSUM only,5.0,4.93,0,1
+S21,authored,legend_entry,fig,Orig ∩ BloSSUM+,5.0,4.93,0,1
+S21,authored,legend_entry,fig,BloSSUM+ only,5.0,4.93,0,1
+S21,authored,legend_entry,fig,BlossumH+ only,5.0,4.93,0,1
+S21,authored,marker,1,"scatter (1 sizes, smallest)",2.24,2.2,0,1
+S21,authored,marker,1,"scatter (1 sizes, smallest)",4.24,4.18,0,1
+S21,final,xlabel,0,Fraction of union membership,6.79,6.78,0,1
+S21,final,annotation,0,n=184,6.65,6.64,0,1
+S21,final,annotation,0,46%,6.65,6.64,1,1
+S21,final,annotation,0,22%,6.65,6.64,1,1
+S21,final,annotation,0,33%,6.65,6.64,1,1
+S21,final,annotation,0,n=104,6.65,6.64,0,1
+S21,final,annotation,0,92%,6.65,6.64,1,1
+S21,final,annotation,0,n=182,6.65,6.64,0,1
+S21,final,annotation,0,45%,6.65,6.64,1,1
+S21,final,annotation,0,23%,6.65,6.64,1,1
+S21,final,annotation,0,32%,6.65,6.64,1,1
+S21,final,annotation,0,n=125,6.65,6.64,0,1
+S21,final,annotation,0,20%,6.65,6.64,1,1
+S21,final,annotation,0,30%,6.65,6.64,1,1
+S21,final,annotation,0,50%,6.65,6.64,1,1
+S21,final,annotation,0,n=118,6.65,6.64,0,1
+S21,final,annotation,0,15%,6.65,6.64,1,1
+S21,final,annotation,0,69%,6.65,6.64,1,1
+S21,final,annotation,0,n=124,6.65,6.64,0,1
+S21,final,annotation,0,19%,6.65,6.64,1,1
+S21,final,annotation,0,31%,6.65,6.64,1,1
+S21,final,annotation,0,49%,6.65,6.64,1,1
+S21,final,xtick,0,−0.4 | 0.0 | 0.4 | 0.8 | 1.2,5.84,5.83,0,1
+S21,final,ytick,0,"Orig VANISH
+vs VANISH+ | VANISH+
+vs VanishH+ | Orig VANISH
+vs VanishH+ | Orig BloSSUM
+vs BloSSUM+ | BloSSUM+
+vs BlossumH+ | Orig BloSSUM
+vs BlossumH+",5.84,5.83,0,1
+S21,final,xlabel,1,Prevalence in Industrial  (GMW-weighted),6.79,6.78,0,1
+S21,final,ylabel,1,Prevalence in Non-industrial  (GMW-weighted),6.79,6.78,0,1
+S21,final,xtick,1,−0.3 | 0.0 | 0.3 | 0.6 | 0.9 | 1.2,5.84,5.83,0,1
+S21,final,ytick,1,−0.3 | 0.0 | 0.3 | 0.6 | 0.9 | 1.2,5.84,5.83,0,1
+S21,final,xlabel,2,Median GMW-weighted prevalence in NI,6.79,6.78,0,1
+S21,final,annotation,2,0.09,6.65,6.64,0,1
+S21,final,annotation,2,0.49,6.65,6.64,0,1
+S21,final,annotation,2,0.48,6.65,6.64,0,1
+S21,final,annotation,2,0.53,6.65,6.64,0,1
+S21,final,annotation,2,0.05,6.65,6.64,0,1
+S21,final,annotation,2,0.11,6.65,6.64,0,1
+S21,final,annotation,2,0.03,6.65,6.64,0,1
+S21,final,annotation,2,0.14,6.65,6.64,0,1
+S21,final,annotation,2,n=84,6.65,6.64,0,1
+S21,final,annotation,2,n=40,6.65,6.64,0,1
+S21,final,annotation,2,n=60,6.65,6.64,0,1
+S21,final,annotation,2,n=2,6.65,6.64,0,1
+S21,final,annotation,2,n=25,6.65,6.64,0,1
+S21,final,annotation,2,n=38,6.65,6.64,0,1
+S21,final,annotation,2,n=62,6.65,6.64,0,1
+S21,final,annotation,2,n=17,6.65,6.64,0,1
+S21,final,annotation,2,VANISH family,6.65,6.64,1,1
+S21,final,annotation,2,BloSSUM family,6.65,6.64,1,1
+S21,final,xtick,2,−0.2 | 0.0 | 0.2 | 0.4 | 0.6 | 0.8,5.84,5.83,0,1
+S21,final,ytick,2,Orig VANISH only | Orig ∩ VANISH+ | VANISH+ only | VanishH+ only | Orig BloSSUM only | Orig ∩ BloSSUM+ | BloSSUM+ only | BlossumH+ only,5.84,5.83,0,1
+S21,final,legend_entry,fig,Original VANISH,5.84,5.83,0,1
+S21,final,legend_entry,fig,VANISH+,5.84,5.83,0,1
+S21,final,legend_entry,fig,VanishH+,5.84,5.83,0,1
+S21,final,legend_entry,fig,Original BloSSUM,5.84,5.83,0,1
+S21,final,legend_entry,fig,BloSSUM+,5.84,5.83,0,1
+S21,final,legend_entry,fig,BlossumH+,5.84,5.83,0,1
+S21,final,legend_entry,fig,Orig VANISH only,5.84,5.83,0,1
+S21,final,legend_entry,fig,Orig ∩ VANISH+,5.84,5.83,0,1
+S21,final,legend_entry,fig,VANISH+ only,5.84,5.83,0,1
+S21,final,legend_entry,fig,VANISH+ ∩ H+,5.84,5.83,0,1
+S21,final,legend_entry,fig,VanishH+ only,5.84,5.83,0,1
+S21,final,legend_entry,fig,Orig BloSSUM only,5.84,5.83,0,1
+S21,final,legend_entry,fig,Orig ∩ BloSSUM+,5.84,5.83,0,1
+S21,final,legend_entry,fig,BloSSUM+ only,5.84,5.83,0,1
+S21,final,legend_entry,fig,BlossumH+ only,5.84,5.83,0,1
+S21,final,marker,1,"scatter (1 sizes, smallest)",2.24,2.23,0,1
+S21,final,marker,1,"scatter (1 sizes, smallest)",4.24,4.24,0,1
+S22,authored,annotation,0,44%,6.0,6.18,1,1
+S22,authored,annotation,0,83%,6.0,6.18,1,1
+S22,authored,annotation,0,94%,6.0,6.18,1,1
+S22,authored,annotation,0,74%,6.0,6.18,1,1
+S22,authored,annotation,0,85%,6.0,6.18,1,1
+S22,authored,annotation,0,100%,6.0,6.18,1,1
+S22,authored,annotation,0,89%,6.0,6.18,1,1
+S22,authored,annotation,0,72%,6.0,6.18,1,1
+S22,authored,annotation,0,99%,6.0,6.18,1,1
+S22,authored,annotation,0,23%,6.0,6.18,1,1
+S22,authored,annotation,0,61%,6.0,6.18,1,1
+S22,authored,annotation,0,98%,6.0,6.18,1,1
+S22,authored,annotation,0,46%,6.0,6.18,1,1
+S22,authored,annotation,0,84%,6.0,6.18,1,1
+S22,authored,annotation,0,91%,6.0,6.18,1,1
+S22,authored,annotation,0,97%,6.0,6.18,1,1
+S22,authored,annotation,0,60%,6.0,6.18,1,1
+S22,authored,annotation,0,86%,6.0,6.18,1,1
+S22,authored,annotation,0,90%,6.0,6.18,1,1
+S22,authored,annotation,0,75%,6.0,6.18,1,1
+S22,authored,annotation,0,76%,6.0,6.18,1,1
+S22,authored,annotation,0,73%,6.0,6.18,1,1
+S22,authored,annotation,0,32%,6.0,6.18,1,1
+S22,authored,annotation,0,28%,6.0,6.18,1,1
+S22,authored,xtick,0,VANISH | VANISH+ | BloSSUM | BloSSUM+,7.0,7.21,0,1
+S22,authored,ytick,0,"Africa / I  (n=51) | Asia / I  (n=4,107) | Europe / I  (n=4,725) | North America / I  (n=4,629) | Oceania / I  (n=79) | South America / I  (n=386) | Africa / A-P  (n=1,068) | Asia / A-P  (n=207)",6.0,6.18,0,1
+S22,authored,ylabel,1,Fraction of list detected,6.0,6.18,0,1
+S22,authored,ytick,1,0.0 | 0.2 | 0.4 | 0.6 | 0.8 | 1.0,5.0,5.15,0,1
+S22,final,annotation,0,44%,7.52,8.56,1,1
+S22,final,annotation,0,83%,7.52,8.56,1,1
+S22,final,annotation,0,94%,7.52,8.56,1,1
+S22,final,annotation,0,74%,7.52,8.56,1,1
+S22,final,annotation,0,85%,7.52,8.56,1,1
+S22,final,annotation,0,100%,7.52,8.56,1,1
+S22,final,annotation,0,89%,7.52,8.56,1,1
+S22,final,annotation,0,72%,7.52,8.56,1,1
+S22,final,annotation,0,99%,7.52,8.56,1,1
+S22,final,annotation,0,23%,7.52,8.56,1,1
+S22,final,annotation,0,61%,7.52,8.56,1,1
+S22,final,annotation,0,98%,7.52,8.56,1,1
+S22,final,annotation,0,46%,7.52,8.56,1,1
+S22,final,annotation,0,84%,7.52,8.56,1,1
+S22,final,annotation,0,91%,7.52,8.56,1,1
+S22,final,annotation,0,97%,7.52,8.56,1,1
+S22,final,annotation,0,60%,7.52,8.56,1,1
+S22,final,annotation,0,86%,7.52,8.56,1,1
+S22,final,annotation,0,90%,7.52,8.56,1,1
+S22,final,annotation,0,75%,7.52,8.56,1,1
+S22,final,annotation,0,76%,7.52,8.56,1,1
+S22,final,annotation,0,73%,7.52,8.56,1,1
+S22,final,annotation,0,32%,7.52,8.56,1,1
+S22,final,annotation,0,28%,7.52,8.56,1,1
+S22,final,xtick,0,VANISH | VANISH+ | BloSSUM | BloSSUM+,7.43,8.46,0,1
+S22,final,ytick,0,"Africa / I  (n=51) | Asia / I  (n=4,107) | Europe / I  (n=4,725) | North America / I  (n=4,629) | Oceania / I  (n=79) | South America / I  (n=386) | Africa / A-P  (n=1,068) | Asia / A-P  (n=207)",7.43,8.46,0,1
+S22,final,ylabel,1,Fraction of list detected,6.0,6.83,0,1
+S22,final,ytick,1,0.00 | 0.25 | 0.50 | 0.75 | 1.00,7.43,8.46,0,1
+S23,authored,suptitle,,Sequencing depth by health group (before matching),8.0,8.29,1,1
+S23,authored,figure_text,,log$_{10}$(Total mapped bp),14.4,14.92,0,1
+S23,authored,figure_text,,Count,14.4,14.92,0,1
+S23,authored,axes_title,0,Non-Industrial,7.0,7.25,1,1
+S23,authored,annotation,0,"n = 4,098 \n median = 3.4e+09 bp",4.0,4.15,0,2
+S23,authored,xtick,0,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.18,0,1
+S23,authored,ytick,0,0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,5.18,0,1
+S23,authored,axes_title,1,Ind-Healthy,7.0,7.25,1,1
+S23,authored,annotation,1,"n = 7,788 \n median = 1.6e+09 bp",4.0,4.15,0,2
+S23,authored,xtick,1,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.18,0,1
+S23,authored,axes_title,2,Ind-Unhealthy,7.0,7.25,1,1
+S23,authored,annotation,2,"n = 5,968 \n median = 1.7e+09 bp",4.0,4.15,0,2
+S23,authored,xtick,2,7.5 | 8.0 | 8.5 | 9.0 | 9.5 | 10.0 | 10.5,5.0,5.18,0,1
+S23,final,axes_title,0,Non-industrial,8.23,8.4,0,1
+S23,final,annotation,0,"n = 4,098 \n median = 3.4e+09 bp",7.69,7.86,0,2
+S23,final,xtick,0,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.75,6.9,0,1
+S23,final,ytick,0,0 | 150 | 300 | 450 | 600,6.75,6.9,0,1
+S23,final,axes_title,1,Ind-Healthy,8.23,8.4,0,1
+S23,final,annotation,1,"n = 7,788 \n median = 1.6e+09 bp",7.69,7.86,0,2
+S23,final,xtick,1,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.75,6.9,0,1
+S23,final,axes_title,2,Ind-Unhealthy,8.23,8.4,0,1
+S23,final,annotation,2,"n = 5,968 \n median = 1.7e+09 bp",7.69,7.86,0,2
+S23,final,xtick,2,7.2 | 8.0 | 8.8 | 9.6 | 10.4,6.75,6.9,0,1
+S24,authored,axes_title,0,Sequencing depth,14.0,13.82,1,1
+S24,authored,xlabel,0,Sequencing depth (Gb),13.0,12.84,0,1
+S24,authored,ylabel,0,NI vs I healthy \n Normalised density,13.0,12.84,0,2
+S24,authored,annotation,0,A,10.13,10.0,1,1
+S24,authored,legend_entry,0,Non-Industrial,12.0,11.85,0,1
+S24,authored,legend_entry,0,"Industrial, healthy",12.0,11.85,0,1
+S24,authored,legend_entry,0,GMW target,12.0,11.85,0,1
+S24,authored,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,12.0,11.85,0,1
+S24,authored,ytick,0,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S24,authored,axes_title,1,≥10% breadth,7.0,6.91,0,1
+S24,authored,ylabel,1,SGBs per sample,6.0,5.92,0,1
+S24,authored,annotation,1,317±3  ,7.0,6.91,0,1
+S24,authored,annotation,1,  269±2,7.0,6.91,1,1
+S24,authored,annotation,1,158±1  ,7.0,6.91,0,1
+S24,authored,annotation,1,  177±1,7.0,6.91,1,1
+S24,authored,annotation,1,**,5.0,4.94,0,1
+S24,authored,annotation,1,B,10.13,10.0,1,1
+S24,authored,xtick,1,"NI
+n=4,098 | I healthy
+n=7,788",5.0,4.94,0,1
+S24,authored,ytick,1,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S24,authored,axes_title,2,≥300 kb mapped,7.0,6.91,0,1
+S24,authored,ylabel,2,SGBs per sample,6.0,5.92,0,1
+S24,authored,annotation,2,285±3  ,7.0,6.91,0,1
+S24,authored,annotation,2,  242±2,7.0,6.91,1,1
+S24,authored,annotation,2,155±1  ,7.0,6.91,0,1
+S24,authored,annotation,2,  174±1,7.0,6.91,1,1
+S24,authored,annotation,2,**,5.0,4.94,0,1
+S24,authored,annotation,2,C,10.13,10.0,1,1
+S24,authored,xtick,2,"NI
+n=4,098 | I healthy
+n=7,788",5.0,4.94,0,1
+S24,authored,ytick,2,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S24,authored,xlabel,3,Sequencing depth (Gb),13.0,12.84,0,1
+S24,authored,ylabel,3,NI vs I unhealthy \n Normalised density,13.0,12.84,0,2
+S24,authored,annotation,3,D,10.13,10.0,1,1
+S24,authored,legend_entry,3,Non-Industrial,12.0,11.85,0,1
+S24,authored,legend_entry,3,"Industrial, unhealthy",12.0,11.85,0,1
+S24,authored,legend_entry,3,GMW target,12.0,11.85,0,1
+S24,authored,xtick,3,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,12.0,11.85,0,1
+S24,authored,ytick,3,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S24,authored,ylabel,4,SGBs per sample,6.0,5.92,0,1
+S24,authored,annotation,4,317±3  ,7.0,6.91,0,1
+S24,authored,annotation,4,  265±2,7.0,6.91,1,1
+S24,authored,annotation,4,129±1  ,7.0,6.91,0,1
+S24,authored,annotation,4,  146±1,7.0,6.91,1,1
+S24,authored,annotation,4,**,5.0,4.94,0,1
+S24,authored,annotation,4,E,10.13,10.0,1,1
+S24,authored,xtick,4,"NI
+n=4,098 | I unhealthy
+n=5,968",5.0,4.94,0,1
+S24,authored,ytick,4,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S24,authored,ylabel,5,SGBs per sample,6.0,5.92,0,1
+S24,authored,annotation,5,285±3  ,7.0,6.91,0,1
+S24,authored,annotation,5,  238±2,7.0,6.91,1,1
+S24,authored,annotation,5,128±1  ,7.0,6.91,0,1
+S24,authored,annotation,5,  145±1,7.0,6.91,1,1
+S24,authored,annotation,5,**,5.0,4.94,0,1
+S24,authored,annotation,5,F,10.13,10.0,1,1
+S24,authored,xtick,5,"NI
+n=4,098 | I unhealthy
+n=5,968",5.0,4.94,0,1
+S24,authored,ytick,5,−200 | 0 | 200 | 400 | 600 | 800 | 1000 | 1200,5.0,4.94,0,1
+S24,authored,xlabel,6,Sequencing depth (Gb),13.0,12.84,0,1
+S24,authored,ylabel,6,I healthy vs I unhealthy \n Normalised density,13.0,12.84,0,2
+S24,authored,annotation,6,G,10.13,10.0,1,1
+S24,authored,legend_entry,6,"Industrial, healthy",12.0,11.85,0,1
+S24,authored,legend_entry,6,"Industrial, unhealthy",12.0,11.85,0,1
+S24,authored,legend_entry,6,GMW target,12.0,11.85,0,1
+S24,authored,xtick,6,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,12.0,11.85,0,1
+S24,authored,ytick,6,0.00 | 0.25 | 0.50 | 0.75 | 1.00 | 1.25,12.0,11.85,0,1
+S24,authored,ylabel,7,SGBs per sample,6.0,5.92,0,1
+S24,authored,annotation,7,158±1  ,7.0,6.91,0,1
+S24,authored,annotation,7,  157±1,7.0,6.91,1,1
+S24,authored,annotation,7,129±1  ,7.0,6.91,0,1
+S24,authored,annotation,7,  129±1,7.0,6.91,1,1
+S24,authored,annotation,7,**,5.0,4.94,0,1
+S24,authored,annotation,7,H,10.13,10.0,1,1
+S24,authored,xtick,7,"I healthy
+n=7,788 | I unhealthy
+n=5,968",5.0,4.94,0,1
+S24,authored,ytick,7,−100 | 0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,4.94,0,1
+S24,authored,ylabel,8,SGBs per sample,6.0,5.92,0,1
+S24,authored,annotation,8,155±1  ,7.0,6.91,0,1
+S24,authored,annotation,8,  154±1,7.0,6.91,1,1
+S24,authored,annotation,8,128±1  ,7.0,6.91,0,1
+S24,authored,annotation,8,  128±1,7.0,6.91,1,1
+S24,authored,annotation,8,**,5.0,4.94,0,1
+S24,authored,annotation,8,I,10.13,10.0,1,1
+S24,authored,xtick,8,"I healthy
+n=7,788 | I unhealthy
+n=5,968",5.0,4.94,0,1
+S24,authored,ytick,8,−100 | 0 | 100 | 200 | 300 | 400 | 500 | 600,5.0,4.94,0,1
+S24,authored,marker,1,line marker '_',2.62,2.59,0,1
+S24,authored,marker,1,line marker 'D',4.0,3.95,0,1
+S24,authored,marker,1,line marker '_',6.0,5.92,0,1
+S24,authored,marker,2,line marker '_',2.62,2.59,0,1
+S24,authored,marker,2,line marker 'D',4.0,3.95,0,1
+S24,authored,marker,2,line marker '_',6.0,5.92,0,1
+S24,authored,marker,4,line marker '_',2.62,2.59,0,1
+S24,authored,marker,4,line marker 'D',4.0,3.95,0,1
+S24,authored,marker,4,line marker '_',6.0,5.92,0,1
+S24,authored,marker,5,line marker '_',2.62,2.59,0,1
+S24,authored,marker,5,line marker 'D',4.0,3.95,0,1
+S24,authored,marker,5,line marker '_',6.0,5.92,0,1
+S24,authored,marker,7,line marker '_',2.62,2.59,0,1
+S24,authored,marker,7,line marker 'D',4.0,3.95,0,1
+S24,authored,marker,7,line marker '_',6.0,5.92,0,1
+S24,authored,marker,8,line marker '_',2.62,2.59,0,1
+S24,authored,marker,8,line marker 'D',4.0,3.95,0,1
+S24,authored,marker,8,line marker '_',6.0,5.92,0,1
+S24,final,axes_title,0,Sequencing depth,8.31,8.41,0,1
+S24,final,xlabel,0,Sequencing depth (Gb),7.58,7.67,0,1
+S24,final,ylabel,0,NI vs I healthy \n Normalised density,7.58,7.67,0,2
+S24,final,annotation,0,A,8.31,8.41,1,1
+S24,final,legend_entry,0,Non-industrial,5.73,5.8,0,1
+S24,final,legend_entry,0,"Industrial, healthy",5.73,5.8,0,1
+S24,final,legend_entry,0,GMW target,5.73,5.8,0,1
+S24,final,xtick,0,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,6.52,6.59,0,1
+S24,final,ytick,0,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S24,final,axes_title,1,≥10% breadth,8.31,8.41,0,1
+S24,final,ylabel,1,SGBs per sample,6.0,6.07,0,1
+S24,final,annotation,1,317±3  ,7.43,7.52,0,1
+S24,final,annotation,1,  269±2,7.43,7.52,1,1
+S24,final,annotation,1,158±1  ,7.43,7.52,0,1
+S24,final,annotation,1,  177±1,7.43,7.52,1,1
+S24,final,annotation,1,**,7.43,7.52,0,1
+S24,final,annotation,1,B,8.31,8.41,1,1
+S24,final,xtick,1,"NI
+n=4,098 | I healthy
+n=7,788",6.52,6.59,0,1
+S24,final,ytick,1,−400 | 0 | 400 | 800 | 1200 | 1600,6.52,6.59,0,1
+S24,final,axes_title,2,≥300 kb mapped,8.31,8.41,0,1
+S24,final,ylabel,2,SGBs per sample,6.0,6.07,0,1
+S24,final,annotation,2,285±3  ,7.43,7.52,0,1
+S24,final,annotation,2,  242±2,7.43,7.52,1,1
+S24,final,annotation,2,155±1  ,7.43,7.52,0,1
+S24,final,annotation,2,  174±1,7.43,7.52,1,1
+S24,final,annotation,2,**,7.43,7.52,0,1
+S24,final,annotation,2,C,8.31,8.41,1,1
+S24,final,xtick,2,"NI
+n=4,098 | I healthy
+n=7,788",6.52,6.59,0,1
+S24,final,ytick,2,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S24,final,xlabel,3,Sequencing depth (Gb),7.58,7.67,0,1
+S24,final,ylabel,3,NI vs I unhealthy \n Normalised density,7.58,7.67,0,2
+S24,final,annotation,3,D,8.31,8.41,1,1
+S24,final,legend_entry,3,Non-industrial,5.73,5.8,0,1
+S24,final,legend_entry,3,"Industrial, unhealthy",5.73,5.8,0,1
+S24,final,legend_entry,3,GMW target,5.73,5.8,0,1
+S24,final,xtick,3,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30 | 100,6.52,6.59,0,1
+S24,final,ytick,3,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S24,final,ylabel,4,SGBs per sample,6.0,6.07,0,1
+S24,final,annotation,4,317±3  ,7.43,7.52,0,1
+S24,final,annotation,4,  265±2,7.43,7.52,1,1
+S24,final,annotation,4,129±1  ,7.43,7.52,0,1
+S24,final,annotation,4,  146±1,7.43,7.52,1,1
+S24,final,annotation,4,**,7.43,7.52,0,1
+S24,final,annotation,4,E,8.31,8.41,1,1
+S24,final,xtick,4,"NI
+n=4,098 | I unhealthy
+n=5,968",6.52,6.59,0,1
+S24,final,ytick,4,−400 | 0 | 400 | 800 | 1200 | 1600,6.52,6.59,0,1
+S24,final,ylabel,5,SGBs per sample,6.0,6.07,0,1
+S24,final,annotation,5,285±3  ,7.43,7.52,0,1
+S24,final,annotation,5,  238±2,7.43,7.52,1,1
+S24,final,annotation,5,128±1  ,7.43,7.52,0,1
+S24,final,annotation,5,  145±1,7.43,7.52,1,1
+S24,final,annotation,5,**,7.43,7.52,0,1
+S24,final,annotation,5,F,8.31,8.41,1,1
+S24,final,xtick,5,"NI
+n=4,098 | I unhealthy
+n=5,968",6.52,6.59,0,1
+S24,final,ytick,5,−300 | 0 | 300 | 600 | 900 | 1200,6.52,6.59,0,1
+S24,final,xlabel,6,Sequencing depth (Gb),7.58,7.67,0,1
+S24,final,ylabel,6,I healthy vs I unhealthy \n Normalised density,7.58,7.67,0,2
+S24,final,annotation,6,G,8.31,8.41,1,1
+S24,final,legend_entry,6,"Industrial, healthy",5.73,5.8,0,1
+S24,final,legend_entry,6,"Industrial, unhealthy",5.73,5.8,0,1
+S24,final,legend_entry,6,GMW target,5.73,5.8,0,1
+S24,final,xtick,6,0.03 | 0.1 | 0.3 | 1 | 3 | 10 | 30,6.52,6.59,0,1
+S24,final,ytick,6,0.0 | 0.3 | 0.6 | 0.9 | 1.2,6.52,6.59,0,1
+S24,final,ylabel,7,SGBs per sample,6.0,6.07,0,1
+S24,final,annotation,7,158±1  ,7.43,7.52,0,1
+S24,final,annotation,7,  157±1,7.43,7.52,1,1
+S24,final,annotation,7,129±1  ,7.43,7.52,0,1
+S24,final,annotation,7,  129±1,7.43,7.52,1,1
+S24,final,annotation,7,**,7.43,7.52,0,1
+S24,final,annotation,7,H,8.31,8.41,1,1
+S24,final,xtick,7,"I healthy
+n=7,788 | I unhealthy
+n=5,968",6.52,6.59,0,1
+S24,final,ytick,7,−200 | 0 | 200 | 400 | 600 | 800,6.52,6.59,0,1
+S24,final,ylabel,8,SGBs per sample,6.0,6.07,0,1
+S24,final,annotation,8,155±1  ,7.43,7.52,0,1
+S24,final,annotation,8,  154±1,7.43,7.52,1,1
+S24,final,annotation,8,128±1  ,7.43,7.52,0,1
+S24,final,annotation,8,  128±1,7.43,7.52,1,1
+S24,final,annotation,8,**,7.43,7.52,0,1
+S24,final,annotation,8,I,8.31,8.41,1,1
+S24,final,xtick,8,"I healthy
+n=7,788 | I unhealthy
+n=5,968",6.52,6.59,0,1
+S24,final,ytick,8,−200 | 0 | 200 | 400 | 600,6.52,6.59,0,1
+S24,final,marker,1,line marker '_',2.62,2.66,0,1
+S24,final,marker,1,line marker 'D',4.0,4.05,0,1
+S24,final,marker,1,line marker '_',6.0,6.07,0,1
+S24,final,marker,2,line marker '_',2.62,2.66,0,1
+S24,final,marker,2,line marker 'D',4.0,4.05,0,1
+S24,final,marker,2,line marker '_',6.0,6.07,0,1
+S24,final,marker,4,line marker '_',2.62,2.66,0,1
+S24,final,marker,4,line marker 'D',4.0,4.05,0,1
+S24,final,marker,4,line marker '_',6.0,6.07,0,1
+S24,final,marker,5,line marker '_',2.62,2.66,0,1
+S24,final,marker,5,line marker 'D',4.0,4.05,0,1
+S24,final,marker,5,line marker '_',6.0,6.07,0,1
+S24,final,marker,7,line marker '_',2.62,2.66,0,1
+S24,final,marker,7,line marker 'D',4.0,4.05,0,1
+S24,final,marker,7,line marker '_',6.0,6.07,0,1
+S24,final,marker,8,line marker '_',2.62,2.66,0,1
+S24,final,marker,8,line marker 'D',4.0,4.05,0,1
+S24,final,marker,8,line marker '_',6.0,6.07,0,1
+S25,authored,suptitle,,Each list taxon against taxa of the same commonness (study-stratified case $-$ control shift),7.0,7.31,0,1
+S25,authored,axes_title,0,Obesity,7.0,7.31,1,1
+S25,authored,ylabel,0,VANISH \n case $-$ control (%),6.5,6.79,0,2
+S25,authored,ytick,0,−8 | −6 | −4 | −2 | 0 | 2 | 4 | 6,6.0,6.26,0,1
+S25,authored,axes_title,1,Glucose Intolerance,7.0,7.31,1,1
+S25,authored,ytick,1,−15 | −10 | −5 | 0 | 5 | 10,6.0,6.26,0,1
+S25,authored,axes_title,2,IBD,7.0,7.31,1,1
+S25,authored,ytick,2,−40 | −30 | −20 | −10 | 0 | 10 | 20,6.0,6.26,0,1
+S25,authored,axes_title,3,CRC / Adenoma,7.0,7.31,1,1
+S25,authored,ytick,3,−10 | −5 | 0 | 5 | 10 | 15,6.0,6.26,0,1
+S25,authored,xlabel,4,Control prevalence,6.5,6.79,0,1
+S25,authored,ylabel,4,BloSSUM \n case $-$ control (%),6.5,6.79,0,2
+S25,authored,xtick,4,0.01% | 1% | 100%,6.0,6.26,0,1
+S25,authored,ytick,4,−10 | −5 | 0 | 5 | 10 | 15,6.0,6.26,0,1
+S25,authored,xlabel,5,Control prevalence,6.5,6.79,0,1
+S25,authored,xtick,5,0.01% | 1% | 100%,6.0,6.26,0,1
+S25,authored,ytick,5,−15 | −10 | −5 | 0 | 5 | 10 | 15,6.0,6.26,0,1
+S25,authored,xlabel,6,Control prevalence,6.5,6.79,0,1
+S25,authored,xtick,6,0.01% | 1% | 100%,6.0,6.26,0,1
+S25,authored,ytick,6,−40 | −30 | −20 | −10 | 0 | 10 | 20,6.0,6.26,0,1
+S25,authored,xlabel,7,Control prevalence,6.5,6.79,0,1
+S25,authored,xtick,7,0.01% | 1% | 100%,6.0,6.26,0,1
+S25,authored,ytick,7,−15 | −10 | −5 | 0 | 5 | 10 | 15,6.0,6.26,0,1
+S25,authored,legend_entry,fig,background taxa,6.5,6.79,0,1
+S25,authored,legend_entry,fig,background mean $\pm$ 1 SD,6.5,6.79,0,1
+S25,authored,legend_entry,fig,VANISH,6.5,6.79,0,1
+S25,authored,legend_entry,fig,BloSSUM,6.5,6.79,0,1
+S25,authored,marker,0,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,0,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,1,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,1,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,2,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,2,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,3,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,3,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,4,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,4,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,5,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,5,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,6,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,6,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,authored,marker,7,"scatter (1 sizes, smallest)",1.18,1.24,0,1
+S25,authored,marker,7,"scatter (1 sizes, smallest)",2.24,2.33,0,1
+S25,final,axes_title,0,Obesity,7.0,7.09,0,1
+S25,final,ylabel,0,VANISH \n case $-$ control (%),6.0,6.08,0,2
+S25,final,ytick,0,−8 | −4 | 0 | 4 | 8,6.0,6.08,0,1
+S25,final,axes_title,1,Glucose Intolerance,7.0,7.09,0,1
+S25,final,ytick,1,−15 | −10 | −5 | 0 | 5 | 10,6.0,6.08,0,1
+S25,final,axes_title,2,IBD,7.0,7.09,0,1
+S25,final,ytick,2,−45 | −30 | −15 | 0 | 15 | 30,6.0,6.08,0,1
+S25,final,axes_title,3,CRC / Adenoma,7.0,7.09,0,1
+S25,final,ytick,3,−10 | −5 | 0 | 5 | 10 | 15,6.0,6.08,0,1
+S25,final,xlabel,4,Control prevalence,6.5,6.59,0,1
+S25,final,ylabel,4,BloSSUM \n case $-$ control (%),6.5,6.59,0,2
+S25,final,xtick,4,0.01% | 1% | 100%,6.0,6.08,0,1
+S25,final,ytick,4,−10 | −5 | 0 | 5 | 10 | 15,6.0,6.08,0,1
+S25,final,xlabel,5,Control prevalence,6.5,6.59,0,1
+S25,final,xtick,5,0.01% | 1% | 100%,6.0,6.08,0,1
+S25,final,ytick,5,−16 | −8 | 0 | 8 | 16,6.0,6.08,0,1
+S25,final,xlabel,6,Control prevalence,6.5,6.59,0,1
+S25,final,xtick,6,0.01% | 1% | 100%,6.0,6.08,0,1
+S25,final,ytick,6,−45 | −30 | −15 | 0 | 15 | 30,6.0,6.08,0,1
+S25,final,xlabel,7,Control prevalence,6.5,6.59,0,1
+S25,final,xtick,7,0.01% | 1% | 100%,6.0,6.08,0,1
+S25,final,ytick,7,−16 | −8 | 0 | 8 | 16,6.0,6.08,0,1
+S25,final,legend_entry,fig,background taxa,6.5,6.59,0,1
+S25,final,legend_entry,fig,background mean $\pm$ 1 SD,6.5,6.59,0,1
+S25,final,legend_entry,fig,VANISH,6.5,6.59,0,1
+S25,final,legend_entry,fig,BloSSUM,6.5,6.59,0,1
+S25,final,marker,0,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,0,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,1,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,1,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,2,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,2,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,3,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,3,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,4,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,4,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,5,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,5,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,6,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,6,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S25,final,marker,7,"scatter (1 sizes, smallest)",1.18,1.2,0,1
+S25,final,marker,7,"scatter (1 sizes, smallest)",2.24,2.27,0,1
+S26,authored,suptitle,,"Within one genus or family, list members behave differently from their relatives",8.0,8.24,1,1
+S26,authored,ylabel,0,distance from background (SD) \n higher = less depleted in cases,5.0,5.15,0,2
+S26,authored,annotation,0,$\mathit{Prevotella}$ sp2…,5.0,5.15,0,1
+S26,authored,annotation,0,$\mathit{Prevotella}$ sp7…,5.0,5.15,0,1
+S26,authored,annotation,0,$\mathit{P.\ copri\ M}$,5.0,5.15,0,1
+S26,authored,annotation,0,"+1.14 SD \n p < 0.001, q = 0.003",5.0,5.15,0,2
+S26,authored,xtick,0,"other
+$\mathit{Prevotella}$
+(n = 116) | VanishH+
+
+(n = 31)",5.0,5.15,0,1
+S26,authored,ytick,0,−4 | −2 | 0 | 2 | 4 | 6 | 8,5.0,5.15,0,1
+S26,authored,annotation,1,$\mathit{Vescimonas}$ sp7…,5.0,5.15,0,1
+S26,authored,annotation,1,$\mathit{Oscillibacter}$…,5.0,5.15,0,1
+S26,authored,annotation,1,$\mathit{Evtepia}$ sp6345,5.0,5.15,0,1
+S26,authored,annotation,1,"-0.65 SD \n p < 0.001, q = 0.001",5.0,5.15,0,2
+S26,authored,xtick,1,"other
+Oscillospira…
+(n = 324) | VanishH+
+
+(n = 13)",5.0,5.15,0,1
+S26,authored,ytick,1,−4 | −2 | 0 | 2 | 4 | 6 | 8,5.0,5.15,0,1
+S26,authored,annotation,2,$\mathit{Enterocloster}$…,5.0,5.15,0,1
+S26,authored,annotation,2,$\mathit{B.\ A\ caecimuris}$,5.0,5.15,0,1
+S26,authored,annotation,2,$\mathit{S.\ glycyrrhizi}$…,5.0,5.15,0,1
+S26,authored,annotation,2,"+1.36 SD \n p < 0.001, q = 0.002",5.0,5.15,0,2
+S26,authored,xtick,2,"other
+Lachnospirac…
+(n = 518) | BloSSUM+
+
+(n = 21)",5.0,5.15,0,1
+S26,authored,ytick,2,−4 | −2 | 0 | 2 | 4 | 6 | 8,5.0,5.15,0,1
+S26,authored,ylabel,3,distance from background (SD) \n higher = less depleted in cases,5.0,5.15,0,2
+S26,authored,annotation,3,$\mathit{M.\ gnavus}$,5.0,5.15,0,1
+S26,authored,annotation,3,$\mathit{O.\ symbiosa}$,5.0,5.15,0,1
+S26,authored,annotation,3,$\mathit{E.\ aldenensis}$,5.0,5.15,0,1
+S26,authored,annotation,3,"+1.10 SD \n p < 0.001, q = 0.001",5.0,5.15,0,2
+S26,authored,xtick,3,"other
+Lachnospirac…
+(n = 518) | BloSSUM+
+
+(n = 21)",5.0,5.15,0,1
+S26,authored,ytick,3,−4 | −2 | 0 | 2 | 4 | 6 | 8,5.0,5.15,0,1
+S26,authored,annotation,4,$\mathit{Pseudoscillosp}$…,5.0,5.15,0,1
+S26,authored,annotation,4,$\mathit{L.\ aceti}$,5.0,5.15,0,1
+S26,authored,annotation,4,$\mathit{F.\ plautii}$,5.0,5.15,0,1
+S26,authored,annotation,4,"+1.19 SD \n p < 0.001, q = 0.004",5.0,5.15,0,2
+S26,authored,xtick,4,"other
+Oscillospira…
+(n = 324) | BlossumH+
+
+(n = 13)",5.0,5.15,0,1
+S26,authored,ytick,4,−4 | −2 | 0 | 2 | 4 | 6 | 8,5.0,5.15,0,1
+S26,authored,annotation,5,$\mathit{B.\ ovatus}$,5.0,5.15,0,1
+S26,authored,annotation,5,$\mathit{B.\ fragilis}$,5.0,5.15,0,1
+S26,authored,annotation,5,$\mathit{B.\ thetaiotaom}$…,5.0,5.15,0,1
+S26,authored,annotation,5,"+1.22 SD \n p < 0.001, q = 0.002",5.0,5.15,0,2
+S26,authored,xtick,5,"other
+$\mathit{Bacteroides}$
+(n = 50) | BlossumH+
+
+(n = 10)",5.0,5.15,0,1
+S26,authored,ytick,5,−4 | −2 | 0 | 2 | 4 | 6 | 8,5.0,5.15,0,1
+S26,authored,marker,0,"scatter (1 sizes, smallest)",3.0,3.09,0,1
+S26,authored,marker,0,"scatter (1 sizes, smallest)",5.1,5.25,0,1
+S26,authored,marker,1,"scatter (1 sizes, smallest)",3.0,3.09,0,1
+S26,authored,marker,1,"scatter (1 sizes, smallest)",5.1,5.25,0,1
+S26,authored,marker,2,"scatter (1 sizes, smallest)",3.0,3.09,0,1
+S26,authored,marker,2,"scatter (1 sizes, smallest)",5.1,5.25,0,1
+S26,authored,marker,3,"scatter (1 sizes, smallest)",3.0,3.09,0,1
+S26,authored,marker,3,"scatter (1 sizes, smallest)",5.1,5.25,0,1
+S26,authored,marker,4,"scatter (1 sizes, smallest)",3.0,3.09,0,1
+S26,authored,marker,4,"scatter (1 sizes, smallest)",5.1,5.25,0,1
+S26,authored,marker,5,"scatter (1 sizes, smallest)",3.0,3.09,0,1
+S26,authored,marker,5,"scatter (1 sizes, smallest)",5.1,5.25,0,1
+S26,final,ylabel,0,distance from background (SD) \n higher = less depleted in cases,6.0,6.0,0,2
+S26,final,annotation,0,"+1.14 SD \n p < 0.001, q = 0.003",8.06,8.06,0,2
+S26,final,annotation,0,$\mathit{Prevotella}$ sp2…,8.06,8.06,0,1
+S26,final,annotation,0,$\mathit{Prevotella}$ sp7…,8.06,8.06,0,1
+S26,final,annotation,0,$\mathit{P.\ copri\ M}$,8.06,8.06,0,1
+S26,final,xtick,0,"other
+$\mathit{Prevotella}$
+(n = 116) | VanishH+
+
+(n = 31)",7.07,7.07,0,1
+S26,final,ytick,0,−5.0 | −2.5 | 0.0 | 2.5 | 5.0 | 7.5,7.07,7.07,0,1
+S26,final,annotation,1,"-0.65 SD \n p < 0.001, q = 0.001",8.06,8.06,0,2
+S26,final,annotation,1,$\mathit{Vescimonas}$ sp7…,8.06,8.06,0,1
+S26,final,annotation,1,$\mathit{Oscillibacter}$…,8.06,8.06,0,1
+S26,final,annotation,1,$\mathit{Evtepia}$ sp6345,8.06,8.06,0,1
+S26,final,xtick,1,"other
+Oscillospira…
+(n = 324) | VanishH+
+
+(n = 13)",7.07,7.07,0,1
+S26,final,ytick,1,−5.0 | −2.5 | 0.0 | 2.5 | 5.0 | 7.5,7.07,7.07,0,1
+S26,final,annotation,2,"+1.36 SD \n p < 0.001, q = 0.002",8.06,8.06,0,2
+S26,final,annotation,2,$\mathit{Enterocloster}$…,8.06,8.06,0,1
+S26,final,annotation,2,$\mathit{B.\ A\ caecimuris}$,8.06,8.06,0,1
+S26,final,annotation,2,$\mathit{S.\ glycyrrhizi}$…,8.06,8.06,0,1
+S26,final,xtick,2,"other
+Lachnospirac…
+(n = 518) | BloSSUM+
+
+(n = 21)",7.07,7.07,0,1
+S26,final,ytick,2,−5.0 | −2.5 | 0.0 | 2.5 | 5.0 | 7.5,7.07,7.07,0,1
+S26,final,ylabel,3,distance from background (SD) \n higher = less depleted in cases,6.0,6.0,0,2
+S26,final,annotation,3,"+1.10 SD \n p < 0.001, q = 0.001",8.06,8.06,0,2
+S26,final,annotation,3,$\mathit{M.\ gnavus}$,8.06,8.06,0,1
+S26,final,annotation,3,$\mathit{O.\ symbiosa}$,8.06,8.06,0,1
+S26,final,annotation,3,$\mathit{E.\ aldenensis}$,8.06,8.06,0,1
+S26,final,xtick,3,"other
+Lachnospirac…
+(n = 518) | BloSSUM+
+
+(n = 21)",7.07,7.07,0,1
+S26,final,ytick,3,−5.0 | −2.5 | 0.0 | 2.5 | 5.0 | 7.5,7.07,7.07,0,1
+S26,final,annotation,4,"+1.19 SD \n p < 0.001, q = 0.004",8.06,8.06,0,2
+S26,final,annotation,4,$\mathit{Pseudoscillosp}$…,8.06,8.06,0,1
+S26,final,annotation,4,$\mathit{L.\ aceti}$,8.06,8.06,0,1
+S26,final,annotation,4,$\mathit{F.\ plautii}$,8.06,8.06,0,1
+S26,final,xtick,4,"other
+Oscillospira…
+(n = 324) | BlossumH+
+
+(n = 13)",7.07,7.07,0,1
+S26,final,ytick,4,−5.0 | −2.5 | 0.0 | 2.5 | 5.0 | 7.5,7.07,7.07,0,1
+S26,final,annotation,5,"+1.22 SD \n p < 0.001, q = 0.002",8.06,8.06,0,2
+S26,final,annotation,5,$\mathit{B.\ ovatus}$,8.06,8.06,0,1
+S26,final,annotation,5,$\mathit{B.\ fragilis}$,8.06,8.06,0,1
+S26,final,annotation,5,$\mathit{B.\ thetaiotaom}$…,8.06,8.06,0,1
+S26,final,xtick,5,"other
+$\mathit{Bacteroides}$
+(n = 50) | BlossumH+
+
+(n = 10)",7.07,7.07,0,1
+S26,final,ytick,5,−5.0 | −2.5 | 0.0 | 2.5 | 5.0 | 7.5,7.07,7.07,0,1
+S26,final,marker,0,"scatter (1 sizes, smallest)",3.0,3.0,0,1
+S26,final,marker,0,"scatter (1 sizes, smallest)",5.1,5.1,0,1
+S26,final,marker,1,"scatter (1 sizes, smallest)",3.0,3.0,0,1
+S26,final,marker,1,"scatter (1 sizes, smallest)",5.1,5.1,0,1
+S26,final,marker,2,"scatter (1 sizes, smallest)",3.0,3.0,0,1
+S26,final,marker,2,"scatter (1 sizes, smallest)",5.1,5.1,0,1
+S26,final,marker,3,"scatter (1 sizes, smallest)",3.0,3.0,0,1
+S26,final,marker,3,"scatter (1 sizes, smallest)",5.1,5.1,0,1
+S26,final,marker,4,"scatter (1 sizes, smallest)",3.0,3.0,0,1
+S26,final,marker,4,"scatter (1 sizes, smallest)",5.1,5.1,0,1
+S26,final,marker,5,"scatter (1 sizes, smallest)",3.0,3.0,0,1
+S26,final,marker,5,"scatter (1 sizes, smallest)",5.1,5.1,0,1
+S27,authored,figure_text,,List,9.5,11.6,1,1
+S27,authored,figure_text,,Score,9.5,11.6,1,1
+S27,authored,figure_text,,Cons.,9.5,11.6,1,1
+S27,authored,figure_text,,-3,8.0,9.77,1,1
+S27,authored,figure_text,,+3,8.0,9.77,1,1
+S27,authored,figure_text,,Per-condition z,9.5,11.6,1,1
+S27,authored,annotation,0,*,6.0,7.33,1,1
+S27,authored,xtick,0,+ | H+,6.0,7.33,0,1
+S27,authored,ytick,0,$\mathit{Escherichia\ coli}$ | $\mathit{Duodenibacillus}$ sp900544255 | $\mathit{Fimenecus}$ sp000432435 | $\mathit{Prevotella}$ sp003447235 | $\mathit{Bulleidia}$ sp905194705 | $\mathit{Prevotella\ copri\_N}$ | $\mathit{Prevotella}$ sp900313215 | $\mathit{Prevotella}$ sp000434975,5.0,6.11,0,1
+S27,authored,annotation,1,*,5.5,6.72,1,1
+S27,authored,annotation,1,***,5.5,6.72,1,1
+S27,authored,annotation,1,**,5.5,6.72,1,1
+S27,authored,xtick,1,"Obese | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.0,7.33,0,1
+S27,authored,xlabel,2,Mean z across conditions,7.0,8.55,0,1
+S27,authored,xtick,2,−2.5 | 0.0 | 2.5 | 5.0,6.0,7.33,0,1
+S27,authored,xlabel,3,Consistency,7.0,8.55,0,1
+S27,authored,xtick,3,0.4 | 0.6 | 0.8 | 1.0 | 1.2,6.0,7.33,0,1
+S27,authored,legend_entry,fig,"on list, q < 0.2",7.6,9.28,0,1
+S27,authored,legend_entry,fig,q < 0.05,7.6,9.28,0,1
+S27,authored,legend_entry,fig,"on list, n.s.",7.6,9.28,0,1
+S27,authored,legend_entry,fig,not on list,7.6,9.28,0,1
+S27,authored,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.6,9.28,0,1
+S27,authored,legend_entry,fig,no comparable taxa,7.6,9.28,0,1
+S27,authored,marker,2,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S27,authored,marker,3,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S27,final,figure_text,,List,7.06,8.78,0,1
+S27,final,figure_text,,Score,7.06,8.78,0,1
+S27,final,figure_text,,Cons.,7.06,8.78,0,1
+S27,final,figure_text,,-3,7.06,8.78,0,1
+S27,final,figure_text,,+3,7.06,8.78,0,1
+S27,final,figure_text,,Per-condition z,7.06,8.78,0,1
+S27,final,annotation,0,*,6.97,8.67,1,1
+S27,final,xtick,0,+ | H+,6.11,7.61,0,1
+S27,final,ytick,0,$\mathit{Escherichia\ coli}$ | $\mathit{Duodenibacillus}$ sp900544255 | $\mathit{Fimenecus}$ sp000432435 | $\mathit{Prevotella}$ sp003447235 | $\mathit{Bulleidia}$ sp905194705 | $\mathit{Prevotella\ copri\_N}$ | $\mathit{Prevotella}$ sp900313215 | $\mathit{Prevotella}$ sp000434975,6.11,7.61,0,1
+S27,final,annotation,1,*,6.97,8.67,1,1
+S27,final,annotation,1,***,6.97,8.67,1,1
+S27,final,annotation,1,**,6.97,8.67,1,1
+S27,final,xtick,1,"Obesity | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.0,7.47,0,1
+S27,final,xlabel,2,Mean z across conditions,7.06,8.78,0,1
+S27,final,xtick,2,−4 | −2 | 0 | 2 | 4,6.11,7.61,0,1
+S27,final,xlabel,3,Consistency,7.06,8.78,0,1
+S27,final,xtick,3,0.45 | 0.60 | 0.75 | 0.90 | 1.05,5.58,6.95,0,1
+S27,final,legend_entry,fig,"on list, q < 0.2",7.06,8.78,0,1
+S27,final,legend_entry,fig,q < 0.05,7.06,8.78,0,1
+S27,final,legend_entry,fig,"on list, n.s.",7.06,8.78,0,1
+S27,final,legend_entry,fig,not on list,7.06,8.78,0,1
+S27,final,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.06,8.78,0,1
+S27,final,legend_entry,fig,no comparable taxa,7.06,8.78,0,1
+S27,final,marker,2,"scatter (1 sizes, smallest)",3.0,3.73,0,1
+S27,final,marker,3,"scatter (1 sizes, smallest)",3.0,3.73,0,1
+S28,authored,figure_text,,List,9.5,11.6,1,1
+S28,authored,figure_text,,Score,9.5,11.6,1,1
+S28,authored,figure_text,,Cons.,9.5,11.6,1,1
+S28,authored,figure_text,,-3,8.0,9.77,1,1
+S28,authored,figure_text,,+3,8.0,9.77,1,1
+S28,authored,figure_text,,Per-condition z,9.5,11.6,1,1
+S28,authored,annotation,0,*,6.0,7.33,1,1
+S28,authored,xtick,0,+ | H+,6.0,7.33,0,1
+S28,authored,ytick,0,$\mathit{Otoolea\ symbiosa}$ | $\mathit{Mediterraneibacter\ gnavus}$ | $\mathit{Enterocloster\ bolteae}$ | $\mathit{Flavonifractor\ plautii}$ | $\mathit{Enterocloster\ aldenensis}$ | $\mathit{Enterocloster}$ sp001517625 | $\mathit{Bacteroides\ fragilis}$ | $\mathit{Mediterraneibacter\ torques}$,5.0,6.11,0,1
+S28,authored,annotation,1,*,5.5,6.72,1,1
+S28,authored,annotation,1,**,5.5,6.72,1,1
+S28,authored,annotation,1,***,5.5,6.72,1,1
+S28,authored,xtick,1,"Obese | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.0,7.33,0,1
+S28,authored,xlabel,2,Mean z across conditions,7.0,8.55,0,1
+S28,authored,xtick,2,−2.5 | 0.0 | 2.5 | 5.0,6.0,7.33,0,1
+S28,authored,xlabel,3,Consistency,7.0,8.55,0,1
+S28,authored,xtick,3,0.4 | 0.6 | 0.8 | 1.0 | 1.2,6.0,7.33,0,1
+S28,authored,legend_entry,fig,"on list, q < 0.2",7.6,9.28,0,1
+S28,authored,legend_entry,fig,q < 0.05,7.6,9.28,0,1
+S28,authored,legend_entry,fig,"on list, n.s.",7.6,9.28,0,1
+S28,authored,legend_entry,fig,not on list,7.6,9.28,0,1
+S28,authored,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.6,9.28,0,1
+S28,authored,legend_entry,fig,no comparable taxa,7.6,9.28,0,1
+S28,authored,marker,2,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S28,authored,marker,3,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S28,final,figure_text,,List,7.06,8.52,0,1
+S28,final,figure_text,,Score,7.06,8.52,0,1
+S28,final,figure_text,,Cons.,7.06,8.52,0,1
+S28,final,figure_text,,-3,7.06,8.52,0,1
+S28,final,figure_text,,+3,7.06,8.52,0,1
+S28,final,figure_text,,Per-condition z,7.06,8.52,0,1
+S28,final,annotation,0,*,6.97,8.41,1,1
+S28,final,xtick,0,+ | H+,6.11,7.38,0,1
+S28,final,ytick,0,$\mathit{Otoolea\ symbiosa}$ | $\mathit{Mediterraneibacter\ gnavus}$ | $\mathit{Enterocloster\ bolteae}$ | $\mathit{Flavonifractor\ plautii}$ | $\mathit{Enterocloster\ aldenensis}$ | $\mathit{Enterocloster}$ sp001517625 | $\mathit{Bacteroides\ fragilis}$ | $\mathit{Mediterraneibacter\ torques}$,6.11,7.38,0,1
+S28,final,annotation,1,*,6.97,8.41,1,1
+S28,final,annotation,1,**,6.97,8.41,1,1
+S28,final,annotation,1,***,6.97,8.41,1,1
+S28,final,xtick,1,"Obesity | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.0,7.25,0,1
+S28,final,xlabel,2,Mean z across conditions,7.06,8.52,0,1
+S28,final,xtick,2,−4 | −2 | 0 | 2 | 4 | 6,6.11,7.38,0,1
+S28,final,xlabel,3,Consistency,7.06,8.52,0,1
+S28,final,xtick,3,0.45 | 0.60 | 0.75 | 0.90 | 1.05,5.58,6.75,0,1
+S28,final,legend_entry,fig,"on list, q < 0.2",7.06,8.52,0,1
+S28,final,legend_entry,fig,q < 0.05,7.06,8.52,0,1
+S28,final,legend_entry,fig,"on list, n.s.",7.06,8.52,0,1
+S28,final,legend_entry,fig,not on list,7.06,8.52,0,1
+S28,final,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.06,8.52,0,1
+S28,final,legend_entry,fig,no comparable taxa,7.06,8.52,0,1
+S28,final,marker,2,"scatter (1 sizes, smallest)",3.0,3.62,0,1
+S28,final,marker,3,"scatter (1 sizes, smallest)",3.0,3.62,0,1
+S29,authored,figure_text,,List,9.5,11.6,1,1
+S29,authored,figure_text,,Score,9.5,11.6,1,1
+S29,authored,figure_text,,Cons.,9.5,11.6,1,1
+S29,authored,figure_text,,-3,8.0,9.77,1,1
+S29,authored,figure_text,,+3,8.0,9.77,1,1
+S29,authored,figure_text,,Per-condition z,9.5,11.6,1,1
+S29,authored,xtick,0,FDR,6.0,7.33,0,1
+S29,authored,ytick,0,$\mathit{Prevotella}$ sp000434975 | $\mathit{Prevotella}$ sp900548745 | $\mathit{Prevotella\ hominis}$ | $\mathit{Prevotella}$ sp900543975 | $\mathit{Cryptobacteroides}$ sp900546925 | $\mathit{Prevotella\ copri\_M}$ | $\mathit{Acetatifactor\ hominis}$ | $\mathit{Marvinbryantia\ shaoxingensis}$,5.0,6.11,0,1
+S29,authored,annotation,1,**,5.5,6.72,1,1
+S29,authored,annotation,1,*,5.5,6.72,1,1
+S29,authored,annotation,1,***,5.5,6.72,1,1
+S29,authored,xtick,1,"Obese | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.0,7.33,0,1
+S29,authored,xlabel,2,Mean z across conditions,7.0,8.55,0,1
+S29,authored,xtick,2,−2 | −1 | 0 | 1 | 2 | 3,6.0,7.33,0,1
+S29,authored,xlabel,3,Consistency,7.0,8.55,0,1
+S29,authored,xtick,3,0.4 | 0.6 | 0.8 | 1.0 | 1.2,6.0,7.33,0,1
+S29,authored,legend_entry,fig,"on list, q < 0.2",7.6,9.28,0,1
+S29,authored,legend_entry,fig,q < 0.05,7.6,9.28,0,1
+S29,authored,legend_entry,fig,"on list, n.s.",7.6,9.28,0,1
+S29,authored,legend_entry,fig,not on list,7.6,9.28,0,1
+S29,authored,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.6,9.28,0,1
+S29,authored,legend_entry,fig,no comparable taxa,7.6,9.28,0,1
+S29,authored,marker,2,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S29,authored,marker,3,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S29,final,figure_text,,List,7.06,8.75,0,1
+S29,final,figure_text,,Score,7.06,8.75,0,1
+S29,final,figure_text,,Cons.,7.06,8.75,0,1
+S29,final,figure_text,,-3,7.06,8.75,0,1
+S29,final,figure_text,,+3,7.06,8.75,0,1
+S29,final,figure_text,,Per-condition z,7.06,8.75,0,1
+S29,final,xtick,0,FDR,6.27,7.77,0,1
+S29,final,ytick,0,$\mathit{Prevotella}$ sp000434975 | $\mathit{Prevotella}$ sp900548745 | $\mathit{Prevotella\ hominis}$ | $\mathit{Prevotella}$ sp900543975 | $\mathit{Cryptobacteroides}$ sp900546925 | $\mathit{Prevotella\ copri\_M}$ | $\mathit{Acetatifactor\ hominis}$ | $\mathit{Marvinbryantia\ shaoxingensis}$,6.27,7.77,0,1
+S29,final,annotation,1,**,7.06,8.75,1,1
+S29,final,annotation,1,*,7.06,8.75,1,1
+S29,final,annotation,1,***,7.06,8.75,1,1
+S29,final,xtick,1,"Obesity | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.27,7.77,0,1
+S29,final,xlabel,2,Mean z across conditions,7.06,8.75,0,1
+S29,final,xtick,2,−2 | −1 | 0 | 1 | 2 | 3,6.27,7.77,0,1
+S29,final,xlabel,3,Consistency,7.06,8.75,0,1
+S29,final,xtick,3,0.45 | 0.60 | 0.75 | 0.90 | 1.05,5.85,7.25,0,1
+S29,final,legend_entry,fig,"on list, q < 0.2",7.06,8.75,0,1
+S29,final,legend_entry,fig,q < 0.05,7.06,8.75,0,1
+S29,final,legend_entry,fig,"on list, n.s.",7.06,8.75,0,1
+S29,final,legend_entry,fig,not on list,7.06,8.75,0,1
+S29,final,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.06,8.75,0,1
+S29,final,legend_entry,fig,no comparable taxa,7.06,8.75,0,1
+S29,final,marker,2,"scatter (1 sizes, smallest)",3.0,3.72,0,1
+S29,final,marker,3,"scatter (1 sizes, smallest)",3.0,3.72,0,1
+S30,authored,figure_text,,List,9.5,11.6,1,1
+S30,authored,figure_text,,Score,9.5,11.6,1,1
+S30,authored,figure_text,,Cons.,9.5,11.6,1,1
+S30,authored,figure_text,,-3,8.0,9.77,1,1
+S30,authored,figure_text,,+3,8.0,9.77,1,1
+S30,authored,figure_text,,Per-condition z,9.5,11.6,1,1
+S30,authored,annotation,0,*,6.0,7.33,1,1
+S30,authored,xtick,0,FDR,6.0,7.33,0,1
+S30,authored,ytick,0,$\mathit{Mediterraneibacter\ torques}$ | $\mathit{Phocaeicola\ dorei}$ | $\mathit{Bilophila\ wadsworthia}$ | $\mathit{Bacteroides\ thetaiotaomicron}$ | $\mathit{Oscillibacter\ welbionis}$ | $\mathit{Parabacteroides\ distasonis}$ | $\mathit{Bacteroides\ stercoris}$ | $\mathit{Sutterella\ wadsworthensis\_A}$,5.0,6.11,0,1
+S30,authored,annotation,1,**,5.5,6.72,1,1
+S30,authored,annotation,1,***,5.5,6.72,1,1
+S30,authored,annotation,1,*,5.5,6.72,1,1
+S30,authored,xtick,1,"Obese | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.0,7.33,0,1
+S30,authored,xlabel,2,Mean z across conditions,7.0,8.55,0,1
+S30,authored,xtick,2,−2 | 0 | 2 | 4,6.0,7.33,0,1
+S30,authored,xlabel,3,Consistency,7.0,8.55,0,1
+S30,authored,xtick,3,0.4 | 0.6 | 0.8 | 1.0 | 1.2,6.0,7.33,0,1
+S30,authored,legend_entry,fig,"on list, q < 0.2",7.6,9.28,0,1
+S30,authored,legend_entry,fig,q < 0.05,7.6,9.28,0,1
+S30,authored,legend_entry,fig,"on list, n.s.",7.6,9.28,0,1
+S30,authored,legend_entry,fig,not on list,7.6,9.28,0,1
+S30,authored,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.6,9.28,0,1
+S30,authored,legend_entry,fig,no comparable taxa,7.6,9.28,0,1
+S30,authored,marker,2,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S30,authored,marker,3,"scatter (1 sizes, smallest)",3.0,3.66,0,1
+S30,final,figure_text,,List,7.06,8.69,0,1
+S30,final,figure_text,,Score,7.06,8.69,0,1
+S30,final,figure_text,,Cons.,7.06,8.69,0,1
+S30,final,figure_text,,-3,7.06,8.69,0,1
+S30,final,figure_text,,+3,7.06,8.69,0,1
+S30,final,figure_text,,Per-condition z,7.06,8.69,0,1
+S30,final,annotation,0,*,7.06,8.69,1,1
+S30,final,xtick,0,FDR,6.27,7.72,0,1
+S30,final,ytick,0,$\mathit{Mediterraneibacter\ torques}$ | $\mathit{Phocaeicola\ dorei}$ | $\mathit{Bilophila\ wadsworthia}$ | $\mathit{Bacteroides\ thetaiotaomicron}$ | $\mathit{Oscillibacter\ welbionis}$ | $\mathit{Parabacteroides\ distasonis}$ | $\mathit{Bacteroides\ stercoris}$ | $\mathit{Sutterella\ wadsworthensis\_A}$,6.27,7.72,0,1
+S30,final,annotation,1,**,7.06,8.69,1,1
+S30,final,annotation,1,***,7.06,8.69,1,1
+S30,final,annotation,1,*,7.06,8.69,1,1
+S30,final,xtick,1,"Obesity | Glucose
+Intol. | IBD | CRC/
+Adenoma",6.27,7.72,0,1
+S30,final,xlabel,2,Mean z across conditions,7.06,8.69,0,1
+S30,final,xtick,2,−3.0 | −1.5 | 0.0 | 1.5 | 3.0 | 4.5,6.07,7.48,0,1
+S30,final,xlabel,3,Consistency,7.06,8.69,0,1
+S30,final,xtick,3,0.45 | 0.60 | 0.75 | 0.90 | 1.05,5.85,7.21,0,1
+S30,final,legend_entry,fig,"on list, q < 0.2",7.06,8.69,0,1
+S30,final,legend_entry,fig,q < 0.05,7.06,8.69,0,1
+S30,final,legend_entry,fig,"on list, n.s.",7.06,8.69,0,1
+S30,final,legend_entry,fig,not on list,7.06,8.69,0,1
+S30,final,legend_entry,fig,within condition: * p<.05  ** p<.01  *** p<.001,7.06,8.69,0,1
+S30,final,legend_entry,fig,no comparable taxa,7.06,8.69,0,1
+S30,final,marker,2,"scatter (1 sizes, smallest)",3.0,3.7,0,1
+S30,final,marker,3,"scatter (1 sizes, smallest)",3.0,3.7,0,1
+S31,final,annotation,0,STUDY SELECTION \n (SEMI-AUTOMATED),36.0,5.76,1,2
+S31,final,annotation,0,PREPROCESSING \n PIPELINE,36.0,5.76,1,2
+S31,final,annotation,0,AUTOMATED METADATA \n CURATION,36.0,5.76,1,2
+S31,final,annotation,0,CLASSIFICATION,36.0,5.76,1,1
+S31,final,annotation,0,ANALYSIS \n PIPELINE,36.0,5.76,1,2
+S31,final,annotation,0,Human gut metagenome studies screened,36.0,5.76,1,1
+S31,final,annotation,0,NCBI SRA + ENA  ·  multi-source seeding + manual search,30.0,4.8,0,1
+S31,final,annotation,0,Preprocessing pipeline and eligibility criteria,36.0,5.76,1,1
+S31,final,annotation,0,Human gut · shotgun · paired-end · ≥100 Mb raw · metadata available,30.0,4.8,0,1
+S31,final,annotation,0,Study-level exclusions,34.0,5.44,1,1
+S31,final,annotation,0,non-gut or non-shotgun · infant cohorts,26.0,4.16,0,1
+S31,final,annotation,0,antibiotic-treated · depth / batch outliers,26.0,4.16,0,1
+S31,final,annotation,0,Supp. Text 1B,29.0,4.64,1,1
+S31,final,annotation,0,Supp. Text 2,29.0,4.64,1,1
+S31,final,annotation,0,Curated metadata  (Data S1),36.0,5.76,1,1
+S31,final,annotation,0,"18,299 samples matched to the alignment matrices",30.0,4.8,0,1
+S31,final,annotation,0,Sample-level exclusions  (−224),34.0,5.44,1,1
+S31,final,annotation,0,lifestyle not classifiable,26.0,4.16,0,1
+S31,final,annotation,0,27,26.0,4.16,1,1
+S31,final,annotation,0,amplicon (16S) libraries,26.0,4.16,0,1
+S31,final,annotation,0,104,26.0,4.16,1,1
+S31,final,annotation,0,second library of a kept BioSample,26.0,4.16,0,1
+S31,final,annotation,0,17,26.0,4.16,1,1
+S31,final,annotation,0,< 30 Mb mapped bases,26.0,4.16,0,1
+S31,final,annotation,0,57,26.0,4.16,1,1
+S31,final,annotation,0,< 5 SGBs at ≥10% breadth,26.0,4.16,0,1
+S31,final,annotation,0,19,26.0,4.16,1,1
+S31,final,annotation,0,infants and non-gut samples were removed during metadata curation,22.0,3.52,0,1
+S31,final,annotation,0,Table S2,29.0,4.64,1,1
+S31,final,annotation,0,Fig. S4,29.0,4.64,1,1
+S31,final,annotation,0,Several runs per sample,30.0,4.8,1,1
+S31,final,annotation,0,the primary run is analysed;,25.0,4.0,0,1
+S31,final,annotation,0,"3,352 further runs of 1,737 samples",25.0,4.0,0,1
+S31,final,annotation,0,are kept only as technical replicates,25.0,4.0,0,1
+S31,final,annotation,0,(Figs. S2–S3; Supp. Text 1C),25.0,4.0,0,1
+S31,final,annotation,0,One sample per BioSample,30.0,4.8,1,1
+S31,final,annotation,0,17 further libraries of an,25.0,4.0,0,1
+S31,final,annotation,0,already-kept BioSample become,25.0,4.0,0,1
+S31,final,annotation,0,"technical replicates, not samples",25.0,4.0,0,1
+S31,final,annotation,0,(Supp. Text 1C; Table S2),25.0,4.0,0,1
+S31,final,annotation,0,Several samples per host,30.0,4.8,1,1
+S31,final,annotation,0,"18,075 samples from 14,624 hosts;",25.0,4.0,0,1
+S31,final,annotation,0,repeat samples kept for lifestyle,25.0,4.0,0,1
+S31,final,annotation,0,"analyses, one sample per host for",25.0,4.0,0,1
+S31,final,annotation,0,"health analyses (Supp. Text 6B, 7C)",25.0,4.0,0,1
+S31,final,annotation,0,FINAL ANALYTIC COHORT,36.0,5.76,1,1
+S31,final,annotation,0,"N = 18,075 samples  ·  14,624 hosts  ·  83 studies  ·  42 countries",30.5,4.88,0,1
+S31,final,annotation,0,Hunter-gatherer,36.0,5.76,1,1
+S31,final,annotation,0,401 samples,30.0,4.8,0,1
+S31,final,annotation,0,238 hosts,30.0,4.8,0,1
+S31,final,annotation,0,Agro-pastoralist,36.0,5.76,1,1
+S31,final,annotation,0,"3,697 samples",30.0,4.8,0,1
+S31,final,annotation,0,"3,539 hosts",30.0,4.8,0,1
+S31,final,annotation,0,Industrial,36.0,5.76,1,1
+S31,final,annotation,0,"13,977 samples  ·  10,847 hosts",30.0,4.8,0,1
+S31,final,annotation,0,Non-industrial  (combined),36.0,5.76,1,1
+S31,final,annotation,0,"4,098 samples  ·  3,777 hosts",30.0,4.8,0,1
+S31,final,annotation,0,health metadata,30.0,4.8,0,1
+S31,final,annotation,0,Ind. healthy,36.0,5.76,1,1
+S31,final,annotation,0,"7,788 samples",28.0,4.48,0,1
+S31,final,annotation,0,"6,134 hosts",28.0,4.48,0,1
+S31,final,annotation,0,Ind. unhealthy,36.0,5.76,1,1
+S31,final,annotation,0,"5,968 samples",28.0,4.48,0,1
+S31,final,annotation,0,"4,532 hosts",28.0,4.48,0,1
+S31,final,annotation,0,Unknown,36.0,5.76,1,1
+S31,final,annotation,0,221 samples,28.0,4.48,0,1
+S31,final,annotation,0,206 hosts,28.0,4.48,0,1
+S31,final,annotation,0,Industrial case-control eligible subset,36.0,5.76,1,1
+S31,final,annotation,0,one sample per host  ·  ≥5 cases & ≥5 controls per study,28.0,4.48,0,1
+S31,final,annotation,0,"non-industrial-biased  ·  3,971 SGBs",30.0,4.8,0,1
+S31,final,annotation,0,"industrial-biased  ·  3,594 SGBs",30.0,4.8,0,1
+S31,final,annotation,0,Combined reference,35.0,5.6,1,1
+S31,final,annotation,0,"Carter + Leviatan  ·  5,081 SGBs",28.0,4.48,0,1
+S31,final,annotation,0,Data S3,29.0,4.64,1,1
+S31,final,annotation,0,Carter reference,34.0,5.44,1,1
+S31,final,annotation,0,Leviatan reference,34.0,5.44,1,1
+S31,final,annotation,0,uniform preprocessing \n high-MAPQ alignment,28.0,4.48,0,2
+S31,final,annotation,0,Table S4,29.0,4.64,1,1
+S31,final,annotation,0,Supp. Text 2D,29.0,4.64,1,1
+S31,final,annotation,0,Per-sample breadth & depth matrices,36.0,5.76,1,1
+S31,final,annotation,0,every retained sample × SGB  (three references),30.0,4.8,0,1
+S31,final,annotation,0,GMW depth correction \n (Supp. Text 3),34.0,5.44,1,2
+S31,final,annotation,0,Hard detection + empirical fits \n (Supp. Text 4),34.0,5.44,1,2
+S31,final,annotation,0,Ind/non-Ind taxon lists \n (Supp. Text 5),34.0,5.44,1,2
+S31,final,annotation,0,Health association \n (Supp. Text 6),34.0,5.44,1,2
+S31,final,annotation,0,geometric-mean depth reweighting,30.0,4.8,0,1
+S31,final,annotation,0,Hill-MM; Richards; beta-binomial mixture,30.0,4.8,0,1
+S31,final,annotation,0,Data S4,29.0,4.64,1,1
+S31,final,annotation,0,$\bf{Tables\ S6{-}S9}$,29.0,4.64,0,1
+S31,final,annotation,0,$\bf{Tables\ S10{-}S12}$  ·  within-study GMW-CMH + prevalence bg.,29.0,4.64,0,1
+S31,final,annotation,0,Sample richness/composition,32.0,5.12,1,1
+S31,final,annotation,0,$\bf{(Fig.\ 2)}$,31.0,4.96,0,1
+S31,final,annotation,0,GMW lifestyle cohort,31.0,4.96,0,1
+S31,final,annotation,0,All-SGB accumulation,32.0,5.12,1,1
+S31,final,annotation,0,$\bf{(Fig.\ 3)}$,31.0,4.96,0,1
+S31,final,annotation,0,3 refs; hard + empirical fits,31.0,4.96,0,1
+S31,final,annotation,0,Differentially prevalent taxa,32.0,5.12,1,1
+S31,final,annotation,0,$\bf{(Fig.\ 4)}$,31.0,4.96,0,1
+S31,final,annotation,0,Vanish/BloSSUM (+/H+) taxa,31.0,4.96,0,1
+S31,final,annotation,0,(Un)healthy vs Non-Ind richness,32.0,5.12,1,1
+S31,final,annotation,0,$\bf{(Fig.\ 5A{-}C)}$,31.0,4.96,0,1
+S31,final,annotation,0,"NI+Ind-H+Ind-U, GMW",31.0,4.96,0,1
+S31,final,annotation,0,Disease richness,32.0,5.12,1,1
+S31,final,annotation,0,$\bf{Ind/non{-}Ind\ taxa\ associations}$,31.0,4.96,0,1
+S31,final,annotation,0,$\bf{(Fig.\ 5D{-}E)}$,31.0,4.96,0,1
+S31,final,annotation,0,study-strat. GMW-CMH,31.0,4.96,0,1
+S31,final,annotation,0,"Fig. S5–S14, Fig. S18–S20",29.0,4.64,1,1
+S31,final,annotation,0,Fig. S15–S17,29.0,4.64,1,1
+S31,final,annotation,0,Fig. S21–S22,29.0,4.64,1,1
+S31,final,annotation,0,Fig. S23–S24,29.0,4.64,1,1
+S31,final,annotation,0,Fig. S25–S30,29.0,4.64,1,1
+S31,final,annotation,0,Table S1,29.0,4.64,1,1
+S31,final,annotation,0,Supp. Text 1A,29.0,4.64,1,1
+S31,final,annotation,0,Data S1,29.0,4.64,1,1
+S31,final,annotation,0,Tables S2–S3,29.0,4.64,1,1
+S31,final,annotation,0,Supp. Text 1D–E,29.0,4.64,1,1
+S31,final,annotation,0,Colour key,31.0,4.96,1,1
+S31,final,annotation,0,Box styles,28.0,4.48,1,1
+S31,final,annotation,0,Cohort selection,28.0,4.48,0,1
+S31,final,annotation,0,Data S1–S4,28.0,4.48,0,1
+S31,final,annotation,0,Supplementary Text,28.0,4.48,0,1
+S31,final,annotation,0,Results figures,28.0,4.48,0,1
+S31,final,annotation,0,Figures S1–S31,28.0,4.48,0,1
+S31,final,annotation,0,Lifestyle (non-industrial),28.0,4.48,1,1
+S31,final,annotation,0,Hunter-gatherer,28.0,4.48,0,1
+S31,final,annotation,0,Agro-pastoralist,28.0,4.48,0,1
+S31,final,annotation,0,Non-industrial (HG + Trans),28.0,4.48,0,1
+S31,final,annotation,0,Lifestyle (industrial),28.0,4.48,1,1
+S31,final,annotation,0,Industrial (all),28.0,4.48,0,1
+S31,final,annotation,0,Industrial healthy,28.0,4.48,0,1
+S31,final,annotation,0,Industrial unhealthy,28.0,4.48,0,1
+S31,final,annotation,0,"Industrial, health unknown",28.0,4.48,0,1
+S31,final,annotation,0,References,28.0,4.48,1,1
+S31,final,annotation,0,Carter (non-ind. biased),28.0,4.48,0,1
+S31,final,annotation,0,Leviatan (industrial-biased),28.0,4.48,0,1
+S31,final,annotation,0,Combined (Carter + Leviatan),28.0,4.48,0,1
+S31,final,xtick,0,0.00 | 0.25 | 0.50 | 0.75 | 1.00,10.0,1.6,0,1
+S31,final,ytick,0,0.00 | 0.25 | 0.50 | 0.75 | 1.00,10.0,1.6,0,1

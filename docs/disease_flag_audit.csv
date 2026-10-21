@@ -1,0 +1,40 @@
+column,label,mapped,n_flagged,mbiotemp_healthy,also_Diseased_No,Diseased_Yes_corroborates,pct_verifiably_wrong
+disease_CRC,Colorectal cancer,True,709,15,3,2,0.42
+disease_T2D,Type 2 diabetes,True,407,4,0,0,0.0
+disease_hypertension,Hypertension,True,221,14,0,14,0.0
+disease_STH,Soil-transmitted helminth infection,True,63,9,0,9,0.0
+disease_acute_diarrhoea,Acute diarrhoea,True,48,0,0,0,0.0
+disease_ascites,,False,70,19,0,19,0.0
+disease_coeliac,Coeliac disease,True,2,0,0,0,0.0
+disease_fatty_liver,Non-alcoholic fatty liver,True,133,8,0,8,0.0
+disease_gestational_diabetes,,False,1,0,0,0,0.0
+disease_hepatitis,Hepatitis,True,103,32,0,32,0.0
+disease_irritable_bowel,,False,1,0,0,0,0.0
+disease_ME_CFS,,False,60,40,0,40,0.0
+disease_melanoma,Melanoma,True,269,27,0,27,0.0
+disease_melanoma_surgery,,False,11,11,0,11,0.0
+disease_metabolic_syndrome,Metabolic syndrome,True,11,0,0,0,0.0
+disease_metastases,,False,66,27,0,27,0.0
+disease_schistosoma,,False,4,3,0,3,0.0
+disease_schizofrenia,Schizophrenia,True,107,39,0,39,0.0
+disease_treatment_colitis,,False,43,0,0,0,0.0
+disease_STEC,,False,33,27,0,27,0.0
+disease_MDRB,,False,22,0,0,0,0.0
+disease_T1D,Type 1 diabetes,True,5,0,0,0,0.0
+disease_IGT,Impaired glucose tolerance,True,49,16,0,16,0.0
+disease_adenoma,Colorectal adenoma,True,137,0,0,0,0.0
+disease_Crohn's,Crohn's disease,True,517,0,0,0,0.0
+disease_Ulcerative_colitis,Ulcerative colitis,True,341,0,0,0,0.0
+disease_Worm-Infected,Helminth infection,True,24,2,0,2,0.0
+disease_cirrhosis,Liver cirrhosis,True,132,0,0,0,0.0
+disease_ankylosing_spondylitis,Ankylosing spondylitis,True,89,0,0,0,0.0
+disease_BD,,False,74,0,0,0,0.0
+disease_MS,Multiple sclerosis,True,511,0,0,0,0.0
+disease_myalgic_encephalomyelitis,Myalgic encephalomyelitis,True,122,0,0,0,0.0
+disease_PD,Parkinson's disease,True,237,0,0,0,0.0
+disease_RA,Rheumatoid arthritis,True,132,0,0,0,0.0
+disease_ACVD,Atherosclerotic CVD,True,213,100,0,100,0.0
+disease_CDI,C. difficile infection,True,102,6,0,6,0.0
+disease_CMV,,False,1,0,0,0,0.0
+disease_IBD,Inflammatory bowel disease,True,369,82,0,82,0.0
+disease_wilson,,False,2,0,0,0,0.0

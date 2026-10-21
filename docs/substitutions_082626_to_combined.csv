@@ -1,0 +1,26 @@
+doc,anchor,find,replace,tag,note
+main,broadest human metagenome datasets to date,"18,176","18,199",cohort_pre_reinstatement_samples,Abstract cohort N
+main,broadest human metagenome datasets to date,43 countries,43 countries,-,unchanged under combined; kept for the audit trail
+main,Our database consists of,"18,176","18,199",cohort_pre_reinstatement_samples,Results para 1
+main,Our database consists of,403 were classified,404 were classified,n_samples_H-G,Results para 1
+main,Our database consists of,"3,696 as agro-pastoralist","3,697 as agro-pastoralist",n_samples_Transitional,Results para 1
+main,Our database consists of,"14,077 as industrial","14,098 as industrial",n_samples_Industrial,Results para 1
+main,hunter-gatherer and agro-pastoralist populations have generally been sequenced,6.31±0.28,7.13±0.32,depth_mean_se_H-G,Results para 3 depth
+main,hunter-gatherer and agro-pastoralist populations have generally been sequenced,2.94±0.03,3.31±0.04,depth_mean_se_Transitional,Results para 3 depth
+main,hunter-gatherer and agro-pastoralist populations have generally been sequenced,1.67±0.01,1.98±0.01,depth_mean_se_Industrial,Results para 3 depth
+main,reference-based framework,ρ = 0.696,ρ = 0.687,log10_total_bp_vs_richness_spearman_all_10pct,Results para 3 correlation
+main,reference-based framework,"N = 18,176","N = 18,199",cohort_pre_reinstatement_samples,Results para 3 correlation
+main,industrial guts exhibiting,63±2%,62±2%,richness_ratio ind_vs_ni 10pct,permanova_all.csv; regenerate the +/- half-width
+main,persistent CV values of,0.27–0.45,0.29–0.45,depthbin_cv_mean_*,Results para 17; combined lowers the HG bound
+main,median within-group Jaccard similarity,"0.19, 0.18, and 0.19","0.21, 0.18, and 0.18",within_jaccard_similarity_*_10pct,Results para 17 medians
+main,When pooling across the full industrial cohort,"14,077","14,098",n_samples_Industrial,Results pooled cohort
+main,while 63 of the 63 BloSSUM taxa were detected,"4,099","4,101",non-industrial cohort,Results pooled NI cohort
+main,curated metadata for the,"18,176","18,199",cohort_pre_reinstatement_samples,Data availability
+main,Global distribution of human metagenome studies,"18,176","18,199",cohort_pre_reinstatement_samples,Figure 1 caption
+methods,This pipeline yielded a final analytic cohort,"18,176","18,199",cohort_pre_reinstatement_samples,Methods cohort
+methods,This pipeline yielded a final analytic cohort,"14,077","14,098",n_samples_Industrial,Methods cohort
+methods,This pipeline yielded a final analytic cohort,"4,099","4,101",non-industrial cohort,Methods cohort
+methods,This pipeline yielded a final analytic cohort,403,404,n_samples_H-G,Methods cohort
+methods,This pipeline yielded a final analytic cohort,"3,696","3,697",n_samples_Transitional,Methods cohort
+methods,Sequencing depth was strongly associated with recoverable richness,ρ = 0.696,ρ = 0.687,log10_total_bp_vs_richness_spearman_all_10pct,Methods GMW
+methods,Sequencing depth was strongly associated with recoverable richness,"N = 18,176","N = 18,199",cohort_pre_reinstatement_samples,Methods GMW

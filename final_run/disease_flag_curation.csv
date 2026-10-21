@@ -1,0 +1,437 @@
+Chosen_match_ID,StudyFolder,column,old,new,action,reason
+ERR688528,FengQ_2015_AUT,disease_hypertension,,Yes,add,free-text disease field says 'hypertension'
+ERR688528,FengQ_2015_AUT,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR688543,FengQ_2015_AUT,disease_fatty_liver,,Yes,add,free-text disease field says 'fatty_liver'
+ERR688543,FengQ_2015_AUT,disease_hypertension,,Yes,add,free-text disease field says 'hypertension'
+ERR688543,FengQ_2015_AUT,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR688591,FengQ_2015_AUT,disease_fatty_liver,,Yes,add,free-text disease field says 'fatty_liver'
+ERR688591,FengQ_2015_AUT,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR688624,FengQ_2015_AUT,disease_fatty_liver,,Yes,add,free-text disease field says 'fatty_liver'
+ERR688624,FengQ_2015_AUT,disease_hypertension,,Yes,add,free-text disease field says 'hypertension'
+ERR688624,FengQ_2015_AUT,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR710427,FengQ_2015_AUT,disease_hypertension,,Yes,add,free-text disease field says 'hypertension'
+ERR710427,FengQ_2015_AUT,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR710428,FengQ_2015_AUT,disease_fatty_liver,,Yes,add,free-text disease field says 'fatty_liver'
+ERR710428,FengQ_2015_AUT,disease_hypertension,,Yes,add,free-text disease field says 'hypertension'
+ERR710428,FengQ_2015_AUT,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260269,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260269,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260272,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260272,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260275,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260275,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260257,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260257,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260262,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260262,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260233,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260233,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260237,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260237,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260247,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260247,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260248,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260248,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260132,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260132,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260134,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260134,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260135,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260135,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260137,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260137,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260141,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260141,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260142,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260142,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260143,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260143,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260146,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260146,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260160,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260160,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260164,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260164,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260168,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260168,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260183,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260183,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260184,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260184,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260187,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260187,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260195,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260195,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260197,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260197,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260200,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260200,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR275251,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR275251,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260211,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260211,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260219,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260219,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR260220,KarlssonFH_2013_SWE,disease_IGT,,Yes,add,free-text disease field says 'igt'
+ERR260220,KarlssonFH_2013_SWE,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209579,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209579,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209583,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209583,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209584,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209584,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209589,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209589,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209600,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209600,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209587,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209587,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209590,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209590,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209593,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209593,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209596,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209596,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209599,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209599,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209601,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209601,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209603,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209603,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209604,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209604,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209607,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209607,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209608,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209608,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209609,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209609,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209614,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209614,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209613,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209613,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209632,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209632,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209646,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209646,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209709,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209709,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209715,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209715,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209739,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209739,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209743,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209743,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209749,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209749,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209759,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209759,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209770,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209770,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209773,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209773,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209774,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209774,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209777,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209777,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209815,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209815,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209816,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209816,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209818,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209818,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209828,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209828,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209835,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209835,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209837,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209837,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209840,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209840,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209850,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209850,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209839,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209839,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209848,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209848,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209853,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209853,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209857,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209857,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209859,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209859,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209860,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209860,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209876,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209876,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209862,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209862,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209863,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209863,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209865,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209865,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209867,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209867,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209871,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209871,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209874,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209874,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209879,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209879,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209884,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209884,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209887,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209887,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209890,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209890,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR209894,NielsenHB_2014_DNK,disease_IBD,,Yes,add,free-text disease field says 'ibd'
+ERR209894,NielsenHB_2014_DNK,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR413758,QinJ_2012_CHN,disease_T2D,,Yes,add,free-text disease field says 't2d'
+SRR413758,QinJ_2012_CHN,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR413768,QinJ_2012_CHN,disease_T2D,,Yes,add,free-text disease field says 't2d'
+SRR413768,QinJ_2012_CHN,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292843,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292843,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293454,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293454,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293248,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293248,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292876,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292876,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292787,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292787,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293332,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293332,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292986,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292986,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292984,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292984,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292735,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292735,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292739,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292739,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293353,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293353,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293351,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293351,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293349,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293349,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293357,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293357,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292910,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292910,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292904,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292904,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292826,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292826,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293281,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293281,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292721,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292721,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292711,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292711,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292682,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292682,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292930,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292930,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292928,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292928,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293373,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293373,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293165,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293165,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293393,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293393,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292959,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292959,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293098,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293098,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9292854,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9292854,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293039,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293039,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293263,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293263,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293102,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293102,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293206,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293206,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293422,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293422,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+SRR9293015,RubelMA_2020_CMR,disease_STH,,Yes,add,free-text disease field says 'sth'
+SRR9293015,RubelMA_2020_CMR,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR2726410,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERR2726410,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637800,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637800,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637811,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637811,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR2726448,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERR2726448,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637824,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637824,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637838,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637838,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR2726488,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERR2726488,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637847,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637847,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR2726501,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERR2726501,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR2726503,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERR2726503,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637857,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637857,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637860,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637860,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERS2637862,WirbelJ_2018_DEU,disease_CRC,,Yes,add,free-text disease field says 'crc'
+ERS2637862,WirbelJ_2018_DEU,Unhealthy,Healthy,Unhealthy,add,a condition is now recorded for this sample
+ERR321618,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321619,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321620,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321621,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321622,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321623,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321624,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321625,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321626,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321627,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321628,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321629,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321630,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321631,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321632,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321633,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321634,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321635,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321636,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321637,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321638,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321639,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321640,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321641,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321642,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321643,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321644,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321645,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321646,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321647,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321648,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321649,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321650,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321651,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321652,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321653,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321654,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321655,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+ERR321656,LeChatelierE_2013_DNK,disease_melanoma,Yes,,drop,obesity/gene-richness cohort; melanoma is the only disease flag in the study and the free-text field is blank
+SRR3737010,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737031,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917697,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737011,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736986,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917698,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737012,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736987,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917587,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737013,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736988,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917608,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737014,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736989,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917619,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737015,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736990,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917627,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736991,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917648,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737017,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736993,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917665,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737018,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736994,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917686,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737020,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736995,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917687,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737022,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736996,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917688,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737023,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736998,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917689,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737024,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3736999,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3917691,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR3737025,Macdonaldo-GomezMX_2016_USA,disease_melanoma,Yes,,drop,"melanoma is the only disease flag in the study, every flagged sample is labelled healthy, and the free-text field is blank"
+SRR2938177,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938178,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938179,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938180,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938181,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938182,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938183,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938187,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938188,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938189,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938190,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938191,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938192,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938193,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938194,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938195,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938196,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2937619,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938198,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2937620,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2937621,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2937622,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938197,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938199,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938200,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938201,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938202,PehrssonEC_2016,disease_melanoma,Yes,,drop,antibiotic-resistance/habitat study; free-text field says healthy for all 178 samples
+SRR2938177,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938179,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938182,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938188,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938189,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938192,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938196,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2937619,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2938198,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2937620,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR2937622,PehrssonEC_2016,disease_melanoma_surgery,Yes,,drop,same misassignment as disease_melanoma in this study
+SRR514268,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804649,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR513170,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804539,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804489,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR511293,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804482,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804455,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR514192,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804471,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR513378,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR513442,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804541,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1803358,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR628277,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR514193,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804538,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1803355,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1803993,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR513174,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804310,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804323,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR512794,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1031694,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1031082,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804119,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804438,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1031861,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804756,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804585,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804137,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804396,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy
+SRR1804148,HMP_2012_USA,disease_CDI,Yes,,drop,screened-healthy reference cohort; CDI is the only disease flag and every flagged sample is labelled healthy

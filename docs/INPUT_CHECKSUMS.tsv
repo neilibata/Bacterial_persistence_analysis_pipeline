@@ -1,0 +1,31 @@
+# Checksums of the nine inputs the reported run (2026-10-16/17) consumed.
+#
+# attested_by says how strongly each line is tied to that run:
+#
+#   run_manifest  this exact sha256 is recorded in the run's own
+#                 verification_manifest.json, so the file is provably the
+#                 one that produced the reported results.
+#   run_shape     the run's log records this matrix's shape (see
+#                 run_logged_shape, samples x SGBs) and the local file has
+#                 exactly that shape and this size. Strong, but a shape is
+#                 not a checksum: the run hashes only the reported
+#                 reference's matrices, so no sha256 exists on that side.
+#   local_only    hashed here from the same tree, with nothing on the run
+#                 side to compare against.
+#
+# Columns of a mean-and-std matrix come in pairs, so a logged SGB count is
+# half the CSV's column count.
+#
+# Regenerating the run would NOT strengthen this: it would consume these
+# same files, and verify_reproducibility.py records only the reported
+# reference's external inputs.
+path	bytes	md5	sha256	attested_by	run_logged_shape
+combined_coverage_matrix_20260820.csv	3057126187	946da2dbca9690b518b5387dc70d0ab7	d5809f4e15572ee7a4a71881a7b4495a0e7add4075831537dea4be1636b291da	run_manifest	24173x5081
+combined_depth_matrix_20260820.csv	3105134567	179e011969c46ba493871827794b514b	7081e0427281d63ebf5e60c19c1366c59f655ba39e586692089d1706aa5aec15	run_manifest	24173x5081
+final_run/metadata_M1.csv	9664154	823b8db06787b31c02a73c840cd5bef3	06031e18894a6354d09a71df7e68a2b8fcbe3a8c0c1690e12881c64c2e0ed346	run_manifest	
+meancoverage_and_std_matrix_high_UHGG_20260820.csv	2416194054	b401a10062b4e96e2aecb2defc33a303	2c235af380356a3c358e7e2d1b73e39569284441fff98182f71ce0c42bc0e903	run_shape	24196x3971
+meancoverage_and_std_matrix_high_chimp_merged.csv	217656049	ae5457688ef48e751c4f96c0afbb6dd3	8af5a5dc6cdac603a8233cd61fa04298ceaef81582d46c052c458bed4ed6c62a	run_shape	5284x1682
+meancoverage_and_std_matrix_high_lev_20260820.csv	2188823811	3d5d1c8bd5b315944e3dc20e7ee77e52	4132adb9001bfb249ad47482b9bd54362226657e007fc9bb95573e692761dbef	run_shape	24572x3594
+meandepth_and_std_matrix_high_UHGG_20260820.csv	2453292927	c2880af21ef7b3bc0831dbb3ee854e04	98250b3ef52b3f955848125e991171d6fe86f276d2801b53b388b0f24cdd073f	run_shape	24196x3971
+meandepth_and_std_matrix_high_chimp_merged.csv	221199808	b42a8851780c8d7592d062ec664ae7d9	ebee5986735f2d918633abad5f4f79d6b147dcdc4fc1393644d41cb9c983451e	run_shape	5284x1682
+meandepth_and_std_matrix_high_lev_20260820.csv	2226195510	ac34263424a1945b86450c22be8d685a	473e4d21d49022a0d7f6c5f5612693b325b8c91ce65fdd77422e1f214a3da71c	run_shape	24572x3594

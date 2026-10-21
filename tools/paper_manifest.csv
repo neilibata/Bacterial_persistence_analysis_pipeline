@@ -1,0 +1,61 @@
+# Paper-outputs manifest for the Microbiome Extinctions pipeline.
+# PIPE-DELIMITED ('|'). Lines starting with '#' are comments.
+# Columns: item_id | category | reference | source_glob | paper_name | description | confidence
+#
+# Figure_A* are the SOURCE DOCUMENT's Additional Figure numbers, which is
+# what this file records the provenance of. They are NOT the submission's
+# supplementary figure numbers. Those live in
+# tools/additional_figures_manifest.txt, which is the only authority on
+# them. A1..A31 mapped one-to-one onto S1..S31 until 2026-10-19, when two
+# figures moved to where they are first cited (S5 -> S14 with S6..S14 ->
+# S5..S13, and S30 -> S26 with S26..S29 -> S27..S30). The mapping is a
+# permutation from that date, so Figure_A5 is supplementary figure S14,
+# Figure_A6 is S5, and so on: do not read A_n as S_n.
+#
+#   category   : main | metadata | additional | supp_table  (-> output subfolder)
+#   reference  : figures (main_text_figures/) | metadata_summary/ | UHGG | lev | combined | chimp | root | none
+#                => the base directory the source_glob is resolved against
+#                   (ref names resolve under results/<reference>/)
+#   source_glob: shell glob relative to that base; '*' allowed. Empty for pure 'none' rows.
+#   paper_name : output filename STEM; the file's original extension is preserved.
+#   confidence : high         -> copied into its category folder
+#                needs_review -> copied into _needs_review/ (candidate for you to confirm)
+#
+# Variant rule: figures use the '_medium' font variant (matching the manuscript, NOT '_large').
+# Additional-figure rows are VERIFIED by image correlation against the .docx figures
+# (tools/verify_figures.py); the [verified N.NN] tag is the match score. Rows marked
+# needs_review either could not be verified (A6-A9 are vector EMF in the .docx) or do NOT
+# match any pipeline output (A15/A16/A17/A19/A21/A25/A26 are hand-assembled composites or
+# analyses not currently produced).
+#
+#
+# The supplementary figures are NOT listed here. They were, on the retired
+# Figure_A1..A31 numbering, pointing at paths the pipeline no longer writes;
+# nothing read those rows and they were removed on 2026-10-20. The figures
+# are defined by tools/additional_figures_manifest.txt (slot -> output), and
+# docs/code_map.md and docs/naming_crosswalk.md are generated from it.
+
+item_id|category|reference|source_glob|paper_name|description|confidence
+# ---- Main figures (assembled composites) ----
+Figure_1|main|figures|figure1.*|Figure_1_global_distribution|Global distribution of metagenome studies (Equal Earth map)|high
+Figure_2|main|figures|figure2.*|Figure_2_diversity_composition|Gut microbiota diversity and composition across lifestyles|high
+Figure_3|main|figures|figure3.*|Figure_3_accumulation_richards|SGB accumulation curves (Richards) across references|high
+Figure_4|main|figures|figure4.*|Figure_4_differential_prevalence|Differential prevalence of VANISH/BloSSUM taxa|high
+Figure_5|main|figures|figure5.*|Figure_5_health_associations|Host health vs microbial richness and list prevalence|high
+# ---- Metadata tables M1-M3 (build M2/M3 with tools/build_metadata_tables.py) ----
+Metadata_M1|metadata|root|metadata_M1.csv|Metadata_Table_M1_samples|Curated per-sample metadata (18,048 samples; SRA-enriched read length/count)|high
+Metadata_M1_per_study|metadata|UHGG|section1_diversity/supplement/per_study_metadata.csv|Metadata_Table_M1_per_study|Per-study rollup of M1 (author/country/N/depth/lifestyle)|high
+Metadata_M2|metadata|root|metadata_M2.xlsx|Metadata_Table_M2_reference_catalogues|Reference-catalogue metadata for all three catalogues (Carter/UHGG, Leviatan, Combined): clustering, cross-ANI, GTDB, genome lengths|high
+Metadata_M3|metadata|root|metadata_M3.xlsx|Metadata_Table_M3_taxon_lists|VANISH/BloSSUM taxon-list metadata: six list families x two references, membership, taxonomy, pairwise overlaps|high
+# ---- Additional figures A1-A32 (supplementary figures; mostly Carter/UHGG) ----
+# ---- Supplementary tables S1-S10 ----
+Table_S1|supp_table|UHGG|table_s1a_study_summary_formatted.csv|Table_S1_study_summary|High-level per-study summary of included studies|high
+Table_S2|supp_table|none||Table_S2_exclusion_cascade|Cohort derivation and exclusion cascade - assembled from run stats, not a standalone CSV|needs_review
+Table_S3|supp_table|none||Table_S3_figure_cohorts|Figure-specific cohort matrix - not a standalone pipeline output|needs_review
+Table_S4|supp_table|root|combined_sgb_metadata.xlsx|Table_S4_reference_catalogues|Comparison of Carter/UHGG and Leviatan catalogues (headline counts, cross-ANI, GTDB phyla)|high
+Table_S5|supp_table|combined|section2_differential/supplement/table_s5_overlap_summary.csv|Table_S5_list_overlap|Pairwise overlap between VANISH/BloSSUM list families|high
+Table_S6|supp_table|combined|section2_differential/main/macro_pooling_detection_10pct.csv|Table_S6_detection_stats|Detection statistics across thresholds for VANISH/BloSSUM (per-threshold pooling; confirm)|needs_review
+Table_S7|supp_table|combined|section2_differential/main/*detection_pooling_*10pct.csv|Table_S7_vanish_blossum_absences|Pooled detection/absence of original VANISH & BloSSUM taxa across sample pooling (main pipeline, 10% threshold)|high
+Table_S8|supp_table|combined|section2_differential/main/extinction_candidates_vanish_blossum_plus_30pct.csv|Table_S8_rare_plus_taxa|VANISH+/BloSSUM+ SGBs not found in >3 samples (30% variant; 10% not emitted)|high
+Table_S9|supp_table|none||Table_S9_health_cohorts|Per-condition health case/control cohort summary - not emitted as a standalone CSV|needs_review
+Table_S10|supp_table|UHGG|section3_health/main/health_per_condition_cmh_10pct.csv|Table_S10_cmh_counts|GMW-CMH depleted/enriched taxa counts per list and condition|high

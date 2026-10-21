@@ -1,0 +1,30 @@
+# Versions the pipeline was validated on.
+# Python 3.11.11  (conda env 'plotting_env')
+# requirements.txt is unpinned; use THIS file on another machine so a
+# fresh install does not silently pull numpy 2.x or a newer pandas.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.1
+matplotlib==3.10.0
+openpyxl==3.1.5
+Pillow==10.3.0
+seaborn==0.13.2
+scikit-learn==1.7.1
+statsmodels==0.14.4
+joblib==1.4.2
+patsy==0.5.6
+shapely==2.0.7
+# cartopy  -- listed in requirements.txt but NOT installed in the
+#             validated env and not used by the pipeline. Needs GEOS/PROJ
+#             system libs; installing it is the likeliest way to break setup.
+
+# Map figures. geopandas is REQUIRED for Figure 1 and the Equal Earth maps; a
+# missing geopandas now stops the figure with an error rather than skipping it.
+# The Natural Earth basemap is bundled in figures/basemap/ -- it used to be found
+# inside pyogrio's test fixtures, which a fresh pip install may not have, and
+# Figure 1 then failed without stopping the run. pyogrio is pinned to the
+# version the pipeline was validated with (geopandas' default I/O engine).
+# `python tools/preflight.py` checks all of this before a run.
+geopandas==1.0.1
+pyogrio==0.10.0
+plotly==6.5.0

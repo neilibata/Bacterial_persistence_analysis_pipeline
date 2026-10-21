@@ -1,0 +1,1381 @@
+case,Chosen_match_ID,Author,Year,Country,flags_set,Diseased,Diseased_all,gut_metabolic,other,Unhealthy,MBIOTEMP
+flag_set_but_Diseased_all_not_positive,ERS1444547,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444549,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444551,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444553,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444555,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444557,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444559,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444563,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444565,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444567,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444571,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444575,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444577,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444579,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444581,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444585,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444587,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444589,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444593,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444595,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERS1444597,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444599,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444601,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERS1444603,CosteaPI,2017,KAZ,disease_acute_diarrhoea,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR866565,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866566,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866567,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866568,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866569,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866570,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866571,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866572,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866573,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866574,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866576,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866577,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866578,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866579,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866580,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866588,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866590,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866593,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866597,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866598,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866599,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866600,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866604,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,ERR866605,DavidLA,2015,BGD,disease_acute_diarrhoea,Yes,,No,No,Healthy,acute_diarrhoea
+flag_set_but_Diseased_all_not_positive,SRR203323,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR203321,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR203317,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR203320,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR688506,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Unhealthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688507,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688509,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688510,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Unhealthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688514,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688516,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688520,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688523,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688533,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688544,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688550,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688551,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688552,FengQ,2015,AUT,disease_fatty_liver,Yes,No,No,No,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688554,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688557,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688561,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Unhealthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688565,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Unhealthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688566,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Unhealthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,ERR688590,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688593,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Healthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688594,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688598,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688600,FengQ,2015,AUT,disease_fatty_liver,Yes,No,No,No,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688603,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688606,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688608,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688612,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Unhealthy,fatty_liver;hypertension
+flag_set_but_Diseased_all_not_positive,ERR688614,FengQ,2015,AUT,disease_fatty_liver,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR688616,FengQ,2015,AUT,disease_hypertension,Yes,No,No,No,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688617,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR688619,FengQ,2015,AUT,disease_fatty_liver; disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5650135,HallAB,2017,USA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,SRR5650169,HallAB,2017,USA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,SRR5650045,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651397,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651426,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651425,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651424,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651423,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651422,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651421,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651430,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651429,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651441,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651442,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651443,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651444,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651445,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651446,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651447,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651448,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651449,HallAB,2017,USA,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5651479,HallAB,2017,USA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,SRR5665117,HanniganGD,2017,CAN,disease_adenoma,Yes,,Yes,No,Unhealthy,adenoma
+flag_set_but_Diseased_all_not_positive,SRR5665024,HanniganGD,2017,USA,disease_CRC,Yes,,Yes,No,Unhealthy,CRC
+flag_set_but_Diseased_all_not_positive,ERR1620360,HeQ,2017,CHN,disease_CMV; disease_coeliac; disease_gestational_diabetes,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR1620362,HeQ,2017,CHN,disease_coeliac; disease_irritable_bowel,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR514268,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804649,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR513170,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804539,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804489,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR511293,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804482,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804455,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR514192,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804471,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR513378,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR513442,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804541,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1803358,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR628277,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR514193,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804538,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1803355,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1803993,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR513174,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804310,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804323,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR512794,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1031694,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1031082,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804119,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804438,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1031861,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804756,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804585,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804137,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804396,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR1804148,HMP,2012,USA,disease_CDI,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR9707213,IaniroG,2022,ITA,disease_CDI,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR9708128,IaniroG,2022,ITA,disease_CDI,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR9707186,IaniroG,2022,ITA,disease_CDI,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR9707203,IaniroG,2022,ITA,disease_CDI,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR9707206,IaniroG,2022,ITA,disease_CDI,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR9707208,IaniroG,2022,ITA,disease_CDI,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR9709312,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709294,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709293,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709319,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709317,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709323,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709353,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709504,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709321,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709364,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709352,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709457,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709437,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709354,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709357,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709419,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709355,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709360,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+flag_set_but_Diseased_all_not_positive,ERR9709417,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709458,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709454,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709460,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709435,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709418,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR9709445,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR9709442,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709453,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709450,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR9709451,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR9709452,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709455,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709443,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR9709447,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR9709501,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR9709530,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+flag_set_but_Diseased_all_not_positive,ERR1776143,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776102,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776103,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776197,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776113,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776120,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776118,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776119,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776131,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776121,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776122,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776123,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776140,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776141,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776148,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776145,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776146,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776147,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776156,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776149,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776150,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776151,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776152,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776153,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776184,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR1776186,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR6996347,iMSMS,2022,GBR,disease_MS,,,No,Yes,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR13378581,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378580,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378578,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378577,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378576,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378575,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378574,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378573,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378569,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378567,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378566,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378565,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378564,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378563,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR13378562,JacobsonDK,2021,BFA,disease_ACVD,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR2017573,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017572,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017571,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017570,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017569,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017567,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017566,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017565,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017563,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017562,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017561,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017560,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017559,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017558,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017557,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017556,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017555,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017554,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017553,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017552,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017551,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017550,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017549,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017548,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017547,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017546,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017545,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017544,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017543,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017542,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017541,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017540,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017539,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017538,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017537,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017536,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017535,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017534,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017533,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017530,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017529,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017527,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017525,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017523,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017522,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017519,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017521,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017528,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017526,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017524,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017520,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017461,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017518,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017500,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017491,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017471,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017470,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017469,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017468,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017467,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017466,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017465,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017464,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017463,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017462,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017421,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017420,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017419,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017418,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017417,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017416,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017415,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017414,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017413,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017412,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017411,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017472,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017473,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017474,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017475,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017477,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017478,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017479,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017481,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017482,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017483,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017484,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017485,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017486,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017487,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017489,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017490,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017503,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017504,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017506,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017507,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017508,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017510,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017512,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017513,JieZ,2017,CHN,disease_ACVD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2017516,JieZ,2017,CHN,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260249,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260250,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260251,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260252,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260253,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260254,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260255,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260256,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260259,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260260,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260263,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260264,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260266,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260228,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260232,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260234,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260236,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260242,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260246,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR260133,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260138,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260145,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Unhealthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260148,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Unhealthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260156,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260158,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260172,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,IGT
+flag_set_but_Diseased_all_not_positive,ERR260180,KarlssonFH,2013,SWE,disease_IGT,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR275252,KarlssonFH,2013,SWE,disease_T2D,No,No,No,No,Healthy,T2D
+flag_set_but_Diseased_all_not_positive,SRR3724049,KliminaKM,2019,RUS,disease_T2D,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321618,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321619,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321620,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321621,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321622,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321623,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321624,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321625,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321626,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321627,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321628,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321629,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321630,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321631,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321632,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321633,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321634,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321635,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321636,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321637,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321638,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321639,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321640,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321641,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321642,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321643,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321644,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321645,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321646,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321647,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321648,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321649,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321650,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321651,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321652,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321653,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321654,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR321655,LeChatelierE,2013,DNK,disease_melanoma; disease_treatment_colitis,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR321656,LeChatelierE,2013,DNK,disease_melanoma,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR6243878,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6235717,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6235716,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6239139,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6236131,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6235718,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6233693,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6233692,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232687,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6232688,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6233694,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232529,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232686,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232528,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232526,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6232525,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232523,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232521,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232522,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232527,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232518,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6232425,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232458,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232382,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6231548,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6232524,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6231616,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6230278,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6230340,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6230326,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6231475,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+flag_set_but_Diseased_all_not_positive,ERR6233695,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6230245,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6275682,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6275683,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6275678,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6275679,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6275680,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6275676,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERR6279672,LeeKA,2022,GBR,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+flag_set_but_Diseased_all_not_positive,ERS396295,LiJ,2014,DNK,disease_T2D,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR1398160,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR1398200,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR1398129,LiJ,2017,CHN,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR1398102,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR1398257,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,ERR1398147,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+flag_set_but_Diseased_all_not_positive,FAT_DON_11-22-0-4,LiSS,2016,NLD,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,FAT_DON_11-22-0-5,LiSS,2016,NLD,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,FAT_DON_11-22-0-6,LiSS,2016,NLD,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,FAT_DON_19-22-0-0,LiSS,2016,NLD,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,FAT_DON_8-22-0-0,LiSS,2016,NLD,disease_hypertension,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR5950616,Lloyd-PriceJL,2019,USA,disease_Crohn's,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR5935953,Lloyd-PriceJL,2019,USA,disease_Crohn's,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR2619713,LokmerA,2019,CMR,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619719,LokmerA,2019,CMR,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619763,LokmerA,2019,CMR,disease_ME_CFS,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619727,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619729,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619731,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619732,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619733,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619734,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619735,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619736,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619737,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619738,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619739,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619740,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619741,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619742,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619743,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619744,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619745,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619746,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619747,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619748,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619749,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619750,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619751,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619753,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619754,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619755,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619757,LokmerA,2019,CMR,disease_STEC,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619759,LokmerA,2019,CMR,disease_fatty_liver,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619760,LokmerA,2019,CMR,disease_fatty_liver,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2619761,LokmerA,2019,CMR,disease_fatty_liver,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR262944,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+flag_set_but_Diseased_all_not_positive,ERR260485,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+flag_set_but_Diseased_all_not_positive,ERR260490,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+flag_set_but_Diseased_all_not_positive,ERR260496,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+flag_set_but_Diseased_all_not_positive,ERR262957,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+flag_set_but_Diseased_all_not_positive,ERR260506,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+flag_set_but_Diseased_all_not_positive,SRR5275423,LoombaR,2017,USA,disease_fatty_liver,Yes,,No,Yes,Unhealthy,fatty_liver
+flag_set_but_Diseased_all_not_positive,SRR3737010,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737031,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917697,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737011,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736986,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917698,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737012,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736987,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917587,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737013,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736988,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917608,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737014,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736989,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917619,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737015,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736990,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917627,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736991,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917648,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737017,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736993,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917665,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737018,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736994,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917686,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737020,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736995,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917687,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737022,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736996,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917688,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737023,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736998,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917689,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737024,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3736999,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3917691,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR3737025,Macdonaldo-GomezMX,2016,USA,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR6451735,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451721,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451720,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451723,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451717,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451716,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451715,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451714,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6038488,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451755,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6038377,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6038378,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6038381,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451775,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451781,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451780,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6451817,MehtaRS,2018,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784594,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784591,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784587,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784585,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784583,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784579,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784576,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784574,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784414,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784571,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784570,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784406,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784567,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784566,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784564,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784560,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784559,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784554,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784553,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784548,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR6784543,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784542,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784539,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784538,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784537,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784536,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784533,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784532,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784530,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,SRR6784517,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+flag_set_but_Diseased_all_not_positive,ERS328786,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328787,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328788,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328789,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328791,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328795,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328796,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328797,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328798,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERS328799,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321252,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321261,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321398,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321462,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321471,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321480,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321483,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321484,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321485,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209473,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321487,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321488,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321489,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321491,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321492,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321497,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321520,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321521,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321522,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321523,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321529,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321530,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321532,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321542,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR321543,NielsenHB,2014,DNK,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209529,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209536,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209531,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209533,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209534,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209537,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209538,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209540,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209543,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209544,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209546,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209547,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209549,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209550,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209553,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209554,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209556,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209560,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209569,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209558,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209563,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209566,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209567,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209570,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209573,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209574,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209576,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209578,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209580,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209581,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209582,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209619,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209616,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209617,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209618,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209620,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209621,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209623,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209626,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209629,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209635,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209637,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209640,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209643,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209655,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209644,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209648,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209650,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209656,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209657,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209666,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209667,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209671,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209674,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209675,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209678,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209681,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209679,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209684,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209688,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209691,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209693,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209694,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209695,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209697,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209699,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209701,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209703,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209705,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209707,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209711,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209713,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209717,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209720,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209721,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209723,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209722,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209730,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209732,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209734,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209741,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209746,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209747,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209756,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209755,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209758,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209762,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209763,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209765,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209767,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209769,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR210633,NielsenHB,2014,ESP,disease_Ulcerative_colitis; disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209783,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209786,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209788,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209800,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209789,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209792,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209793,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209796,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209797,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Unhealthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209802,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209804,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209806,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209808,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,ERR209809,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209810,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209812,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209814,NielsenHB,2014,ESP,disease_IBD,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR209830,NielsenHB,2014,ESP,disease_IBD,Yes,,No,No,Healthy,IBD
+flag_set_but_Diseased_all_not_positive,SRR2938177,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938178,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938179,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938180,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938181,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938182,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938183,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938187,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938188,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938189,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938190,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938191,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938192,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938193,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938194,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938195,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938196,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2937619,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938198,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2937620,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2937621,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2937622,PehrssonEC,2016,SLV,disease_melanoma; disease_melanoma_surgery; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938197,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938199,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938200,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938201,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR2938202,PehrssonEC,2016,SLV,disease_melanoma; disease_metastases,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527139,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR528331,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR528332,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR528333,QinN,2014,CHN,disease_ascites; disease_schistosoma,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR528334,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR528335,QinN,2014,CHN,disease_ascites; disease_hepatitis; disease_schistosoma,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR528336,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527006,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527007,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527009,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527010,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527012,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527014,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527016,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527017,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527018,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527020,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527022,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527023,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527025,QinN,2014,CHN,disease_ascites,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527026,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527027,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527028,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527029,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527030,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527031,QinN,2014,CHN,disease_ascites,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527034,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527035,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527036,QinN,2014,CHN,disease_ascites,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527037,QinN,2014,CHN,disease_ascites; disease_hepatitis; disease_schistosoma,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527039,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527040,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527041,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527042,QinN,2014,CHN,disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527044,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR527045,QinN,2014,CHN,disease_ascites; disease_hepatitis,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR12933924,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12933919,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR12933905,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12933870,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12933861,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12933857,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12933844,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12933804,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12934139,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12934121,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR12934112,RettedalAE,2021,NZL,disease_STH,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,SRR9293405,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293345,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9292789,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293128,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR9293125,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9292891,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9292885,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293432,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR9293436,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR9293236,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR9292881,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293118,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9292783,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293064,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293076,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9292677,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293369,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9293220,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,STH
+flag_set_but_Diseased_all_not_positive,SRR9292707,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR9292812,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR9293158,RubelMA,2020,CMR,disease_STH,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,SRR19064878,WallenZD,2022,USA,disease_PD,,,No,Yes,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR19064596,WallenZD,2022,USA,disease_PD,,,No,Yes,Unhealthy,
+flag_set_but_Diseased_all_not_positive,SRR19064800,WallenZD,2022,USA,disease_PD,,,No,Yes,Unhealthy,
+flag_set_but_Diseased_all_not_positive,DRR171638,YachidaS,2019,JPN,disease_CRC,,,Yes,No,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR589485,ZhangX,2015,CHN,disease_RA,,,No,Yes,Unhealthy,
+flag_set_but_Diseased_all_not_positive,ERR589839,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589845,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589846,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589847,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589848,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589849,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589850,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589857,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589858,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589859,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589860,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589861,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589862,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589863,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589864,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589865,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589866,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589867,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589868,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589869,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR589871,ZhangX,2015,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,
+flag_set_but_Diseased_all_not_positive,ERR2855881,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855896,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855921,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855933,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855914,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855839,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855929,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855792,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855804,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855944,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855953,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855812,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855901,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855934,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855870,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855851,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855856,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855907,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855786,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855803,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855877,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855844,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855794,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855857,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855826,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855924,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855814,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855882,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855858,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855852,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855863,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855875,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855926,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855939,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855789,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855796,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855850,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855838,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855935,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855868,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855951,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855825,ZhuF,2020,CHN,disease_schizofrenia,Yes,No,No,No,Healthy,healthy
+flag_set_but_Diseased_all_not_positive,ERR2855818,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855894,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855799,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855900,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855808,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855930,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855846,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855956,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855795,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855793,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855883,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855800,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855869,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+flag_set_but_Diseased_all_not_positive,ERR2855830,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,SRR203323,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR203321,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR203317,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR203320,BrownCT,2011,FIN,disease_T1D,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR5650135,HallAB,2017,USA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,SRR5650169,HallAB,2017,USA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,SRR5651479,HallAB,2017,USA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,SRR5665117,HanniganGD,2017,CAN,disease_adenoma,Yes,,Yes,No,Unhealthy,adenoma
+category_set_but_Diseased_all_not_positive,SRR5665024,HanniganGD,2017,USA,disease_CRC,Yes,,Yes,No,Unhealthy,CRC
+category_set_but_Diseased_all_not_positive,ERR9709312,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709294,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709293,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709319,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709317,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709323,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709353,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709504,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709321,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709364,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709352,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709457,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709437,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709354,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709357,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709419,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709355,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709360,IaniroG,2022,ITA,disease_CDI,Yes,,Yes,No,Unhealthy,CDI
+category_set_but_Diseased_all_not_positive,ERR9709417,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709458,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709454,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709460,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709435,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709418,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR9709445,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR9709442,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709453,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709450,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR9709451,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR9709452,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709455,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709443,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR9709447,IaniroG,2022,ITA,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR9709501,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR9709530,IaniroG,2022,ITA,disease_MDRB,Yes,,No,Yes,Unhealthy,MDRB
+category_set_but_Diseased_all_not_positive,ERR1776143,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776102,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776103,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776197,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776113,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776120,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776118,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776119,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776131,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776121,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776122,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776123,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776140,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776141,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776148,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776145,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776146,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776147,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776156,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776149,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776150,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776151,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776152,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776153,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776184,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR1776186,IjazUZ,2017,GBR,disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,ERR6996347,iMSMS,2022,GBR,disease_MS,,,No,Yes,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR3724049,KliminaKM,2019,RUS,disease_T2D,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,ERR6243878,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6235717,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6235716,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6239139,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6236131,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6235718,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6233693,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6233692,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232687,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6232688,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6233694,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232529,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232686,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232528,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232526,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6232525,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232523,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232521,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232522,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232527,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232518,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6232425,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232458,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232382,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6231548,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6232524,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6231616,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6230278,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6230340,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6230326,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6231475,LeeKA,2022,NLD,disease_melanoma; disease_treatment_colitis,Yes,,Yes,Yes,Unhealthy,melanoma;treatment_colitis
+category_set_but_Diseased_all_not_positive,ERR6233695,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6230245,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6275682,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6275683,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6275678,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6275679,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6275680,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6275676,LeeKA,2022,NLD,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERR6279672,LeeKA,2022,GBR,disease_melanoma,Yes,,No,Yes,Unhealthy,melanoma
+category_set_but_Diseased_all_not_positive,ERS396295,LiJ,2014,DNK,disease_T2D,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,ERR1398160,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+category_set_but_Diseased_all_not_positive,ERR1398200,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+category_set_but_Diseased_all_not_positive,ERR1398102,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+category_set_but_Diseased_all_not_positive,ERR1398257,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+category_set_but_Diseased_all_not_positive,ERR1398147,LiJ,2017,CHN,disease_hypertension,Yes,,No,Yes,Unhealthy,hypertension
+category_set_but_Diseased_all_not_positive,SRR5950616,Lloyd-PriceJL,2019,USA,disease_Crohn's,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR5935953,Lloyd-PriceJL,2019,USA,disease_Crohn's,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,ERR262944,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+category_set_but_Diseased_all_not_positive,ERR260485,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+category_set_but_Diseased_all_not_positive,ERR260490,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+category_set_but_Diseased_all_not_positive,ERR260496,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+category_set_but_Diseased_all_not_positive,ERR262957,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+category_set_but_Diseased_all_not_positive,ERR260506,LomanNJ,2013,DEU,disease_STEC,Yes,,Yes,No,Unhealthy,STEC
+category_set_but_Diseased_all_not_positive,SRR5275423,LoombaR,2017,USA,disease_fatty_liver,Yes,,No,Yes,Unhealthy,fatty_liver
+category_set_but_Diseased_all_not_positive,SRR6784543,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784542,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784539,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784538,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784537,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784536,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784533,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784532,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784530,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,SRR6784517,Nagy-SzakalD,2017,USA,disease_ME_CFS,Yes,,No,Yes,Unhealthy,ME/CFS
+category_set_but_Diseased_all_not_positive,ERR210633,NielsenHB,2014,ESP,disease_Ulcerative_colitis; disease_IBD,Yes,,Yes,No,Unhealthy,IBD
+category_set_but_Diseased_all_not_positive,SRR19064878,WallenZD,2022,USA,disease_PD,,,No,Yes,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR19064596,WallenZD,2022,USA,disease_PD,,,No,Yes,Unhealthy,
+category_set_but_Diseased_all_not_positive,SRR19064800,WallenZD,2022,USA,disease_PD,,,No,Yes,Unhealthy,
+category_set_but_Diseased_all_not_positive,DRR171638,YachidaS,2019,JPN,disease_CRC,,,Yes,No,Unhealthy,
+category_set_but_Diseased_all_not_positive,ERR589485,ZhangX,2015,CHN,disease_RA,,,No,Yes,Unhealthy,
+category_set_but_Diseased_all_not_positive,ERR2855881,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855796,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855850,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855818,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855894,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855799,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855900,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855808,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855930,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855846,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855956,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855795,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855793,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855883,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855800,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855869,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+category_set_but_Diseased_all_not_positive,ERR2855830,ZhuF,2020,CHN,disease_schizofrenia,Yes,,No,Yes,Unhealthy,schizofrenia
+Diseased_all_yes_but_Diseased_field_No,ERR688505,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688512,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR688524,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR688555,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688570,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR688572,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688576,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR688581,FengQ,2015,AUT,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688567,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688618,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR688621,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688623,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERR688625,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688626,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR688627,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688628,FengQ,2015,AUT,disease_T2D; disease_adenoma,No,Yes,Yes,No,Unhealthy,T2D;adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688629,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688630,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERR688631,FengQ,2015,AUT,disease_T2D; disease_adenoma,No,Yes,Yes,No,Unhealthy,T2D;adenoma;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR688632,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688633,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688634,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR688635,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR688636,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688637,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688638,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR688639,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR688640,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688641,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688642,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688643,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688644,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688645,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688647,FengQ,2015,AUT,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688648,FengQ,2015,AUT,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR688649,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR710424,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688650,FengQ,2015,AUT,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR688651,FengQ,2015,AUT,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR710425,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR710426,FengQ,2015,AUT,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D;fatty_liver
+Diseased_all_yes_but_Diseased_field_No,ERR710430,FengQ,2015,AUT,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,ERR710431,FengQ,2015,AUT,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma;fatty_liver;hypertension
+Diseased_all_yes_but_Diseased_field_No,SRR5665144,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665034,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665035,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665051,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665052,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665057,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665056,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665055,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665054,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665103,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665026,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665027,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665025,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665030,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665031,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665028,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665029,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665032,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665033,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665041,HanniganGD,2017,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR5665120,HanniganGD,2017,USA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665118,HanniganGD,2017,USA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665116,HanniganGD,2017,USA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665143,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665142,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665137,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665136,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665139,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665135,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665134,HanniganGD,2017,USA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665076,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665077,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665078,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665079,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665072,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665073,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665074,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665075,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,SRR5665080,HanniganGD,2017,CAN,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERR260271,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260273,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260241,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260165,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260166,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260169,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260176,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260178,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260181,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260185,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260186,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260189,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260190,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260191,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260192,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260194,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260196,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260198,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260199,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260201,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260202,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260203,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260206,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260207,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260208,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260210,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR260214,KarlssonFH,2013,SWE,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,SRR5946802,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946864,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946677,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5947079,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5935921,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950540,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950517,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946842,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946766,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5947030,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950546,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946901,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5947065,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946763,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950712,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946804,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946765,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946986,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950495,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5947062,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946635,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950542,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946633,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946893,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946634,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946813,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946734,Lloyd-PriceJL,2019,USA,disease_Crohn's,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950707,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950554,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946743,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946835,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946953,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946890,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946904,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950663,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946724,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5950709,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946710,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5946810,Lloyd-PriceJL,2019,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR5275421,LoombaR,2017,USA,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis
+Diseased_all_yes_but_Diseased_field_No,SRR5275414,LoombaR,2017,USA,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis
+Diseased_all_yes_but_Diseased_field_No,ERR5532768,McDonaldD,2018,USA,disease_Ulcerative_colitis,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413570,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR1778456,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413571,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413572,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413573,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413574,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR1778451,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR1778452,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR1778453,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413591,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413700,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,SRR413701,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413702,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR413717,QinJ,2012,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,ERR532619,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR532620,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR532621,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR532623,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528292,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528294,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis;schistosoma
+Diseased_all_yes_but_Diseased_field_No,ERR528295,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528296,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis
+Diseased_all_yes_but_Diseased_field_No,ERR528297,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528300,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528302,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528303,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528304,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis
+Diseased_all_yes_but_Diseased_field_No,ERR528306,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528307,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528309,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;wilson
+Diseased_all_yes_but_Diseased_field_No,ERR528310,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528311,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528312,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528313,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528314,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528315,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis;wilson
+Diseased_all_yes_but_Diseased_field_No,ERR528319,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis
+Diseased_all_yes_but_Diseased_field_No,ERR528321,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528322,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528324,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528326,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528327,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,ERR528328,QinN,2014,CHN,disease_cirrhosis,No,Yes,No,Yes,Unhealthy,ascites;cirrhosis;hepatitis
+Diseased_all_yes_but_Diseased_field_No,SRR12933933,RettedalAE,2021,NZL,disease_BD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR12933852,RettedalAE,2021,NZL,disease_BD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR12933835,RettedalAE,2021,NZL,disease_BD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR12933830,RettedalAE,2021,NZL,disease_BD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR12934103,RettedalAE,2021,NZL,disease_BD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR6060200,RosaBA,2018,IDN,disease_Worm-Infected,No,Yes,Yes,No,Unhealthy,STH
+Diseased_all_yes_but_Diseased_field_No,SRR6060218,RosaBA,2018,LBR,disease_Worm-Infected,No,Yes,Yes,No,Unhealthy,STH
+Diseased_all_yes_but_Diseased_field_No,SRR2912777,SankaranarayananK,2015,USA,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,SRR2912784,SankaranarayananK,2015,USA,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,SRR2912785,SankaranarayananK,2015,USA,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,SRR2912800,SankaranarayananK,2015,USA,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERS1066651,VogtmannE,2016,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS1066655,VogtmannE,2016,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS1066707,VogtmannE,2016,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS1066679,VogtmannE,2016,USA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,SRR19064475,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19065013,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19065011,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19065008,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19065007,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064739,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064735,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064733,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064731,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064727,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064726,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064724,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064723,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064472,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064470,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064469,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064466,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064461,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064456,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064996,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064994,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064993,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064986,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064988,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064984,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064983,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064979,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064974,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064722,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064721,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064712,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR19064710,WallenZD,2022,USA,disease_PD,No,Yes,No,Yes,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,ERS2637794,WirbelJ,2018,DEU,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS2637795,WirbelJ,2018,DEU,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR2726419,WirbelJ,2018,DEU,disease_CRC,No,Yes,Yes,No,Unhealthy,healthy
+Diseased_all_yes_but_Diseased_field_No,ERR2726449,WirbelJ,2018,DEU,disease_CRC,No,Yes,Yes,No,Unhealthy,healthy
+Diseased_all_yes_but_Diseased_field_No,ERR2726457,WirbelJ,2018,DEU,disease_CRC,No,Yes,Yes,No,Unhealthy,healthy
+Diseased_all_yes_but_Diseased_field_No,DRR171685,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171687,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171688,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171690,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171692,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171693,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171695,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171696,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171697,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171699,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171701,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171702,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171703,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171704,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171706,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171707,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171708,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,DRR171709,YachidaS,2019,JPN,disease_CRC,No,Yes,Yes,No,Unhealthy,
+Diseased_all_yes_but_Diseased_field_No,SRR6517771,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517772,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517769,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517770,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517775,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517776,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517773,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517774,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517777,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517778,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517781,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517782,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517779,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517780,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517787,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517788,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517768,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517767,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517766,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,SRR6517765,YeZ,2018,CHN,disease_BD,No,Yes,No,Yes,Unhealthy,BD
+Diseased_all_yes_but_Diseased_field_No,ERR1018196,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018197,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018198,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018200,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018201,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018206,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018210,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018211,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018212,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018213,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018215,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018216,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018218,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018219,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018220,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018221,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018223,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018224,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018226,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018229,YuJ,2017,CHN,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR1018230,YuJ,2017,CHN,disease_T2D; disease_CRC,No,Yes,Yes,No,Unhealthy,CRC;T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018238,YuJ,2017,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERR1018270,YuJ,2017,CHN,disease_T2D,No,Yes,Yes,No,Unhealthy,T2D
+Diseased_all_yes_but_Diseased_field_No,ERS436676,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436757,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436698,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436760,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436710,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436753,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436704,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436731,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436733,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436652,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436715,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436711,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436677,ZellerG,2014,FRA,disease_adenoma,No,Yes,Yes,No,Unhealthy,adenoma
+Diseased_all_yes_but_Diseased_field_No,ERS436683,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436712,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERS436748,ZellerG,2014,FRA,disease_CRC,No,Yes,Yes,No,Unhealthy,CRC
+Diseased_all_yes_but_Diseased_field_No,ERR589854,ZhangX,2015,CHN,disease_RA,No,Yes,No,Yes,Unhealthy,

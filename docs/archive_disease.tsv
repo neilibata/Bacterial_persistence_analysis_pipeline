@@ -1,0 +1,1358 @@
+BioSample	tag	value
+SAMN28061783	case_status	Control
+SAMN28061829	case_status	Control
+SAMN28061867	case_status	PD
+SAMN28062006	case_status	PD
+SAMN28062032	case_status	PD
+SAMN28061624	case_status	Control
+SAMN28061625	case_status	Control
+SAMN28061626	case_status	Control
+SAMN28061627	case_status	Control
+SAMN28061628	case_status	Control
+SAMN28061632	case_status	Control
+SAMN28061633	case_status	Control
+SAMN28061635	case_status	Control
+SAMN28061637	case_status	Control
+SAMN28061638	case_status	Control
+SAMN28061639	case_status	Control
+SAMN28061640	case_status	Control
+SAMN28061641	case_status	Control
+SAMN28061644	case_status	Control
+SAMN28061647	case_status	Control
+SAMN28061649	case_status	Control
+SAMN28061651	case_status	Control
+SAMN28061652	case_status	Control
+SAMN28061654	case_status	Control
+SAMN28061655	case_status	Control
+SAMN28061657	case_status	Control
+SAMN28061658	case_status	Control
+SAMN28061662	case_status	Control
+SAMN28061663	case_status	Control
+SAMN28061665	case_status	Control
+SAMN28061666	case_status	Control
+SAMN28061667	case_status	Control
+SAMN28061668	case_status	Control
+SAMN28061670	case_status	Control
+SAMN28061671	case_status	Control
+SAMN28061673	case_status	Control
+SAMN28061677	case_status	Control
+SAMN28061678	case_status	Control
+SAMN28061680	case_status	Control
+SAMN28061681	case_status	Control
+SAMN28061683	case_status	Control
+SAMN28061684	case_status	Control
+SAMN28061685	case_status	Control
+SAMN28061689	case_status	Control
+SAMN28061690	case_status	Control
+SAMN28061692	case_status	Control
+SAMN28061693	case_status	Control
+SAMN28061695	case_status	Control
+SAMN28061696	case_status	Control
+SAMN28061697	case_status	Control
+SAMN28061698	case_status	Control
+SAMN28061700	case_status	Control
+SAMN28061703	case_status	Control
+SAMN28061704	case_status	Control
+SAMN28061705	case_status	Control
+SAMN28061706	case_status	Control
+SAMN28061707	case_status	Control
+SAMN28061708	case_status	Control
+SAMN28061709	case_status	Control
+SAMN28061710	case_status	Control
+SAMN28061712	case_status	Control
+SAMN28061713	case_status	Control
+SAMN28061714	case_status	Control
+SAMN28061716	case_status	Control
+SAMN28061719	case_status	Control
+SAMN28061721	case_status	Control
+SAMN28061723	case_status	Control
+SAMN28061724	case_status	Control
+SAMN28061725	case_status	Control
+SAMN28061727	case_status	Control
+SAMN28061728	case_status	Control
+SAMN28061731	case_status	Control
+SAMN28061732	case_status	Control
+SAMN28061733	case_status	Control
+SAMN28061734	case_status	Control
+SAMN28061736	case_status	Control
+SAMN28061737	case_status	Control
+SAMN28061738	case_status	Control
+SAMN28061740	case_status	Control
+SAMN28061741	case_status	Control
+SAMN28061743	case_status	Control
+SAMN28061744	case_status	Control
+SAMN28061747	case_status	Control
+SAMN28061748	case_status	Control
+SAMN28061751	case_status	Control
+SAMN28061755	case_status	Control
+SAMN28061757	case_status	Control
+SAMN28061758	case_status	Control
+SAMN28061761	case_status	Control
+SAMN28061762	case_status	Control
+SAMN28061763	case_status	Control
+SAMN28061764	case_status	Control
+SAMN28061765	case_status	Control
+SAMN28061767	case_status	Control
+SAMN28061768	case_status	Control
+SAMN28061769	case_status	Control
+SAMN28061770	case_status	Control
+SAMN28061771	case_status	Control
+SAMN28061772	case_status	Control
+SAMN28061774	case_status	Control
+SAMN28061775	case_status	Control
+SAMN28061776	case_status	Control
+SAMN28061777	case_status	Control
+SAMN28061778	case_status	Control
+SAMN28061779	case_status	Control
+SAMN28061780	case_status	Control
+SAMN28061781	case_status	Control
+SAMN28061784	case_status	Control
+SAMN28061785	case_status	Control
+SAMN28061786	case_status	Control
+SAMN28061787	case_status	Control
+SAMN28061788	case_status	Control
+SAMN28061789	case_status	Control
+SAMN28061790	case_status	Control
+SAMN28061793	case_status	Control
+SAMN28061794	case_status	Control
+SAMN28061796	case_status	Control
+SAMN28061797	case_status	Control
+SAMN28061799	case_status	Control
+SAMN28061801	case_status	Control
+SAMN28061802	case_status	Control
+SAMN28061803	case_status	Control
+SAMN28061804	case_status	Control
+SAMN28061805	case_status	Control
+SAMN28061806	case_status	Control
+SAMN28061807	case_status	Control
+SAMN28061808	case_status	Control
+SAMN28061809	case_status	Control
+SAMN28061810	case_status	Control
+SAMN28061811	case_status	Control
+SAMN28061812	case_status	Control
+SAMN28061813	case_status	Control
+SAMN28061818	case_status	Control
+SAMN28061819	case_status	Control
+SAMN28061821	case_status	Control
+SAMN28061824	case_status	Control
+SAMN28061825	case_status	Control
+SAMN28061826	case_status	Control
+SAMN28061832	case_status	Control
+SAMN28061833	case_status	Control
+SAMN28061835	case_status	Control
+SAMN28061836	case_status	Control
+SAMN28061837	case_status	Control
+SAMN28061838	case_status	Control
+SAMN28061839	case_status	Control
+SAMN28061840	case_status	Control
+SAMN28061843	case_status	Control
+SAMN28061844	case_status	Control
+SAMN28061846	case_status	Control
+SAMN28061847	case_status	Control
+SAMN28061848	case_status	Control
+SAMN28061851	case_status	Control
+SAMN28061852	case_status	Control
+SAMN28061853	case_status	Control
+SAMN28061857	case_status	Control
+SAMN28061858	case_status	PD
+SAMN28061859	case_status	PD
+SAMN28061861	case_status	PD
+SAMN28061862	case_status	PD
+SAMN28061863	case_status	PD
+SAMN28061865	case_status	PD
+SAMN28061866	case_status	PD
+SAMN28061868	case_status	PD
+SAMN28061869	case_status	PD
+SAMN28061870	case_status	PD
+SAMN28061871	case_status	PD
+SAMN28061873	case_status	PD
+SAMN28061876	case_status	PD
+SAMN28061878	case_status	PD
+SAMN28061881	case_status	PD
+SAMN28061883	case_status	PD
+SAMN28061884	case_status	PD
+SAMN28061885	case_status	PD
+SAMN28061888	case_status	PD
+SAMN28061891	case_status	PD
+SAMN28061893	case_status	PD
+SAMN28061894	case_status	PD
+SAMN28061897	case_status	PD
+SAMN28061901	case_status	PD
+SAMN28061907	case_status	PD
+SAMN28061909	case_status	PD
+SAMN28061910	case_status	PD
+SAMN28061912	case_status	PD
+SAMN28061914	case_status	PD
+SAMN28061918	case_status	PD
+SAMN28061921	case_status	PD
+SAMN28061923	case_status	PD
+SAMN28061928	case_status	PD
+SAMN28061929	case_status	PD
+SAMN28061930	case_status	PD
+SAMN28061931	case_status	PD
+SAMN28061936	case_status	PD
+SAMN28061938	case_status	PD
+SAMN28061940	case_status	PD
+SAMN28061943	case_status	PD
+SAMN28061944	case_status	PD
+SAMN28061947	case_status	PD
+SAMN28061950	case_status	PD
+SAMN28061951	case_status	PD
+SAMN28061952	case_status	PD
+SAMN28061954	case_status	PD
+SAMN28061958	case_status	PD
+SAMN28061959	case_status	PD
+SAMN28061967	case_status	PD
+SAMN28061968	case_status	PD
+SAMN28061971	case_status	PD
+SAMN28061975	case_status	PD
+SAMN28061976	case_status	PD
+SAMN28061983	case_status	PD
+SAMN28061984	case_status	PD
+SAMN28061986	case_status	PD
+SAMN28061987	case_status	PD
+SAMN28061989	case_status	PD
+SAMN28061991	case_status	PD
+SAMN28061994	case_status	PD
+SAMN28061997	case_status	PD
+SAMN28062001	case_status	PD
+SAMN28062007	case_status	PD
+SAMN28062010	case_status	PD
+SAMN28062012	case_status	PD
+SAMN28062027	case_status	PD
+SAMN28062029	case_status	PD
+SAMN28062030	case_status	PD
+SAMN28062031	case_status	PD
+SAMN28062035	case_status	PD
+SAMN28062037	case_status	PD
+SAMN28062039	case_status	PD
+SAMN28062040	case_status	PD
+SAMN28062041	case_status	PD
+SAMN28062043	case_status	PD
+SAMN28062044	case_status	PD
+SAMN28062046	case_status	PD
+SAMN28062048	case_status	PD
+SAMN28062051	case_status	PD
+SAMN28062053	case_status	PD
+SAMN28062055	case_status	PD
+SAMN28062059	case_status	PD
+SAMN28062060	case_status	PD
+SAMN28062061	case_status	PD
+SAMN28062064	case_status	PD
+SAMN28062070	case_status	PD
+SAMN28062071	case_status	PD
+SAMN28062072	case_status	PD
+SAMN28062073	case_status	PD
+SAMN28062075	case_status	PD
+SAMN28062076	case_status	PD
+SAMN28062078	case_status	PD
+SAMN28062079	case_status	PD
+SAMN28062081	case_status	PD
+SAMN28062082	case_status	PD
+SAMN28062083	case_status	PD
+SAMN28062086	case_status	PD
+SAMN28062087	case_status	PD
+SAMN28062088	case_status	PD
+SAMN28062090	case_status	PD
+SAMN28062092	case_status	PD
+SAMN28062098	case_status	PD
+SAMN28062100	case_status	PD
+SAMN28062102	case_status	PD
+SAMN28062105	case_status	PD
+SAMN28062106	case_status	PD
+SAMN28062107	case_status	PD
+SAMN28062110	case_status	PD
+SAMN28062111	case_status	PD
+SAMN28062113	case_status	PD
+SAMN28062114	case_status	PD
+SAMN28062116	case_status	PD
+SAMN28062118	case_status	PD
+SAMN28062119	case_status	PD
+SAMN28062120	case_status	PD
+SAMN28062122	case_status	PD
+SAMN28062123	case_status	PD
+SAMN28062124	case_status	PD
+SAMN28062126	case_status	PD
+SAMN28062128	case_status	PD
+SAMN28062130	case_status	PD
+SAMN28062137	case_status	PD
+SAMN28062140	case_status	PD
+SAMN28062141	case_status	PD
+SAMN28062144	case_status	PD
+SAMN28062145	case_status	PD
+SAMN28062151	case_status	PD
+SAMN28062152	case_status	PD
+SAMN28062153	case_status	PD
+SAMN28062154	case_status	PD
+SAMN28062155	case_status	PD
+SAMN28062159	case_status	PD
+SAMN28062161	case_status	PD
+SAMN28062164	case_status	PD
+SAMN28062166	case_status	PD
+SAMN28062167	case_status	PD
+SAMN28062173	case_status	PD
+SAMN28062175	case_status	PD
+SAMN28062176	case_status	PD
+SAMN28062180	case_status	PD
+SAMN28062183	case_status	PD
+SAMN28062187	case_status	PD
+SAMN28062191	case_status	PD
+SAMN28062194	case_status	PD
+SAMN28062196	case_status	PD
+SAMN28062198	case_status	PD
+SAMN28062201	case_status	PD
+SAMN28062207	case_status	PD
+SAMN28062208	case_status	PD
+SAMN28062210	case_status	PD
+SAMN28062211	case_status	PD
+SAMN28062212	case_status	PD
+SAMN28062214	case_status	PD
+SAMN28062216	case_status	PD
+SAMN28062218	case_status	PD
+SAMN28062219	case_status	PD
+SAMN28062220	case_status	PD
+SAMN28062223	case_status	PD
+SAMN28062224	case_status	PD
+SAMN28062227	case_status	PD
+SAMN28062230	case_status	PD
+SAMN28062236	case_status	PD
+SAMN28062239	case_status	PD
+SAMN28062242	case_status	PD
+SAMN28062243	case_status	PD
+SAMN28062245	case_status	PD
+SAMN28062247	case_status	PD
+SAMN28062249	case_status	PD
+SAMN28062251	case_status	PD
+SAMN28062252	case_status	PD
+SAMN28062254	case_status	PD
+SAMN28062258	case_status	PD
+SAMN28062260	case_status	PD
+SAMN28062261	case_status	PD
+SAMN28062262	case_status	PD
+SAMN28062263	case_status	PD
+SAMN28062265	case_status	PD
+SAMN28062267	case_status	PD
+SAMN28062271	case_status	PD
+SAMN28062272	case_status	PD
+SAMN28062275	case_status	PD
+SAMN28062278	case_status	PD
+SAMN28062279	case_status	PD
+SAMN28062285	case_status	PD
+SAMN28062289	case_status	PD
+SAMN28062291	case_status	PD
+SAMN28062293	case_status	PD
+SAMN28062294	case_status	PD
+SAMN28062295	case_status	PD
+SAMN28062296	case_status	PD
+SAMN28062299	case_status	PD
+SAMN28062300	case_status	PD
+SAMN28062303	case_status	PD
+SAMN28062304	case_status	PD
+SAMN28062305	case_status	PD
+SAMN28062308	case_status	PD
+SAMN28062313	case_status	PD
+SAMN28062317	case_status	PD
+SAMN28062318	case_status	PD
+SAMN28062319	case_status	PD
+SAMN28062320	case_status	PD
+SAMN28062321	case_status	PD
+SAMN28062325	case_status	PD
+SAMN28062327	case_status	PD
+SAMN28062328	case_status	PD
+SAMN28062329	case_status	PD
+SAMN28062330	case_status	PD
+SAMN28062333	case_status	PD
+SAMN28062336	case_status	PD
+SAMN28062337	case_status	PD
+SAMN28062338	case_status	PD
+SAMN28062339	case_status	PD
+SAMN28062345	case_status	PD
+SAMN28062347	case_status	PD
+SAMN07532848	host_disease	Crohn's disease
+SAMN07509934	host_disease	Crohn's disease
+SAMN07521568	host_disease	Crohn's disease
+SAMN07509560	host_disease	Crohn's disease
+SAMN07521570	host_disease	Crohn's disease
+SAMN07509584	host_disease	Crohn's disease
+SAMN07521572	host_disease	Crohn's disease
+SAMN07521571	host_disease	Crohn's disease
+SAMN07509551	host_disease	Crohn's disease
+SAMN07509568	host_disease	Crohn's disease
+SAMN07509705	host_disease	Crohn's disease
+SAMN07509621	host_disease	Crohn's disease
+SAMN07509553	host_disease	Crohn's disease
+SAMN07509563	host_disease	Crohn's disease
+SAMN07509657	host_disease	Crohn's disease
+SAMN07509637	host_disease	Crohn's disease
+SAMN07509559	host_disease	Crohn's disease
+SAMN07509661	host_disease	Crohn's disease
+SAMN07509550	host_disease	Crohn's disease
+SAMN07509628	host_disease	Crohn's disease
+SAMN07509585	host_disease	Crohn's disease
+SAMN07509564	host_disease	Crohn's disease
+SAMN07509614	host_disease	Crohn's disease
+SAMN07509663	host_disease	Ulcerative colitis
+SAMN07509794	host_disease	Ulcerative colitis
+SAMN07509747	host_disease	Ulcerative colitis
+SAMN07509682	host_disease	Ulcerative colitis
+SAMN07509692	host_disease	Ulcerative colitis
+SAMN07509619	host_disease	Ulcerative colitis
+SAMN07509577	host_disease	Ulcerative colitis
+SAMN07509566	host_disease	Ulcerative colitis
+SAMN07509606	host_disease	Ulcerative colitis
+SAMN07509638	host_disease	Ulcerative colitis
+SAMN07509593	host_disease	Ulcerative colitis
+SAMN07509779	host_disease	Crohn's disease
+SAMN07509659	host_disease	Crohn's disease
+SAMN07509578	host_disease	Crohn's disease
+SAMN07509709	host_disease	Crohn's disease
+SAMN07509569	host_disease	Crohn's disease
+SAMN07509733	host_disease	Crohn's disease
+SAMN07509596	host_disease	Crohn's disease
+SAMN07509639	host_disease	Crohn's disease
+SAMN07521895	host_disease	Crohn's disease
+SAMN07521796	host_disease	Crohn's disease
+SAMN07509607	host_disease	Crohn's disease
+SAMN07509635	host_disease	Crohn's disease
+SAMN07521870	host_disease	Crohn's disease
+SAMN07509652	host_disease	Crohn's disease
+SAMN07509627	host_disease	Crohn's disease
+SAMN07509599	host_disease	Crohn's disease
+SAMN07521829	host_disease	Crohn's disease
+SAMN07521701	host_disease	Crohn's disease
+SAMN07521756	host_disease	Crohn's disease
+SAMN07521671	host_disease	Crohn's disease
+SAMN07521772	host_disease	Crohn's disease
+SAMN07509767	host_disease	Crohn's disease
+SAMN07509630	host_disease	Crohn's disease
+SAMN07509651	host_disease	Crohn's disease
+SAMN07509712	host_disease	Crohn's disease
+SAMN07521827	host_disease	Crohn's disease
+SAMN07521737	host_disease	Crohn's disease
+SAMN07521676	host_disease	Crohn's disease
+SAMN07521681	host_disease	Crohn's disease
+SAMN07521858	host_disease	Crohn's disease
+SAMN07509783	host_disease	Crohn's disease
+SAMN07509575	host_disease	Crohn's disease
+SAMN07521872	host_disease	Crohn's disease
+SAMN07532648	host_disease	ulcerative colitis
+SAMN07521894	host_disease	ulcerative colitis
+SAMN07532691	host_disease	ulcerative colitis
+SAMN07510008	host_disease	Ulcerative colitis
+SAMN07509822	host_disease	Ulcerative colitis
+SAMN07521467	host_disease	ulcerative colitis
+SAMN07509904	host_disease	Ulcerative colitis
+SAMN07532907	host_disease	ulcerative colitis
+SAMN07532720	host_disease	ulcerative colitis
+SAMN07509874	host_disease	Ulcerative colitis
+SAMN07532889	host_disease	ulcerative colitis
+SAMN07521490	host_disease	ulcerative colitis
+SAMN07521549	host_disease	ulcerative colitis
+SAMN07532799	host_disease	ulcerative colitis
+SAMN07510019	host_disease	Ulcerative colitis
+SAMN07521842	host_disease	ulcerative colitis
+SAMN07532813	host_disease	Crohn's disease
+SAMN07532851	host_disease	Crohn's disease
+SAMN07532770	host_disease	Crohn's disease
+SAMN07532840	host_disease	Crohn's disease
+SAMN07532884	host_disease	Crohn's disease
+SAMN07521508	host_disease	Crohn's disease
+SAMN07509893	host_disease	Crohn's disease
+SAMN07532903	host_disease	Crohn's disease
+SAMN07521446	host_disease	Crohn's disease
+SAMN07532826	host_disease	Crohn's disease
+SAMN07510020	host_disease	Crohn's disease
+SAMN07532890	host_disease	Crohn's disease
+SAMN07532864	host_disease	Crohn's disease
+SAMN07549042	host_disease	Crohn's disease
+SAMN07532681	host_disease	Crohn's disease
+SAMN07532879	host_disease	Crohn's disease
+SAMN07509983	host_disease	Ulcerative colitis
+SAMN07521475	host_disease	ulcerative colitis
+SAMN07509898	host_disease	Ulcerative colitis
+SAMN07510011	host_disease	Ulcerative colitis
+SAMN07509967	host_disease	Ulcerative colitis
+SAMN07509950	host_disease	Ulcerative colitis
+SAMN07521505	host_disease	ulcerative colitis
+SAMN07549043	host_disease	ulcerative colitis
+SAMN07521488	host_disease	ulcerative colitis
+SAMN07509938	host_disease	Ulcerative colitis
+SAMN07521514	host_disease	ulcerative colitis
+SAMN07521536	host_disease	ulcerative colitis
+SAMN07509996	host_disease	Ulcerative colitis
+SAMN07521450	host_disease	ulcerative colitis
+SAMN07509916	host_disease	Ulcerative colitis
+SAMN07510029	host_disease	Ulcerative colitis
+SAMN07521541	host_disease	ulcerative colitis
+SAMN07532892	host_disease	ulcerative colitis
+SAMN07521469	host_disease	ulcerative colitis
+SAMN07509921	host_disease	Ulcerative colitis
+SAMN07509935	host_disease	Ulcerative colitis
+SAMN07521540	host_disease	ulcerative colitis
+SAMN07521602	host_disease	ulcerative colitis
+SAMN07549048	host_disease	ulcerative colitis
+SAMN07521556	host_disease	ulcerative colitis
+SAMN07521460	host_disease	ulcerative colitis
+SAMN07521548	host_disease	ulcerative colitis
+SAMN07532847	host_disease	ulcerative colitis
+SAMN07521525	host_disease	ulcerative colitis
+SAMN07532923	host_disease	ulcerative colitis
+SAMN07521606	host_disease	ulcerative colitis
+SAMN07521598	host_disease	ulcerative colitis
+SAMN07532881	host_disease	ulcerative colitis
+SAMN07532895	host_disease	ulcerative colitis
+SAMN07532951	host_disease	ulcerative colitis
+SAMN07532774	host_disease	ulcerative colitis
+SAMN07521583	host_disease	ulcerative colitis
+SAMN07532947	host_disease	ulcerative colitis
+SAMN07532930	host_disease	ulcerative colitis
+SAMN07521504	host_disease	ulcerative colitis
+SAMN07532932	host_disease	ulcerative colitis
+SAMN07532861	host_disease	ulcerative colitis
+SAMN07521523	host_disease	Crohn's disease
+SAMN07521593	host_disease	Crohn's disease
+SAMN07532900	host_disease	Crohn's disease
+SAMN07521587	host_disease	Crohn's disease
+SAMN07532929	host_disease	Crohn's disease
+SAMN07521461	host_disease	Crohn's disease
+SAMN07532926	host_disease	Crohn's disease
+SAMN07510025	host_disease	Crohn's disease
+SAMN07532886	host_disease	Crohn's disease
+SAMN07521612	host_disease	Crohn's disease
+SAMN07521507	host_disease	Crohn's disease
+SAMN07521574	host_disease	Crohn's disease
+SAMN07532823	host_disease	Crohn's disease
+SAMN07521509	host_disease	ulcerative colitis
+SAMN07521575	host_disease	ulcerative colitis
+SAMN07532866	host_disease	ulcerative colitis
+SAMN07532894	host_disease	ulcerative colitis
+SAMN07521609	host_disease	ulcerative colitis
+SAMN07532937	host_disease	ulcerative colitis
+SAMN07521595	host_disease	ulcerative colitis
+SAMN07509703	host_disease	Crohn's disease
+SAMN07521717	host_disease	Crohn's disease
+SAMN07521670	host_disease	Crohn's disease
+SAMN07509554	host_disease	Crohn's disease
+SAMN07509616	host_disease	Crohn's disease
+SAMN07521678	host_disease	Crohn's disease
+SAMN07521704	host_disease	Crohn's disease
+SAMN07509648	host_disease	Crohn's disease
+SAMN07509572	host_disease	Crohn's disease
+SAMN07521664	host_disease	Crohn's disease
+SAMN07509699	host_disease	Crohn's disease
+SAMN07521688	host_disease	Crohn's disease
+SAMN07521740	host_disease	Crohn's disease
+SAMN07509552	host_disease	Ulcerative colitis
+SAMN07521694	host_disease	ulcerative colitis
+SAMN07521776	host_disease	ulcerative colitis
+SAMN07509588	host_disease	Ulcerative colitis
+SAMN07509590	host_disease	Ulcerative colitis
+SAMN07509804	host_disease	Ulcerative colitis
+SAMN07509615	host_disease	Ulcerative colitis
+SAMN07509745	host_disease	Ulcerative colitis
+SAMN07509562	host_disease	Ulcerative colitis
+SAMN07509672	host_disease	Ulcerative colitis
+SAMN07509603	host_disease	Ulcerative colitis
+SAMN07521849	host_disease	ulcerative colitis
+SAMN07509574	host_disease	Ulcerative colitis
+SAMN07509685	host_disease	Ulcerative colitis
+SAMN07509763	host_disease	Ulcerative colitis
+SAMN07509634	host_disease	Ulcerative colitis
+SAMN07509653	host_disease	Ulcerative colitis
+SAMN07509782	host_disease	Ulcerative colitis
+SAMN07549035	host_disease	ulcerative colitis
+SAMN07549033	host_disease	ulcerative colitis
+SAMN07509726	host_disease	Ulcerative colitis
+SAMN07509700	host_disease	Ulcerative colitis
+SAMN07521875	host_disease	ulcerative colitis
+SAMN07509598	host_disease	Ulcerative colitis
+SAMN07521697	host_disease	ulcerative colitis
+SAMN07509755	host_disease	Ulcerative colitis
+SAMN07509776	host_disease	Ulcerative colitis
+SAMN07509676	host_disease	Ulcerative colitis
+SAMN07509565	host_disease	Ulcerative colitis
+SAMN07509689	host_disease	Ulcerative colitis
+SAMN07521758	host_disease	ulcerative colitis
+SAMN07509555	host_disease	Ulcerative colitis
+SAMN07521762	host_disease	ulcerative colitis
+SAMN07509605	host_disease	Ulcerative colitis
+SAMN07521703	host_disease	ulcerative colitis
+SAMN07509686	host_disease	Ulcerative colitis
+SAMN07509813	host_disease	Ulcerative colitis
+SAMN07521806	host_disease	ulcerative colitis
+SAMN07521779	host_disease	ulcerative colitis
+SAMN07509725	host_disease	Crohn's disease
+SAMN07509826	host_disease	Crohn's disease
+SAMN07509800	host_disease	Crohn's disease
+SAMN07509591	host_disease	Crohn's disease
+SAMN07509573	host_disease	Crohn's disease
+SAMN07509764	host_disease	Crohn's disease
+SAMN07509892	host_disease	Crohn's disease
+SAMN07521848	host_disease	Crohn's disease
+SAMN07521727	host_disease	Crohn's disease
+SAMN07521861	host_disease	Crohn's disease
+SAMN07509835	host_disease	Crohn's disease
+SAMN07509882	host_disease	Crohn's disease
+SAMN07521759	host_disease	Crohn's disease
+SAMN07521669	host_disease	Crohn's disease
+SAMN07521833	host_disease	Crohn's disease
+SAMN07509622	host_disease	Crohn's disease
+SAMN07509924	host_disease	Crohn's disease
+SAMN07509567	host_disease	Crohn's disease
+SAMN07521898	host_disease	ulcerative colitis
+SAMN07509876	host_disease	Ulcerative colitis
+SAMN07521804	host_disease	ulcerative colitis
+SAMN07509914	host_disease	Ulcerative colitis
+SAMN07549052	host_disease	ulcerative colitis
+SAMN07509734	host_disease	Ulcerative colitis
+SAMN07549032	host_disease	ulcerative colitis
+SAMN07509536	host_disease	Ulcerative colitis
+SAMN07521792	host_disease	Crohn's disease
+SAMN07509789	host_disease	Crohn's disease
+SAMN07509604	host_disease	Crohn's disease
+SAMN07509612	host_disease	Crohn's disease
+SAMN07532649	host_disease	Crohn's disease
+SAMN07521915	host_disease	Crohn's disease
+SAMN07509656	host_disease	Crohn's disease
+SAMN07521692	host_disease	Crohn's disease
+SAMN07509956	host_disease	Crohn's disease
+SAMN07509623	host_disease	Crohn's disease
+SAMN07509897	host_disease	Crohn's disease
+SAMN07532660	host_disease	Crohn's disease
+SAMN07509711	host_disease	Crohn's disease
+SAMN07509840	host_disease	Ulcerative colitis
+SAMN07509790	host_disease	Ulcerative colitis
+SAMN07509546	host_disease	Ulcerative colitis
+SAMN07509538	host_disease	Ulcerative colitis
+SAMN07521693	host_disease	ulcerative colitis
+SAMN07509905	host_disease	Ulcerative colitis
+SAMN07532668	host_disease	ulcerative colitis
+SAMN07521876	host_disease	ulcerative colitis
+SAMN07509647	host_disease	Ulcerative colitis
+SAMN07509719	host_disease	Ulcerative colitis
+SAMN07521728	host_disease	ulcerative colitis
+SAMN07521748	host_disease	ulcerative colitis
+SAMN07521851	host_disease	ulcerative colitis
+SAMN07521765	host_disease	ulcerative colitis
+SAMN07521715	host_disease	ulcerative colitis
+SAMN07532682	host_disease	ulcerative colitis
+SAMN07532727	host_disease	ulcerative colitis
+SAMN07521778	host_disease	ulcerative colitis
+SAMN07509798	host_disease	Ulcerative colitis
+SAMN07521627	host_disease	ulcerative colitis
+SAMN07509931	host_disease	Ulcerative colitis
+SAMN07532716	host_disease	ulcerative colitis
+SAMN07521803	host_disease	ulcerative colitis
+SAMN07521907	host_disease	ulcerative colitis
+SAMN07532738	host_disease	ulcerative colitis
+SAMN07509640	host_disease	Ulcerative colitis
+SAMN07521705	host_disease	ulcerative colitis
+SAMN07521931	host_disease	ulcerative colitis
+SAMN07509633	host_disease	Crohn's disease
+SAMN07521716	host_disease	Crohn's disease
+SAMN07509729	host_disease	Crohn's disease
+SAMN07509768	host_disease	Crohn's disease
+SAMN07509704	host_disease	Crohn's disease
+SAMN07509671	host_disease	Crohn's disease
+SAMN07509654	host_disease	Crohn's disease
+SAMN07509749	host_disease	Crohn's disease
+SAMN07521856	host_disease	Crohn's disease
+SAMN07532664	host_disease	Crohn's disease
+SAMN07521788	host_disease	Crohn's disease
+SAMN07521754	host_disease	Crohn's disease
+SAMN07532721	host_disease	Crohn's disease
+SAMN07521773	host_disease	Crohn's disease
+SAMN07532642	host_disease	Crohn's disease
+SAMN07532731	host_disease	Crohn's disease
+SAMN07521843	host_disease	Crohn's disease
+SAMN07521729	host_disease	Crohn's disease
+SAMN07532743	host_disease	Crohn's disease
+SAMN07532724	host_disease	Crohn's disease
+SAMN07549040	host_disease	Crohn's disease
+SAMN07521780	host_disease	Crohn's disease
+SAMN07521850	host_disease	Crohn's disease
+SAMN07521741	host_disease	Crohn's disease
+SAMN07532809	host_disease	Crohn's disease
+SAMN07521766	host_disease	Crohn's disease
+SAMN07521821	host_disease	Crohn's disease
+SAMN07532751	host_disease	Crohn's disease
+SAMN07532654	host_disease	Crohn's disease
+SAMN07521749	host_disease	Crohn's disease
+SAMN07521893	host_disease	Crohn's disease
+SAMN07521757	host_disease	Crohn's disease
+SAMN07532732	host_disease	Crohn's disease
+SAMN07532805	host_disease	Crohn's disease
+SAMN07521863	host_disease	Crohn's disease
+SAMN07521916	host_disease	Crohn's disease
+SAMN07532787	host_disease	Crohn's disease
+SAMN07521790	host_disease	Crohn's disease
+SAMN07532819	host_disease	Crohn's disease
+SAMN07549053	host_disease	Crohn's disease
+SAMN07532830	host_disease	Crohn's disease
+SAMN07532646	host_disease	Crohn's disease
+SAMN07532763	host_disease	Crohn's disease
+SAMN07532776	host_disease	Crohn's disease
+SAMN07521787	host_disease	Crohn's disease
+SAMN07521764	host_disease	Crohn's disease
+SAMN07532678	host_disease	Crohn's disease
+SAMN07532704	host_disease	Crohn's disease
+SAMN07532769	host_disease	Crohn's disease
+SAMN07532803	host_disease	Crohn's disease
+SAMN07532786	host_disease	Crohn's disease
+SAMN07521892	host_disease	Crohn's disease
+SAMN07521830	host_disease	Crohn's disease
+SAMN07521867	host_disease	Crohn's disease
+SAMN07521923	host_disease	Crohn's disease
+SAMN07532709	host_disease	Crohn's disease
+SAMN07532663	host_disease	ulcerative colitis
+SAMN07521888	host_disease	ulcerative colitis
+SAMN07521622	host_disease	ulcerative colitis
+SAMN07521634	host_disease	ulcerative colitis
+SAMN07521647	host_disease	ulcerative colitis
+SAMN07532806	host_disease	ulcerative colitis
+SAMN07521625	host_disease	ulcerative colitis
+SAMN07521791	host_disease	ulcerative colitis
+SAMN07532705	host_disease	Crohn's disease
+SAMN07532758	host_disease	Crohn's disease
+SAMN07532795	host_disease	Crohn's disease
+SAMN07521793	host_disease	Crohn's disease
+SAMN07532665	host_disease	Crohn's disease
+SAMN07521860	host_disease	Crohn's disease
+SAMN07521887	host_disease	Crohn's disease
+SAMN07532734	host_disease	Crohn's disease
+SAMN07532816	host_disease	Crohn's disease
+SAMN07521911	host_disease	Crohn's disease
+SAMN07532810	host_disease	Crohn's disease
+SAMN07532887	host_disease	Crohn's disease
+SAMN07521881	host_disease	Crohn's disease
+SAMN07532846	host_disease	ulcerative colitis
+SAMN07532888	host_disease	ulcerative colitis
+SAMN07521631	host_disease	ulcerative colitis
+SAMN07532832	host_disease	ulcerative colitis
+SAMN07521658	host_disease	ulcerative colitis
+SAMN07532901	host_disease	ulcerative colitis
+SAMN07532676	host_disease	ulcerative colitis
+SAMN07521655	host_disease	ulcerative colitis
+SAMN07532905	host_disease	ulcerative colitis
+SAMN07532885	host_disease	ulcerative colitis
+SAMN07532897	host_disease	ulcerative colitis
+SAMN07532856	host_disease	ulcerative colitis
+SAMN07532717	host_disease	ulcerative colitis
+SAMN07532698	host_disease	ulcerative colitis
+SAMN07532868	host_disease	Crohn's disease
+SAMN07532838	host_disease	Crohn's disease
+SAMN07532940	host_disease	Crohn's disease
+SAMN07532914	host_disease	Crohn's disease
+SAMN07532750	host_disease	Crohn's disease
+SAMN07532919	host_disease	Crohn's disease
+SAMN07532934	host_disease	Crohn's disease
+SAMN07532765	host_disease	Crohn's disease
+SAMN07532880	host_disease	Crohn's disease
+SAMN07532808	host_disease	Crohn's disease
+SAMN07532927	host_disease	Crohn's disease
+SAMN07532782	host_disease	Crohn's disease
+SAMN07532854	host_disease	ulcerative colitis
+SAMN07532871	host_disease	ulcerative colitis
+SAMN07532933	host_disease	ulcerative colitis
+SAMN07532844	host_disease	ulcerative colitis
+SAMN07532922	host_disease	ulcerative colitis
+SAMN07532788	host_disease	ulcerative colitis
+SAMN07532944	host_disease	ulcerative colitis
+SAMN07532841	host_disease	ulcerative colitis
+SAMN07532915	host_disease	ulcerative colitis
+SAMN07532772	host_disease	ulcerative colitis
+SAMN07521668	host_disease	Crohn's disease
+SAMN07521662	host_disease	Crohn's disease
+SAMN07521696	host_disease	Crohn's disease
+SAMN07521720	host_disease	Crohn's disease
+SAMN07521708	host_disease	Crohn's disease
+SAMN07509594	host_disease	Crohn's disease
+SAMN07509771	host_disease	Crohn's disease
+SAMN07509662	host_disease	Crohn's disease
+SAMN07509675	host_disease	Crohn's disease
+SAMN07509833	host_disease	Crohn's disease
+SAMN07521760	host_disease	Crohn's disease
+SAMN07509751	host_disease	Crohn's disease
+SAMN07521616	host_disease	Crohn's disease
+SAMN07509772	host_disease	Crohn's disease
+SAMN07509754	host_disease	Crohn's disease
+SAMN07509787	host_disease	Crohn's disease
+SAMN07509743	host_disease	Crohn's disease
+SAMN07509580	host_disease	Crohn's disease
+SAMN07509807	host_disease	Crohn's disease
+SAMN07509819	host_disease	Crohn's disease
+SAMN07509832	host_disease	Crohn's disease
+SAMN07549037	host_disease	Crohn's disease
+SAMN07509732	host_disease	Crohn's disease
+SAMN07509844	host_disease	Crohn's disease
+SAMN07521735	host_disease	Crohn's disease
+SAMN07521672	host_disease	Crohn's disease
+SAMN07509674	host_disease	Crohn's disease
+SAMN07509624	host_disease	Crohn's disease
+SAMN07509586	host_disease	Crohn's disease
+SAMN07521667	host_disease	Crohn's disease
+SAMN07509740	host_disease	Crohn's disease
+SAMN07521837	host_disease	Crohn's disease
+SAMN07521797	host_disease	Crohn's disease
+SAMN07521724	host_disease	Crohn's disease
+SAMN07521731	host_disease	Crohn's disease
+SAMN07521828	host_disease	Crohn's disease
+SAMN07521817	host_disease	ulcerative colitis
+SAMN07509815	host_disease	Ulcerative colitis
+SAMN07509631	host_disease	Ulcerative colitis
+SAMN07509542	host_disease	Ulcerative colitis
+SAMN07521834	host_disease	ulcerative colitis
+SAMN07509906	host_disease	Ulcerative colitis
+SAMN07509696	host_disease	Ulcerative colitis
+SAMN07509610	host_disease	Ulcerative colitis
+SAMN07509730	host_disease	Ulcerative colitis
+SAMN07509842	host_disease	Crohn's disease
+SAMN07549030	host_disease	Crohn's disease
+SAMN07521897	host_disease	Crohn's disease
+SAMN07509609	host_disease	Crohn's disease
+SAMN07509681	host_disease	Crohn's disease
+SAMN07509759	host_disease	Crohn's disease
+SAMN07509742	host_disease	Crohn's disease
+SAMN07509581	host_disease	Crohn's disease
+SAMN07521684	host_disease	Crohn's disease
+SAMN07509959	host_disease	Crohn's disease
+SAMN07521751	host_disease	Crohn's disease
+SAMN07509873	host_disease	Crohn's disease
+SAMN07509570	host_disease	Crohn's disease
+SAMN07509592	host_disease	Crohn's disease
+SAMN07509761	host_disease	Crohn's disease
+SAMN07521767	host_disease	Crohn's disease
+SAMN07509618	host_disease	Crohn's disease
+SAMN07532699	host_disease	Crohn's disease
+SAMN07521677	host_disease	Crohn's disease
+SAMN07521800	host_disease	Crohn's disease
+SAMN07532669	host_disease	Crohn's disease
+SAMN07521909	host_disease	Crohn's disease
+SAMN07521820	host_disease	Crohn's disease
+SAMN07521750	host_disease	Crohn's disease
+SAMN07521874	host_disease	Crohn's disease
+SAMN07521854	host_disease	Crohn's disease
+SAMN07521690	host_disease	Crohn's disease
+SAMN07521934	host_disease	Crohn's disease
+SAMN07509895	host_disease	Crohn's disease
+SAMN07509879	host_disease	Crohn's disease
+SAMN07509848	host_disease	Crohn's disease
+SAMN07509677	host_disease	Crohn's disease
+SAMN07521890	host_disease	Crohn's disease
+SAMN07509693	host_disease	Crohn's disease
+SAMN07509781	host_disease	Ulcerative colitis
+SAMN07509688	host_disease	Ulcerative colitis
+SAMN07521726	host_disease	ulcerative colitis
+SAMN07509802	host_disease	Ulcerative colitis
+SAMN07509970	host_disease	Ulcerative colitis
+SAMN07509760	host_disease	Ulcerative colitis
+SAMN07509985	host_disease	Ulcerative colitis
+SAMN07509993	host_disease	Ulcerative colitis
+SAMN07521913	host_disease	ulcerative colitis
+SAMN07509947	host_disease	Ulcerative colitis
+SAMN07509910	host_disease	Ulcerative colitis
+SAMN07521619	host_disease	ulcerative colitis
+SAMN07509643	host_disease	Ulcerative colitis
+SAMN07521900	host_disease	ulcerative colitis
+SAMN07532696	host_disease	ulcerative colitis
+SAMN07509864	host_disease	Ulcerative colitis
+SAMN07532687	host_disease	ulcerative colitis
+SAMN07521742	host_disease	ulcerative colitis
+SAMN07521761	host_disease	ulcerative colitis
+SAMN07521844	host_disease	ulcerative colitis
+SAMN07509629	host_disease	Ulcerative colitis
+SAMN07509792	host_disease	Crohn's disease
+SAMN07509673	host_disease	Crohn's disease
+SAMN07521835	host_disease	Crohn's disease
+SAMN07509961	host_disease	Crohn's disease
+SAMN07509758	host_disease	Crohn's disease
+SAMN07509838	host_disease	Crohn's disease
+SAMN07509968	host_disease	Crohn's disease
+SAMN07509843	host_disease	Crohn's disease
+SAMN07509691	host_disease	Crohn's disease
+SAMN07521618	host_disease	Crohn's disease
+SAMN07509723	host_disease	Crohn's disease
+SAMN07509823	host_disease	Crohn's disease
+SAMN07509706	host_disease	Crohn's disease
+SAMN07509943	host_disease	Crohn's disease
+SAMN07509986	host_disease	Crohn's disease
+SAMN07509658	host_disease	Crohn's disease
+SAMN07509913	host_disease	Crohn's disease
+SAMN07509888	host_disease	Crohn's disease
+SAMN07509928	host_disease	Crohn's disease
+SAMN07509736	host_disease	Crohn's disease
+SAMN07521798	host_disease	Crohn's disease
+SAMN07532644	host_disease	Crohn's disease
+SAMN07509791	host_disease	Ulcerative colitis
+SAMN07532659	host_disease	ulcerative colitis
+SAMN07521646	host_disease	ulcerative colitis
+SAMN07509900	host_disease	Ulcerative colitis
+SAMN07509816	host_disease	Ulcerative colitis
+SAMN07532726	host_disease	ulcerative colitis
+SAMN07521891	host_disease	ulcerative colitis
+SAMN07509971	host_disease	Ulcerative colitis
+SAMN07521649	host_disease	ulcerative colitis
+SAMN07521468	host_disease	ulcerative colitis
+SAMN07510016	host_disease	Crohn's disease
+SAMN07532781	host_disease	Crohn's disease
+SAMN07509960	host_disease	Crohn's disease
+SAMN07509885	host_disease	Crohn's disease
+SAMN07509834	host_disease	Crohn's disease
+SAMN07532791	host_disease	Crohn's disease
+SAMN07509992	host_disease	Crohn's disease
+SAMN07521810	host_disease	Crohn's disease
+SAMN07521794	host_disease	Crohn's disease
+SAMN07509867	host_disease	Crohn's disease
+SAMN07532835	host_disease	Crohn's disease
+SAMN07509962	host_disease	Crohn's disease
+SAMN07521458	host_disease	Crohn's disease
+SAMN07532757	host_disease	Crohn's disease
+SAMN07532807	host_disease	Crohn's disease
+SAMN07510004	host_disease	Crohn's disease
+SAMN07532845	host_disease	Crohn's disease
+SAMN07532836	host_disease	Crohn's disease
+SAMN07521489	host_disease	Crohn's disease
+SAMN07510007	host_disease	Crohn's disease
+SAMN07532760	host_disease	Crohn's disease
+SAMN07509817	host_disease	Crohn's disease
+SAMN07509830	host_disease	Crohn's disease
+SAMN07509942	host_disease	Crohn's disease
+SAMN07521498	host_disease	Crohn's disease
+SAMN07509849	host_disease	Crohn's disease
+SAMN07521940	host_disease	Crohn's disease
+SAMN07532661	host_disease	Crohn's disease
+SAMN07532779	host_disease	Crohn's disease
+SAMN07532853	host_disease	Crohn's disease
+SAMN07532843	host_disease	Crohn's disease
+SAMN07521624	host_disease	Crohn's disease
+SAMN07509957	host_disease	Crohn's disease
+SAMN07532662	host_disease	Crohn's disease
+SAMN07532834	host_disease	Crohn's disease
+SAMN07521515	host_disease	Crohn's disease
+SAMN07532641	host_disease	Crohn's disease
+SAMN07532706	host_disease	Crohn's disease
+SAMN07509902	host_disease	Crohn's disease
+SAMN07509995	host_disease	Crohn's disease
+SAMN07521511	host_disease	ulcerative colitis
+SAMN07521482	host_disease	ulcerative colitis
+SAMN07509861	host_disease	Ulcerative colitis
+SAMN07509884	host_disease	Ulcerative colitis
+SAMN07509899	host_disease	Ulcerative colitis
+SAMN07532852	host_disease	ulcerative colitis
+SAMN07509979	host_disease	Ulcerative colitis
+SAMN07521524	host_disease	ulcerative colitis
+SAMN07509999	host_disease	Ulcerative colitis
+SAMN07510015	host_disease	Ulcerative colitis
+SAMN07509922	host_disease	Ulcerative colitis
+SAMN07509940	host_disease	Ulcerative colitis
+SAMN07521462	host_disease	ulcerative colitis
+SAMN07509954	host_disease	Ulcerative colitis
+SAMN07521472	host_disease	ulcerative colitis
+SAMN07532804	host_disease	ulcerative colitis
+SAMN07532753	host_disease	Crohn's disease
+SAMN07509980	host_disease	Crohn's disease
+SAMN07510021	host_disease	Crohn's disease
+SAMN07509930	host_disease	Crohn's disease
+SAMN07521657	host_disease	Crohn's disease
+SAMN07532906	host_disease	Crohn's disease
+SAMN07521495	host_disease	Crohn's disease
+SAMN07532711	host_disease	Crohn's disease
+SAMN07532891	host_disease	Crohn's disease
+SAMN07521451	host_disease	Crohn's disease
+SAMN07532859	host_disease	Crohn's disease
+SAMN07532908	host_disease	Crohn's disease
+SAMN07521529	host_disease	Crohn's disease
+SAMN07521553	host_disease	Crohn's disease
+SAMN07521547	host_disease	Crohn's disease
+SAMN07532759	host_disease	Crohn's disease
+SAMN07521466	host_disease	Crohn's disease
+SAMN07532850	host_disease	Crohn's disease
+SAMN07509977	host_disease	Ulcerative colitis
+SAMN07532918	host_disease	ulcerative colitis
+SAMN07521519	host_disease	ulcerative colitis
+SAMN07532910	host_disease	ulcerative colitis
+SAMN07521443	host_disease	ulcerative colitis
+SAMN07532873	host_disease	ulcerative colitis
+SAMN07510005	host_disease	Ulcerative colitis
+SAMN07521591	host_disease	ulcerative colitis
+SAMN07521477	host_disease	ulcerative colitis
+SAMN07521578	host_disease	ulcerative colitis
+SAMN07521588	host_disease	ulcerative colitis
+SAMN07521592	host_disease	ulcerative colitis
+SAMN07521444	host_disease	ulcerative colitis
+SAMN07532896	host_disease	ulcerative colitis
+SAMN07532872	host_disease	Crohn's disease
+SAMN07521581	host_disease	Crohn's disease
+SAMN07521659	host_disease	Crohn's disease
+SAMN07532817	host_disease	Crohn's disease
+SAMN07521492	host_disease	Crohn's disease
+SAMN07521660	host_disease	Crohn's disease
+SAMN07532935	host_disease	Crohn's disease
+SAMN07521454	host_disease	Crohn's disease
+SAMN07521564	host_disease	Crohn's disease
+SAMN07532939	host_disease	Crohn's disease
+SAMN07521611	host_disease	ulcerative colitis
+SAMN07521479	host_disease	ulcerative colitis
+SAMN07521493	host_disease	ulcerative colitis
+SAMN07549050	host_disease	ulcerative colitis
+SAMN07521596	host_disease	ulcerative colitis
+SAMN07521562	host_disease	ulcerative colitis
+SAMN07521476	host_disease	ulcerative colitis
+SAMN07532789	host_disease	ulcerative colitis
+SAMN07549049	host_disease	ulcerative colitis
+SAMN07521560	host_disease	ulcerative colitis
+SAMN07532925	host_disease	ulcerative colitis
+SAMN07521533	host_disease	ulcerative colitis
+SAMN07521723	host_disease	Crohn's disease
+SAMN07509707	host_disease	Crohn's disease
+SAMN07509602	host_disease	Crohn's disease
+SAMN07509650	host_disease	Crohn's disease
+SAMN07521702	host_disease	Crohn's disease
+SAMN07521666	host_disease	Crohn's disease
+SAMN07521755	host_disease	ulcerative colitis
+SAMN07521775	host_disease	ulcerative colitis
+SAMN07509788	host_disease	Ulcerative colitis
+SAMN07509557	host_disease	Ulcerative colitis
+SAMN07521689	host_disease	ulcerative colitis
+SAMN07509576	host_disease	Ulcerative colitis
+SAMN07521730	host_disease	ulcerative colitis
+SAMN07509655	host_disease	Ulcerative colitis
+SAMN07521683	host_disease	Crohn's disease
+SAMN07521777	host_disease	Crohn's disease
+SAMN07521927	host_disease	Crohn's disease
+SAMN07521908	host_disease	Crohn's disease
+SAMN07509825	host_disease	Crohn's disease
+SAMN07509750	host_disease	Crohn's disease
+SAMN07509636	host_disease	Crohn's disease
+SAMN07521706	host_disease	Crohn's disease
+SAMN07509625	host_disease	Crohn's disease
+SAMN07509814	host_disease	Crohn's disease
+SAMN07509660	host_disease	Crohn's disease
+SAMN07521709	host_disease	Crohn's disease
+SAMN07509713	host_disease	Crohn's disease
+SAMN07509613	host_disease	Crohn's disease
+SAMN07509773	host_disease	Crohn's disease
+SAMN07521921	host_disease	Crohn's disease
+SAMN07521819	host_disease	Crohn's disease
+SAMN07509837	host_disease	Crohn's disease
+SAMN07532690	host_disease	Crohn's disease
+SAMN07521753	host_disease	Crohn's disease
+SAMN07521783	host_disease	Crohn's disease
+SAMN07521906	host_disease	Crohn's disease
+SAMN07521738	host_disease	Crohn's disease
+SAMN07509668	host_disease	Crohn's disease
+SAMN07509871	host_disease	Crohn's disease
+SAMN07509784	host_disease	Crohn's disease
+SAMN07521695	host_disease	Crohn's disease
+SAMN07510030	host_disease	Crohn's disease
+SAMN07521871	host_disease	Crohn's disease
+SAMN07549034	host_disease	Crohn's disease
+SAMN07509702	host_disease	Crohn's disease
+SAMN07510031	host_disease	Crohn's disease
+SAMN07509534	host_disease	Crohn's disease
+SAMN07549056	host_disease	Crohn's disease
+SAMN07509965	host_disease	Crohn's disease
+SAMN07521743	host_disease	Crohn's disease
+SAMN07521770	host_disease	Crohn's disease
+SAMN07509539	host_disease	Crohn's disease
+SAMN07549031	host_disease	Crohn's disease
+SAMN07521464	host_disease	Crohn's disease
+SAMN07509919	host_disease	Crohn's disease
+SAMN07509937	host_disease	Crohn's disease
+SAMN07509952	host_disease	Crohn's disease
+SAMN07521455	host_disease	Crohn's disease
+SAMN07532675	host_disease	Crohn's disease
+SAMN07509974	host_disease	Crohn's disease
+SAMN07510026	host_disease	Crohn's disease
+SAMN07521786	host_disease	Crohn's disease
+SAMN07509710	host_disease	Crohn's disease
+SAMN07510013	host_disease	Crohn's disease
+SAMN07509987	host_disease	Crohn's disease
+SAMN07532949	host_disease	Crohn's disease
+SAMN07521471	host_disease	Crohn's disease
+SAMN07509780	host_disease	Crohn's disease
+SAMN07509721	host_disease	Crohn's disease
+SAMN07521826	host_disease	ulcerative colitis
+SAMN07509863	host_disease	Ulcerative colitis
+SAMN07521845	host_disease	ulcerative colitis
+SAMN07509896	host_disease	Ulcerative colitis
+SAMN07509998	host_disease	Ulcerative colitis
+SAMN07521885	host_disease	ulcerative colitis
+SAMN07509720	host_disease	Ulcerative colitis
+SAMN07521919	host_disease	ulcerative colitis
+SAMN07509748	host_disease	Ulcerative colitis
+SAMN07521785	host_disease	ulcerative colitis
+SAMN07521801	host_disease	ulcerative colitis
+SAMN07532673	host_disease	ulcerative colitis
+SAMN07509540	host_disease	Ulcerative colitis
+SAMN07532728	host_disease	ulcerative colitis
+SAMN07532761	host_disease	ulcerative colitis
+SAMN07521929	host_disease	ulcerative colitis
+SAMN07509949	host_disease	Ulcerative colitis
+SAMN07510018	host_disease	Ulcerative colitis
+SAMN07532683	host_disease	ulcerative colitis
+SAMN07509868	host_disease	Ulcerative colitis
+SAMN07532798	host_disease	ulcerative colitis
+SAMN07532811	host_disease	ulcerative colitis
+SAMN07521847	host_disease	ulcerative colitis
+SAMN07532666	host_disease	ulcerative colitis
+SAMN07509841	host_disease	Ulcerative colitis
+SAMN07521645	host_disease	ulcerative colitis
+SAMN07521802	host_disease	ulcerative colitis
+SAMN07509746	host_disease	Ulcerative colitis
+SAMN07521781	host_disease	ulcerative colitis
+SAMN07509796	host_disease	Ulcerative colitis
+SAMN07509917	host_disease	Crohn's disease
+SAMN07509878	host_disease	Crohn's disease
+SAMN07521527	host_disease	Crohn's disease
+SAMN07532818	host_disease	Crohn's disease
+SAMN07521642	host_disease	Crohn's disease
+SAMN07510009	host_disease	Crohn's disease
+SAMN07532746	host_disease	Crohn's disease
+SAMN07532831	host_disease	Crohn's disease
+SAMN07521486	host_disease	Crohn's disease
+SAMN07532792	host_disease	Crohn's disease
+SAMN07510017	host_disease	Crohn's disease
+SAMN07532839	host_disease	Crohn's disease
+SAMN07532855	host_disease	Crohn's disease
+SAMN07521517	host_disease	Crohn's disease
+SAMN07521899	host_disease	Crohn's disease
+SAMN07521653	host_disease	ulcerative colitis
+SAMN07521904	host_disease	ulcerative colitis
+SAMN07521629	host_disease	ulcerative colitis
+SAMN07521926	host_disease	ulcerative colitis
+SAMN07521457	host_disease	Crohn's disease
+SAMN07521516	host_disease	Crohn's disease
+SAMN07521465	host_disease	Crohn's disease
+SAMN07510012	host_disease	Crohn's disease
+SAMN07532904	host_disease	Crohn's disease
+SAMN07532911	host_disease	Crohn's disease
+SAMN07521654	host_disease	Crohn's disease
+SAMN07521567	host_disease	Crohn's disease
+SAMN07521637	host_disease	Crohn's disease
+SAMN07532828	host_disease	Crohn's disease
+SAMN07521530	host_disease	Crohn's disease
+SAMN07521535	host_disease	ulcerative colitis
+SAMN07521563	host_disease	ulcerative colitis
+SAMN07532942	host_disease	ulcerative colitis
+SAMN07521499	host_disease	ulcerative colitis
+SAMN07521566	host_disease	ulcerative colitis
+SAMN07521652	host_disease	ulcerative colitis
+SAMN07532815	host_disease	ulcerative colitis
+SAMN07521487	host_disease	ulcerative colitis
+SAMN07521594	host_disease	ulcerative colitis
+SAMN07532829	host_disease	ulcerative colitis
+SAMN07521600	host_disease	ulcerative colitis
+SAMN07521584	host_disease	Crohn's disease
+SAMN07521599	host_disease	Crohn's disease
+SAMN07521501	host_disease	Crohn's disease
+SAMN07521478	host_disease	Crohn's disease
+SAMN07532946	host_disease	ulcerative colitis
+SAMN07532931	host_disease	ulcerative colitis
+SAMN07521481	host_disease	ulcerative colitis
+SAMN07521573	host_disease	ulcerative colitis
+SAMN07521552	host_disease	ulcerative colitis
+SAMN07521590	host_disease	ulcerative colitis
+SAMN07521526	host_disease	ulcerative colitis
+SAMN07532875	host_disease	ulcerative colitis
+SAMN07521558	host_disease	ulcerative colitis
+SAMN07532948	host_disease	ulcerative colitis
+SAMN07521610	host_disease	ulcerative colitis
+SAMN07521496	host_disease	ulcerative colitis
+SAMEA5858622	disease_state	MS
+SAMEA5858637	disease_state	MS
+SAMEA5858645	disease_state	MS
+SAMEA5858649	disease_state	MS
+SAMEA5858650	disease_state	MS
+SAMEA5858654	disease_state	Control
+SAMEA5858655	disease_state	Control
+SAMEA5858656	disease_state	Control
+SAMEA5858660	disease_state	Control
+SAMEA5858662	disease_state	Control
+SAMEA5858667	disease_state	Control
+SAMEA5858669	disease_state	Control
+SAMEA5858671	disease_state	Control
+SAMEA5858673	disease_state	Control
+SAMEA5858676	disease_state	Control
+SAMEA5858684	disease_state	Control
+SAMEA5858685	disease_state	Control
+SAMEA5858686	disease_state	Control
+SAMEA5858707	disease_state	MS
+SAMEA5858712	disease_state	MS
+SAMEA5858713	disease_state	MS
+SAMEA5858717	disease_state	MS
+SAMEA5858719	disease_state	MS
+SAMEA5858720	disease_state	MS
+SAMEA5858722	disease_state	MS
+SAMEA5858726	disease_state	MS
+SAMEA5858728	disease_state	MS
+SAMEA5858729	disease_state	MS
+SAMEA5858736	disease_state	MS
+SAMEA5858742	disease_state	Control
+SAMEA5858747	disease_state	Control
+SAMEA5858753	disease_state	Control
+SAMEA5858759	disease_state	Control
+SAMEA5858760	disease_state	Control
+SAMEA5858763	disease_state	Control
+SAMEA14509605	disease_state	Control
+SAMEA5858622	disease_course	CIS
+SAMEA5858637	disease_course	RRMS
+SAMEA5858645	disease_course	RRMS
+SAMEA5858649	disease_course	RRMS
+SAMEA5858650	disease_course	RRMS
+SAMEA5858654	disease_course	Control
+SAMEA5858655	disease_course	Control
+SAMEA5858656	disease_course	Control
+SAMEA5858660	disease_course	Control
+SAMEA5858662	disease_course	Control
+SAMEA5858667	disease_course	Control
+SAMEA5858669	disease_course	Control
+SAMEA5858671	disease_course	Control
+SAMEA5858673	disease_course	Control
+SAMEA5858676	disease_course	Control
+SAMEA5858684	disease_course	Control
+SAMEA5858685	disease_course	Control
+SAMEA5858686	disease_course	Control
+SAMEA5858707	disease_course	RRMS
+SAMEA5858712	disease_course	PPMS
+SAMEA5858713	disease_course	RRMS
+SAMEA5858717	disease_course	RRMS
+SAMEA5858719	disease_course	RRMS
+SAMEA5858720	disease_course	RRMS
+SAMEA5858722	disease_course	RRMS
+SAMEA5858726	disease_course	PPMS
+SAMEA5858728	disease_course	RRMS
+SAMEA5858729	disease_course	RRMS
+SAMEA5858736	disease_course	RRMS
+SAMEA5858742	disease_course	Control
+SAMEA5858747	disease_course	Control
+SAMEA5858753	disease_course	Control
+SAMEA5858759	disease_course	Control
+SAMEA5858760	disease_course	Control
+SAMEA5858763	disease_course	Control
+SAMEA14509605	disease_course	Control
+SAMN20566174	host_disease	unaffected
+SAMN20566175	host_disease	unaffected
+SAMN20566188	host_disease	unaffected
+SAMN20566262	host_disease	unaffected
+SAMN20566264	host_disease	unaffected
+SAMN20566282	host_disease	unaffected
+SAMN20566104	host_disease	unaffected
+SAMN20566105	host_disease	unaffected
+SAMN20566106	host_disease	unaffected
+SAMN20566107	host_disease	unaffected
+SAMN20566108	host_disease	unaffected
+SAMN20566109	host_disease	unaffected
+SAMN20566110	host_disease	unaffected
+SAMN20566111	host_disease	unaffected
+SAMN20566112	host_disease	unaffected
+SAMN20566113	host_disease	unaffected
+SAMN20566114	host_disease	unaffected
+SAMN20566115	host_disease	unaffected
+SAMN20566116	host_disease	unaffected
+SAMN20566117	host_disease	unaffected
+SAMN20566118	host_disease	unaffected
+SAMN20566119	host_disease	unaffected
+SAMN20566120	host_disease	unaffected
+SAMN20566121	host_disease	unaffected
+SAMN20566122	host_disease	unaffected
+SAMN20566123	host_disease	unaffected
+SAMN20566124	host_disease	unaffected
+SAMN20566125	host_disease	unaffected
+SAMN20566126	host_disease	unaffected
+SAMN20566127	host_disease	unaffected
+SAMN20566128	host_disease	unaffected
+SAMN20566129	host_disease	unaffected
+SAMN20566130	host_disease	unaffected
+SAMN20566131	host_disease	unaffected
+SAMN20566132	host_disease	unaffected
+SAMN20566133	host_disease	unaffected
+SAMN20566134	host_disease	konzo
+SAMN20566135	host_disease	konzo
+SAMN20566136	host_disease	konzo
+SAMN20566137	host_disease	konzo
+SAMN20566138	host_disease	konzo
+SAMN20566139	host_disease	konzo
+SAMN20566140	host_disease	konzo
+SAMN20566141	host_disease	konzo
+SAMN20566142	host_disease	konzo
+SAMN20566143	host_disease	konzo
+SAMN20566144	host_disease	konzo
+SAMN20566145	host_disease	konzo
+SAMN20566146	host_disease	konzo
+SAMN20566147	host_disease	konzo
+SAMN20566148	host_disease	konzo
+SAMN20566149	host_disease	konzo
+SAMN20566150	host_disease	konzo
+SAMN20566151	host_disease	konzo
+SAMN20566152	host_disease	konzo
+SAMN20566153	host_disease	konzo
+SAMN20566154	host_disease	konzo
+SAMN20566155	host_disease	konzo
+SAMN20566156	host_disease	konzo
+SAMN20566157	host_disease	konzo
+SAMN20566158	host_disease	konzo
+SAMN20566159	host_disease	konzo
+SAMN20566160	host_disease	konzo
+SAMN20566161	host_disease	konzo
+SAMN20566162	host_disease	konzo
+SAMN20566163	host_disease	konzo
+SAMN20566164	host_disease	unaffected
+SAMN20566165	host_disease	unaffected
+SAMN20566166	host_disease	unaffected
+SAMN20566167	host_disease	unaffected
+SAMN20566168	host_disease	unaffected
+SAMN20566169	host_disease	unaffected
+SAMN20566170	host_disease	unaffected
+SAMN20566171	host_disease	unaffected
+SAMN20566172	host_disease	unaffected
+SAMN20566173	host_disease	unaffected
+SAMN20566176	host_disease	unaffected
+SAMN20566177	host_disease	unaffected
+SAMN20566178	host_disease	unaffected
+SAMN20566179	host_disease	unaffected
+SAMN20566180	host_disease	unaffected
+SAMN20566181	host_disease	unaffected
+SAMN20566182	host_disease	unaffected
+SAMN20566183	host_disease	unaffected
+SAMN20566184	host_disease	unaffected
+SAMN20566185	host_disease	unaffected
+SAMN20566186	host_disease	unaffected
+SAMN20566187	host_disease	unaffected
+SAMN20566189	host_disease	unaffected
+SAMN20566190	host_disease	unaffected
+SAMN20566191	host_disease	unaffected
+SAMN20566192	host_disease	unaffected
+SAMN20566193	host_disease	unaffected
+SAMN20566194	host_disease	konzo
+SAMN20566195	host_disease	konzo
+SAMN20566196	host_disease	konzo
+SAMN20566197	host_disease	konzo
+SAMN20566198	host_disease	konzo
+SAMN20566199	host_disease	konzo
+SAMN20566200	host_disease	konzo
+SAMN20566201	host_disease	konzo
+SAMN20566202	host_disease	konzo
+SAMN20566203	host_disease	konzo
+SAMN20566204	host_disease	konzo
+SAMN20566205	host_disease	konzo
+SAMN20566206	host_disease	konzo
+SAMN20566207	host_disease	konzo
+SAMN20566208	host_disease	konzo
+SAMN20566209	host_disease	konzo
+SAMN20566210	host_disease	konzo
+SAMN20566211	host_disease	konzo
+SAMN20566212	host_disease	konzo
+SAMN20566213	host_disease	konzo
+SAMN20566214	host_disease	konzo
+SAMN20566215	host_disease	konzo
+SAMN20566216	host_disease	konzo
+SAMN20566217	host_disease	konzo
+SAMN20566218	host_disease	konzo
+SAMN20566219	host_disease	konzo
+SAMN20566220	host_disease	konzo
+SAMEA4110905	disease	normal
+SAMEA4268260	disease	normal
+SAMEA4267712	disease	normal
+SAMEA4268242	disease	normal
+SAMEA4268265	disease	normal
